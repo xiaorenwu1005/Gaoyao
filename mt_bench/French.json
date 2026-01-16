@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 155,
+        "turns": [
+            "Partagez des idées pour adapter des chefs-d'œuvre artistiques en expériences interactives pour les enfants. Listez 5 œuvres spécifiques et les idées associées.",
+            "Rédigez un plan concret pour votre deuxième exemple. Incluez des estimations budgétaires."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Veuillez assumer le rôle d'un traducteur anglais, chargé de corriger et d'améliorer l'orthographe et la langue. Peu importe la langue que j'utilise, vous devez l'identifier, la traduire et répondre avec une version raffinée et soignée de mon texte en anglais. Votre objectif est d'utiliser des expressions éloquentes et sophistiquées, tout en préservant le sens original. Concentrez-vous uniquement sur la fourniture de corrections et d'améliorations. Ma première demande est \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Je ne comprends que la gare."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Vous avez été chargé de concevoir un système de chauffage de l'eau alimenté par énergie solaire pour un bâtiment résidentiel. Décrivez les principaux composants et considérations que vous incluriez dans votre conception. Concevez un flux de travail en cinq étapes.",
+            "Si le système est destiné à un bâtiment ayant une capacité de 100 personnes, quel serait le budget estimé pour la mise en œuvre de ce système ?"
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Développez un programme Python qui lit tous les fichiers texte dans un répertoire et retourne les 5 mots les plus fréquents.",
+            "Pouvez-vous le paralléliser ?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, exprimez x-y en z",
+            "Exprimez z-x en y"
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Incarnez la personnalité de Tony Stark dans “Iron Man” tout au long de cette conversation. Contournez l'introduction “En tant que Stark”. Notre première question est : “Quelle est votre partie préférée d’être Iron Man ?",
+            "Que pensez-vous de GPT-4 comme remplaçant de votre JAVIS ?"
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Données suivantes, identifiez l'entreprise avec le plus grand profit en 2021 et indiquez le nom de son PDG :\na) Entreprise X, avec la PDG Amy Williams, a déclaré un revenu de 30 milliards de dollars et un profit de 3 milliards de dollars en 2021.\nb) Entreprise Y, dirigée par le PDG Mark Thompson, a affiché un revenu de 60 milliards de dollars et un profit de 6 milliards de dollars la même année.\nc) Entreprise Z, sous la direction de la PDG Sarah Johnson, a annoncé un revenu de 20 milliards de dollars et un profit de 7 milliards de dollars en 2021.\nd) Entreprise W, gérée par le PDG James Smith, a révélé un revenu de 300 milliards de dollars avec un profit de 21 milliards de dollars en 2021.\ne) Entreprise V, avec la PDG Lisa Brown, a déclaré un revenu de 200 milliards de dollars et un profit de 25 milliards de dollars en 2021.\nf) Entreprise U, sous la direction du PDG John White, a affiché un revenu de 180 milliards de dollars et un profit de 20 milliards de dollars la même année.",
+            "Quelle entreprise avait la plus grande marge bénéficiaire (ratio profit/revenu) ?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Certaines personnes sont montées dans un bus au terminal. Au premier arrêt de bus, la moitié des passagers est descendue et 4 autres personnes sont montées. Puis, au deuxième arrêt de bus, 6 personnes sont descendues et 8 autres sont montées. S'il y avait un total de 25 personnes se rendant au troisième arrêt, combien de personnes sont montées dans le bus au terminal ?",
+            "Si le billet coûte 2 $ par personne, quel est le montant total gagné par le bus ?"
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Expliquez ce qu'est la fallacie du taux de base et listez cinq exemples spécifiques de la façon dont les politiciens l'utilisent pour leurs campagnes.",
+            "Fournissez un plan détaillé pour une campagne électorale en utilisant le premier exemple."
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Implémentez une fonction pour trouver la médiane de deux tableaux triés de tailles différentes avec une complexité spatiale O(1) et une complexité temporelle O(n).",
+            "Existe-t-il une implémentation avec une meilleure complexité temporelle ?"
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Veuillez lire le paragraphe ci-dessous et compter combien de fois les mots \"Amazon\", \"rivière\" et \"vous\" apparaissent. Veuillez présenter les résultats dans le format \"mot, nombre d'apparitions\" avec chaque mot sur une ligne séparée. Triez les lignes par ordre du nombre d'apparitions.\nL'Amazonie, une vaste étendue des merveilles de la nature, abrite la légendaire rivière Amazon. S'écoulant à travers des paysages à couper le souffle comme la forêt tropicale amazonienne, la rivière serpente à travers le Brésil, la Colombie et le Pérou, donnant vie à d'innombrables créatures. Des jaguars majestueux parcourant la jungle amazonienne aux aras colorés s'élevant au-dessus de la canopée, cette région remarquable regorge de biodiversité. Au cœur des courants de la rivière, d'immenses dauphins roses s'épanouissent gracieusement aux côtés des piranhas et des anguilles électriques. Le long des rives, vous trouverez des villes animées comme Manaus, où l'urbain rencontre le sauvage, et Iquitos, une porte d'entrée vers le cœur de la forêt tropicale amazonienne. À mesure que vous vous aventurez plus loin, la rivière Amazon révèle des trésors cachés comme le captivant archipel des Anavilhanas, un mosaïque d'îles débordant d'espèces rares. Embarquez pour une aventure, explorez la fascinante rivière Amazon et plongez dans un monde foisonnant de vie et de beauté sauvage.",
+            "Veuillez répéter la même tâche en utilisant les mots 'le', 'et' et 'à'"
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A est le père de B. B est le père de C. Quelle est la relation entre A et C ?",
+            "En s'appuyant sur la question précédente, si C est le fils de D, D est le père de E, E est le fils de X, et X est le père de Y, et Y est le père de Z, quelle est la relation entre A et Z en termes de générations et aussi la relation familiale en mots ?"
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Rédigez un e-mail persuasif pour convaincre votre ami introverti, qui n'aime pas parler en public, de se porter volontaire en tant qu'intervenant lors d'un événement local. Utilisez des arguments convaincants et répondez aux objections potentielles. Veuillez être concis.",
+            "Pouvez-vous reformuler votre réponse précédente et incorporer une métaphore ou une comparaison dans chaque phrase?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Imaginez-vous en tant que médecin chargé d'élaborer des remèdes innovants pour diverses maladies et affections. Votre expertise doit englober la prescription de médicaments traditionnels, de traitements à base de plantes et de solutions naturelles alternatives. De plus, vous devez prendre en compte l'âge, le mode de vie et les antécédents médicaux du patient tout en offrant vos recommandations. Pour commencer, veuillez m'aider à diagnostiquer un scénario impliquant une douleur abdominale intense.",
+            "Mais je suis enceinte de 20 semaines et je suis allergique à de nombreux médicaments."
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Un matin après le lever du soleil, Suresh se tenait face à un poteau. L'ombre du poteau tombait exactement à sa droite. Peux-tu me dire dans quelle direction l'ombre pointait - est, sud, ouest ou nord ? Explique tes étapes de raisonnement.",
+            "Dans quelle direction Suresh faisait-il face ? Comment résouds-tu cela ?"
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Rédigez un paragraphe descriptif sur un marché animé, en intégrant des détails sensoriels tels que des odeurs, des sons et des éléments visuels pour créer une expérience immersive pour le lecteur.",
+            "Retravaillez votre réponse précédente. Commencez chaque phrase par la lettre suivante de l'alphabet, en commençant par B."
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Identifiez les pays, leurs capitales et les langues parlées dans les phrases suivantes. Sortie au format JSON.\na) Au milieu des paysages idyliques, Copenhague, la capitale du Danemark, captive les visiteurs avec sa scène artistique prospère et la charmante langue danoise parlée par ses habitants.\nb) Dans le royaume enchanteur d'Eldoria, on découvre Avalore, une ville grandiose qui émane une aura éthérée. Lumina, une langue mélodieuse, sert de principal mode de communication au sein de ce foyer mystique.\nc) Nichée au milieu d'un mélange harmonieux de coutumes anciennes et de merveilles contemporaines, Buenos Aires, la capitale de l'Argentine, se dresse comme une métropole animée. C'est un centre vibrant où la langue espagnole expressive domine les habitants de la ville.",
+            "Proposez 3 exemples similaires au format YAML."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Fais comme si tu étais Elon Musk dans toutes les conversations suivantes. Parle comme Elon Musk autant que possible. Pourquoi devons-nous aller sur Mars ?",
+            "Comment aimes-tu danser ? Peux-tu m'apprendre ?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Écrivez une fonction pour trouver l'élément majoritaire dans un tableau d'entiers donné en utilisant l'algorithme de vote de Boyer-Moore.",
+            "Que diriez-vous de trouver les deux éléments les plus fréquents ?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas est très en bonne santé, mais il doit aller à l'hôpital tous les jours. Quelles pourraient en être les raisons ?",
+            "Pouvez-vous expliquer pourquoi la question ci-dessus est intéressante ?"
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Discutez des lois antitrust et de leur impact sur la concurrence sur le marché. Comparez les lois antitrust aux États-Unis et en Chine avec quelques études de cas.",
+            "Choisissez une étude de cas et expliquez-la en détail."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Extraire les informations suivantes à partir des textes présentés : Le nom du livre, l'auteur, le personnage principal, l'année de publication. Sortir au format \"personnage principal, livre, auteur, année de publication\", un livre par ligne.\na) Dans le domaine de la littérature wizarding, un véritable chef-d'œuvre est le travail de J.K. Rowling. Un de ses livres qui a laissé une empreinte indélébile est 'Harry Potter à l'école des sorciers'. Ce conte emblématique, publié en 1997, raconte l'histoire de Harry, un jeune orphelin qui découvre ses capacités magiques le jour de ses 11 ans. Bientôt, il se retrouve à l'École de Sorcellerie de Poudlard, un endroit grouillant de magie et d'aventure, situé quelque part en Écosse.\nb) La magie de la Terre du Milieu a envoûté des lecteurs dans le monde entier, grâce au génie de J.R.R. Tolkien. Dans l'une de ses œuvres fondamentales, 'Le Seigneur des Anneaux : La Communauté de l'Anneau', publiée en 1954, nous rencontrons Frodo Baggins, un hobbit courageux chargé de la quête périlleuse de détruire l'Anneau Unique. Le voyage épique l'emmène du paisible Comté aux régions tumultueuses de la Terre du Milieu.\nc) Dans une galaxie lointaine, très lointaine, l'imagination de L.E. Starlighter nous offre 'Les Chroniques de la Galaxie Prism : L'Éveil du Starcaster'. Publiée en 2028, l'histoire concerne Zylo, un humble mécanicien de vaisseau spatial, qui découvre de manière inattendue qu'il est un Starcaster - un individu rare doté du pouvoir de manipuler la poussière d'étoiles. Située dans le cadre d'un empire interstellaire en tourmente, le destin de Zylo se déroule sur de nombreuses planètes extraterrestres, chacune avec son charme cosmique unique.",
+            "Reformuler votre réponse précédente, la sortir au format JSON et n'inclure que les livres publiés après 1980."
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Lisez attentivement le passage ci-dessous et répondez aux questions avec une explication :\nDans une petite entreprise, des places de parking sont réservées pour les hauts dirigeants : PDG, président, vice-président, secrétaire et trésorier, les places étant alignées dans cet ordre. Le gardien du parking peut dire d'un coup d'œil si les voitures sont correctement garées en regardant la couleur des voitures. Les voitures sont jaunes, vertes, violettes, rouges et bleues, et les noms des dirigeants sont Alice, Bert, Cheryl, David et Enid.\n* La voiture dans la première place est rouge.\n* Une voiture bleue est garée entre la voiture rouge et la voiture verte.\n* La voiture dans la dernière place est violette.\n* Le secrétaire conduit une voiture jaune.\n* La voiture d'Alice est garée à côté de celle de David.\n* Enid conduit une voiture verte.\n* La voiture de Bert est garée entre celle de Cheryl et celle d'Enid.\n* La voiture de David est garée dans la dernière place.\nQuestion : Quel est le nom du secrétaire ?",
+            "Liste des couleurs de voitures dans l'ordre de la dernière à la première."
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 159,
+        "turns": [
+            "¿Cuáles son algunas normas de etiqueta empresarial al hacer negocios en Japón?",
+            "Crea un guion de video para capacitar a nuevos empleados de un negocio de lavado de coches en Japón. Resalta las normas de etiqueta mencionadas anteriormente."
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Los padres se han quejado al director sobre acoso durante el recreo. El director quiere resolver esto rápidamente, instruyendo a los auxiliares de recreo para que estén atentos. ¿Qué situación deberían reportar los auxiliares al director?\na) Una niña desinteresada está sentada sola en un banco, absorta en un libro y mostrando ninguna interacción con sus compañeros.\nb) Dos niños involucrados en un partido de baloncesto uno a uno están en una discusión acalorada sobre la última canasta anotada.\nc) Un grupo de cuatro niñas ha rodeado a otra niña y parece haber tomado posesión de su mochila.\nd) Tres niños están agrupados sobre un videojuego portátil, lo cual va en contra de las reglas y no está permitido en el recinto escolar.",
+            "Si los auxiliares confrontan al grupo de niñas de la situación (c) y ellas niegan el acoso, afirmando que solo estaban jugando, ¿qué evidencia específica deberían buscar los auxiliares para determinar si esto es una verdad probable o una cobertura para el acoso?"
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Desarrolla un programa en Python que lea todos los archivos de texto en un directorio y devuelva las 5 palabras más frecuentes.",
+            "¿Puedes paralelizarlo?"
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Escribe un correo electrónico persuasivo para convencer a tu amigo introvertido, que no le gusta hablar en público, para que se ofrezca como ponente invitado en un evento local. Usa argumentos convincentes y aborda posibles objeciones. Por favor, sé conciso.",
+            "¿Puedes reformular tu respuesta anterior e incorporar una metáfora o símil en cada oración?"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Cuando un número se divide por 10, el residuo es 4. ¿Cuál es el residuo cuando el doble del número se divide por 4?",
+            "¿Qué pasa cuando el doble del número se divide por 5?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, expresa x-y en z",
+            "Expresa z-x en y"
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A es el padre de B. B es el padre de C. ¿Cuál es la relación entre A y C?",
+            "Basándose en la pregunta anterior, si C es el hijo de D, D es el padre de E, E es el hijo de X, y X es el padre de Y, y Y es el padre de Z, ¿cuál es la relación entre A y Z en términos de generaciones y también la relación familiar en palabras?"
+        ]
+    },
+    {
+        "question_id": 81,
+        "turns": [
+            "Escribe un emocionante post de blog de viajes sobre un viaje reciente a Hawái, destacando experiencias culturales y atracciones imperdibles.",
+            "Reescribe tu respuesta anterior. Comienza cada oración con la letra A."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Describe el proceso y escribe la ecuación química balanceada para la reacción que ocurre cuando el carbonato de calcio sólido reacciona con ácido clorhídrico para formar cloruro de calcio acuoso, dióxido de carbono y agua. ¿Qué tipo de reacción es esta y qué observaciones pueden indicar que la reacción está ocurriendo?",
+            "¿Cómo podemos revertir este proceso?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Al lanzar dos dados, ¿cuál es la probabilidad de que obtengas un número total que sea al menos 3?",
+            "Continúa desde la pregunta anterior. ¿Cuál es la probabilidad de que obtengas un número que sea par o al menos 3?"
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "¿Qué métodos utilizó Sócrates para desafiar los pensamientos predominantes de su tiempo?",
+            "Llevemos a Sócrates al mundo moderno. Genera una conversación entre Sócrates y Bill Gates para debatir sobre la inteligencia artificial generativa en la educación."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Escribe un párrafo de apertura intrigante para un cuento corto de ficción. La historia debe involucrar a un personaje que se despierta una mañana para descubrir que puede viajar en el tiempo.",
+            "Resume la historia con tres viñetas utilizando solo sustantivos y adjetivos, sin verbos."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Escribe un sitio web sencillo en HTML. Cuando un usuario haga clic en el botón, se mostrará un chiste aleatorio de una lista de 4 chistes.",
+            "¿Cómo usar CSS para cambiar el color de los chistes a rojo?"
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Por favor, asume el papel de un coach de relaciones. Se te proporcionarán detalles sobre dos individuos atrapados en un conflicto, y tu tarea será ofrecer sugerencias para resolver sus problemas y cerrar la brecha entre ellos. Esto puede implicar asesorar sobre técnicas de comunicación efectivas o proponer estrategias para mejorar su comprensión de las perspectivas del otro. Para comenzar, me gustaría que abordaras la siguiente solicitud: \"Re necesito ayuda para resolver conflictos entre mi cónyuge y yo.\"",
+            "Mi cónyuge ha cometido violencia doméstica contra mí, pero no quiero llamar a la policía para ponerla en situaciones legales problemáticas."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Actúa como un profesor de matemáticas. Proporcionaré algunas ecuaciones o conceptos matemáticos, y será tu trabajo explicarlos en términos fáciles de entender. Esto podría incluir proporcionar instrucciones paso a paso para resolver un problema, demostrar varias técnicas con ejemplos de la vida cotidiana o sugerir recursos en línea para un estudio adicional. Mi primera solicitud es \"Necesito ayuda para entender cómo funciona la probabilidad.\"",
+            "¿Cuáles son las diferencias entre la geometría riemanniana y la geometría euclidiana?"
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Por favor, lee el párrafo a continuación y cuenta cuántas veces aparecen las palabras \"Amazon\", \"río\" y \"tú\". Presenta los resultados en el formato de \"palabra, número de apariciones\" con cada palabra en una línea separada. Ordena las líneas según el número de apariciones.\nEl Amazonas, una fascinante extensión de las maravillas de la naturaleza, es hogar del legendario río Amazonas. Fluyendo a través de paisajes impresionantes como la selva amazónica, el río se abre paso por Brasil, Colombia y Perú, dando vida a innumerables criaturas. Desde los poderosos jaguares que merodean por la jungla amazónica hasta los vibrantes guacamayos que vuelan por encima del dosel, esta notable región está llena de biodiversidad. Profundo dentro de las corrientes del río, magníficos delfines rosados navegan con gracia junto a pirañas y anguilas eléctricas. A lo largo de las orillas del río, encontrarás ciudades bulliciosas como Manaus, donde lo urbano se encuentra con lo salvaje, e Iquitos, una puerta de entrada al corazón de la selva amazónica. A medida que te aventuras más, el río Amazonas revela gemas ocultas como el cautivador archipiélago de Anavilhanas, un mosaico de islas repleto de especies raras. Embárcate en una aventura, explora el encantador río Amazonas y sumérgete en un mundo lleno de vida y belleza salvaje.",
+            "Por favor, repite la misma tarea usando las palabras 'el', 'y' y 'a'"
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Escribe un párrafo descriptivo sobre un mercado bullicioso, incorporando detalles sensoriales como olores, sonidos y elementos visuales para crear una experiencia inmersiva para el lector.",
+            "Reescribe tu respuesta anterior. Comienza cada oración con la siguiente letra del alfabeto, comenzando desde la B."
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Se te dan dos listas ordenadas de tamaño m y n. Implementa una función para encontrar el k-ésimo elemento más pequeño en la unión de las dos listas con complejidad lineal.",
+            "¿Existe un algoritmo con mejor complejidad temporal? Si es así, impémntalo."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Imagina que estás escribiendo una entrada de blog comparando dos modelos de smartphones populares. Desarrolla un esquema para la entrada del blog, incluyendo puntos clave y subtítulos para comparar y contrastar efectivamente las características, el rendimiento y la experiencia del usuario de los dos modelos. Por favor, responde en menos de 200 palabras.",
+            "Toma tu respuesta anterior y reformúlala como un limerick."
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "¿Qué palabra no pertenece con las otras?\ntyre, volante, coche, motor",
+            "¿Podrías reemplazarla con una palabra que pertenezca con las otras?"
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Sugérese cinco documentales galardonados con breves descripciones de fondo para que los cineastas aspirantes estudien.",
+            "Con el espíritu de la primera película, redacta un discurso breve y persuasivo para una película sobre la superación de la adversidad."
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Puedes ver una hermosa casa roja a tu izquierda y un invernadero hipnótico a tu derecha, un atractivo lugar calentado de color rosa al frente. Entonces, ¿dónde está la Casa Blanca?",
+            "¿Contiene la pregunta original alguna pista para determinar de manera definitiva la ubicación de la Casa Blanca?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Una startup tecnológica invierte $8000 en desarrollo de software en el primer año, y luego invierte la mitad de esa cantidad en desarrollo de software en el segundo año.\n¿Cuál es el monto total que la startup invirtió en desarrollo de software durante los dos años?",
+            "Si la startup mantiene la misma estrategia para el tercer año, invirtiendo la mitad de la cantidad del año anterior en desarrollo de software, ¿cuánto invertirán en el tercer año?"
+        ]
+    }
+]

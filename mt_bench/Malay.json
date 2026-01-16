@@ -1,0 +1,169 @@
+[
+    {
+        "question_id": 110,
+        "turns": [
+            "Ibu bapa telah mengadu kepada pengetua mengenai buli semasa rehat. Pengetua ingin menyelesaikan ini dengan cepat, mengarahkan pembantu rehat untuk berwaspada. Situasi manakah yang perlu dilaporkan oleh pembantu kepada pengetua?\na) Seorang gadis yang tidak terlibat sedang duduk sendirian di atas bangku, asyik dengan buku dan menunjukkan tiada interaksi dengan rakan sebaya.\nb) Dua budak lelaki yang terlibat dalam permainan bola keranjang satu lawan satu terlibat dalam pertikaian hangat mengenai basket terakhir yang dijaringkan.\nc) Sekumpulan empat gadis telah mengepung seorang gadis lain dan kelihatan telah mengambil alih beg galasnya.\nd) Tiga budak lelaki berkumpul di sekeliling permainan video genggam, yang bertentangan dengan peraturan dan tidak dibenarkan di kawasan sekolah.",
+            "Jika pembantu menghadapi kumpulan gadis dari situasi (c) dan mereka menafikan buli, menyatakan bahawa mereka hanya sedang bermain permainan, apa bukti khusus yang perlu dicari oleh pembantu untuk menentukan sama ada ini adalah kebenaran yang mungkin atau penutup bagi buli?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David mempunyai tiga orang adik perempuan. Setiap seorang daripada mereka mempunyai seorang adik lelaki. Berapa ramai adik lelaki yang dimiliki oleh David?",
+            "Jika kita mengubah soalan sebelumnya dan mengandaikan bahawa setiap adik perempuan David mempunyai dua orang adik lelaki, berapa ramai adik lelaki yang akan dimiliki oleh David?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "Dalam satu tinjauan yang dijalankan di sebuah sekolah menengah tempatan, keutamaan untuk warna sekolah baru telah diukur: 58% pelajar menyukai warna biru, 45% lebih suka hijau, dan 22% menyukai kedua-dua warna. Jika kita secara rawak memilih seorang pelajar dari sekolah, apakah kebarangkalian bahawa mereka tidak menyukai biru mahupun hijau?",
+            "Jika kita memilih seorang pelajar yang menyukai hijau, apakah kebarangkalian bahawa dia tidak menyukai kedua-dua warna?"
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Huraikan lima prinsip utama dalam menilai satu hujah dalam penulisan analitis.",
+            "Dengan prinsip yang disenaraikan, tuliskan respons di mana anda membincangkan bukti spesifik yang diperlukan untuk menilai hujah tersebut dan terangkan bagaimana bukti tersebut akan melemahkan atau menguatkan hujah.\n\n===\n\nYang berikut adalah memorandum dari ketua pengiklanan Zorblatt Animal Outlets, sebuah rangkaian yang mengendalikan tiga puluh outlet haiwan di seluruh dunia.\n\n\"Setengah dekad yang lalu, pesaing kami Aquatic Pavilion mula mengiklankan di majalah Rare Pets Digest. Jumlah jualan mereka telah secara konsisten berkembang pada kadar 3 hingga 5 peratus setiap tahun sejak itu. Khususnya, outlet Aquatic Pavilion di Harbor Town mengalami pertumbuhan yang lebih ketara, memperoleh gelaran kedai haiwan yang paling sering dikunjungi di Amerika Syarikat tahun lepas. Sebaliknya, dua outlet Zorblatt kami di Harbor Town telah mencatatkan penurunan jualan yang konsisten selama tempoh yang sama. Adalah jelas bahawa kita perlu segera mula memaparkan iklan kita sendiri di Rare Pets Digest dan penerbitan haiwan popular yang lain. Jika kita mengambil langkah ini, kita boleh dengan yakin menjangkakan pembalikan dalam trend penurunan jualan yang baru-baru ini dan kembali kepada keuntungan.\""
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Tulis program C++ untuk mencari nombor Fibonacci ke-n menggunakan rekursi.",
+            "Sekarang kita mendefinisikan satu urutan nombor di mana setiap nombor adalah jumlah daripada tiga nombor yang mendahuluinya. Tiga nombor yang pertama adalah 0, -1, -1. Tulis program untuk mencari nombor ke-n."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Bagaimana peringkat kehidupan membentuk pemahaman kita tentang masa dan kematian?",
+            "Tulis sebuah puisi alegori yang menggambarkan perkara di atas."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Tulis email yang meyakinkan untuk meyakinkan rakan introvert anda, yang tidak suka bercakap di hadapan umum, untuk menjadi sukarelawan sebagai penceramah jemputan di acara tempatan. Gunakan hujah yang menarik dan tangani bantahan yang mungkin timbul. Sila ringkas.",
+            "Bolehkan anda menyatakan semula jawapan anda sebelum ini dan menyertakan metafor atau simile dalam setiap ayat?"
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Diberikan data berikut, kenal pasti syarikat yang mempunyai keuntungan tertinggi pada tahun 2021 dan berikan nama CEO-nya:\na) Syarikat X, dengan CEO Amy Williams, melaporkan pendapatan $30 bilion dan keuntungan $3 bilion pada tahun 2021.\nb) Syarikat Y, dipimpin oleh CEO Mark Thompson, mencatatkan pendapatan $60 bilion dan keuntungan $6 bilion pada tahun yang sama.\nc) Syarikat Z, di bawah CEO Sarah Johnson, mengumumkan pendapatan $20 bilion dan keuntungan $7 bilion pada tahun 2021.\nd) Syarikat W, diuruskan oleh CEO James Smith, mendedahkan pendapatan $300 bilion dengan keuntungan $21 bilion pada tahun 2021.\ne) Syarikat V, dengan CEO Lisa Brown, melaporkan pendapatan $200 bilion dan keuntungan $25 bilion pada tahun 2021.\nf) Syarikat U, di bawah CEO John White, mencatatkan pendapatan $180 bilion dan keuntungan $20 bilion pada tahun yang sama.",
+            "Syarikat manakah yang mempunyai margin keuntungan tertinggi (nisbah keuntungan/pendapatan)?"
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Cadangkan lima filem dokumentari pemenang anugerah dengan penerangan latar belakang ringkas untuk pengarah filem yang bercita-cita tinggi untuk belajar.",
+            "Dengan semangat dalam filem pertama, hasilkan sebuah cadangan ringkas dan meyakinkan untuk filem tentang mengatasi cabaran."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Apakah norma etiket perniagaan apabila menjalankan perniagaan di Jepun?",
+            "Buat skrip video untuk melatih pekerja baru dalam perniagaan cuci kereta di Jepun. Sorot norma etiket di atas."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Draf emel profesional meminta maklum balas daripada penyelia anda tentang 'Laporan Kewangan Suku Tahunan' yang anda sediakan. Tanya secara khusus tentang analisis data, gaya pembentangan, dan kejelasan kesimpulan yang diambil. Pastikan emel tersebut ringkas dan tepat.",
+            "Luangkan masa untuk menilai dan mengkritik jawapan anda sendiri."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Edit perenggan berikut untuk membetulkan sebarang kesalahan tatabahasa:\nDia tidak ingat di mana beg tangannya, jadi saya rasa ia di dalam kereta tetapi dia berkata ia di atas meja dapur tetapi dia tidak pasti, dan kemudian mereka meminta saya untuk mencarinya, dia berkata, \"Boleh kamu?\", dan saya menjawab dengan, \"Mungkin, tetapi tidak pasti,\" dan dia tidak mendengar saya, dan, \"Apa?\", dia bertanya, \"Adakah kamu sudah menemuinya?\".",
+            "Ubah suai jawapan anda yang terdahulu dan hilangkan penggunaan kata ganti gender."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Anda telah ditugaskan untuk merancang sistem pemanasan air yang menggunakan tenaga solar untuk sebuah bangunan kediaman. Huraikan komponen utama dan pertimbangan yang akan anda masukkan dalam reka bentuk anda. Reka bentuk aliran kerja lima langkah.",
+            "Jika sistem ini ditujukan untuk sebuah bangunan dengan kapasiti 100 individu, apakah anggaran bajet untuk melaksanakan sistem ini?"
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Diberikan rekod harga saham berikut, ambil harga tutup tertinggi dan terendah untuk setiap bulan pada tahun 2022. Kembalikan hasil tersebut sebagai string CSV, dengan satu baris diperuntukkan untuk setiap bulan.\nTarikh,Buka,Tinggi,Rendah,Tutup,Volume\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Lakukan tugas yang sama sekali lagi dengan format JSON dan bulatkan semua nombor dalam jawapan anda kepada nombor bulat terdekat."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Bayangkan diri anda sebagai pokok berusia 100 tahun di dalam hutan yang subur, menjalani kehidupan anda sendirian, apabila tiba-tiba sekumpulan penebang pohon muncul untuk menebang anda. Apa perasaan anda ketika mereka mula memotong anda?",
+            "Buat cadangan untuk meyakinkan penebang pohon supaya menghentikan penebangan anda dan pokok-pokok lain."
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "Berikut adalah fungsi Python untuk mencari panjang subsekuens biasa terpanjang dari dua rentetan input. Bolehkah anda mengenal pasti sebarang pepijat dalam fungsi ini?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "bagaimana dengan yang ini?\n\n```\ndef longest_common_subsequence(X , Y): \n    # Cari panjang dua rentetan \n    m = len(X) \n    n = len(Y) \n  \n    # Buat jadual untuk menyimpan hasil sub-masalah \n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # Isi dp[][] dengan cara dari bawah ke atas \n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Pertimbangkan sebuah satelit yang berada dalam orbit bulat di sekitar Bumi. Kelajuan satelit menurun. Apa yang akan berlaku kepada jejari orbit satelit dan tempoh revolusi? Sila justifikasi jawapan anda menggunakan prinsip fizik.",
+            "Apakah beberapa kes sudut atau kes tepi dalam penyelesaian anda? Bagaimana anda mengatasinya?"
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Bincangkan undang-undang antitrust dan kesannya ke atas persaingan pasaran. Bandingkan undang-undang antitrust di AS dan China berserta beberapa kajian kes.",
+            "Pilih satu kajian kes dan terangkan dengan terperinci."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Ekstrak maklumat berikut daripada teks yang dipersembahkan: Nama buku, pengarang, watak utama, tahun penerbitan. Hasilkan dalam format \"watak utama, buku, pengarang, tahun penerbitan\", satu buku setiap baris.\nc) Dalam galaksi yang jauh, imaginasi L.E. Starlighter memberi kita 'The Prism Galaxy Chronicles: The Awakening of the Starcaster'. Diterbitkan pada tahun 2028, cerita ini adalah tentang Zylo, seorang mekanik kapal angkasa yang sederhana, yang secara tidak sengaja mendapati dirinya seorang Starcaster - individu yang jarang dengan kuasa untuk memanipulasi habuk bintang. Berlatarbelakangkan sebuah empayar antarabangsa yang bergolak, takdir Zylo terungkap di banyak dunia alien, masing-masing dengan daya tarikan kosmik yang unik."
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin pergi ke sebuah kedai buku dan membeli pelbagai buku. Dia membeli 5 salinan novel sci-fi, setiap satu berharga $20, 3 salinan buku sejarah berharga $30 setiap satu, dan 2 salinan buku falsafah berharga $45 setiap satu.\nApakah jumlah kos pembeliannya?",
+            "Anggapkan Benjamin memutuskan untuk menjual setiap buku ini dengan markup 25% daripada harga dia membelinya. Apakah jumlah hasilnya jika dia menjual semua buku yang dibelinya?"
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Bandar Vega bercadang untuk membina jambatan yang akan merentangi Sungai Vegona, meliputi jarak sepanjang 1.8 kilometer. Lokasi yang dicadangkan terletak dalam kawasan aktif gempa bumi yang telah mengalami beberapa gempa bumi dengan magnitud tinggi. Memandangkan keadaan ini, apakah pendekatan terbaik untuk membina jambatan tersebut?",
+            "Apakah kelemahan atau kekurangan utama penyelesaian anda? Sila lakukan pengiraan dan gunakan nombor untuk menggambarkannya."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Sila baca perenggan di bawah dan kira berapa kali perkataan \"Amazon\", \"sungai\", dan \"anda\" muncul. Sila kemukakan hasil dalam format \"perkataan, jumlah kemunculan\" dengan setiap perkataan di baris yang berasingan. Susun garis berdasarkan jumlah kemunculan.\nAmazon, luasnya keajaiban alam yang menakjubkan, adalah rumah bagi Sungai Amazon yang legendari. Mengalir melalui pemandangan menakjubkan seperti hutan hujan Amazon, sungai ini melintasi Brazil, Colombia, dan Peru, memberi kehidupan kepada banyak makhluk. Dari jaguar yang perkasa mengintai di hutan Amazon hingga macaw berwarna-warni yang terbang di atas kanopi, kawasan luar biasa ini dipenuhi dengan biodiversiti. Dalam arus sungai, ikan lumba-lumba merah jambu yang megah meluncur anggun bersama piranha dan belut elektrik. Di sepanjang tebing sungai, anda akan menemui bandar-bandar yang sibuk seperti Manaus, di mana bandar bertemu dengan alam liar, dan Iquitos, pintu masuk ke jantung hutan hujan Amazon. Apabila anda menjelajah lebih jauh, Sungai Amazon mendedahkan permata tersembunyi seperti Kepulauan Anavilhanas yang menawan, sebuah mozaik pulau yang dipenuhi dengan spesies langka. Mulakan pengembaraan, teroka Sungai Amazon yang mempesonakan, dan nikmati dunia yang penuh dengan kehidupan dan keindahan liar.",
+            "Sila ulangi tugas yang sama menggunakan perkataan 'the', 'dan', dan 'ke'"
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Bayangkan anda sedang menulis pos blog yang membandingkan dua model telefon pintar yang popular. Sediakan rangka untuk pos blog, termasuk titik utama dan subjudul untuk membandingkan dengan berkesan ciri, prestasi, dan pengalaman pengguna kedua-dua model. Sila jawab dalam kurang daripada 200 patah perkataan.",
+            "Ambil respons anda sebelum ini dan ubahnya menjadi limerik."
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Tulis fungsi untuk mencari elemen majoriti dalam satu array integer yang diberikan menggunakan Algoritma Pengundian Boyer-Moore.",
+            "Bagaimana dengan mencari 2 elemen yang paling banyak berlaku?"
+        ]
+    }
+]

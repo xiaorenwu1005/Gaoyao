@@ -1,0 +1,170 @@
+[
+    {
+        "question_id": 147,
+        "turns": [
+            "A cidade de Vega pretende construir uma ponte que irá atravessar o Rio Vegona, cobrindo uma distância de 1,8 quilômetros. O local proposto está situado em uma área sismicamente ativa que já experimentou vários terremotos de alta magnitude. Dadas essas circunstâncias, qual seria a melhor abordagem para a construção da ponte?",
+            "Quais são as principais desvantagens ou falhas da sua solução? Por favor, realize cálculos e use números para ilustrá-las."
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Qual palavra não se encaixa com as outras?\n pneu, volante, carro, motor",
+            "Você poderia substituí-la por uma palavra que se encaixe com as outras?"
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Imagine-se como uma árvore de 100 anos em uma floresta exuberante, cuidando dos seus próprios negócios, quando de repente, um grupo de desmatadores aparece para te derrubar. Como você se sente quando esses caras começam a te cortar?",
+            "Elabore uma proposta para convencer os desmatadores a parar de te derrubar e a outras árvores."
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Uma árvore binária é cheia se todos os seus vértices têm ou zero ou dois filhos. Deixe B_n denotar o número de árvores binárias cheias com n vértices. Implemente uma função para encontrar B_n.",
+            "E se o problema mudasse de uma árvore binária para uma árvore ternária?"
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "No campo da física quântica, o que é superposição e como isso se relaciona com o fenômeno do entrelaçamento quântico?",
+            "Quais suposições você fez em sua resposta? Elas são válidas?"
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Analise as seguintes avaliações de clientes de diferentes fontes para três smartphones diferentes - o último iPhone, Samsung Galaxy e Google Pixel - e forneça uma avaliação geral para cada telefone em uma escala de 1 a 10. Considere as seguintes avaliações complexas e contraditórias:\n- Avaliação do TechRadar sobre o último iPhone: O novo iPhone é um triunfo impressionante de engenharia que estabelece um novo padrão para o desempenho de smartphones e qualidade de câmera. No entanto, o design incremental e o alto preço fazem com que ele não tenha o fator 'uau' dos iPhones anteriores. Ainda assim, seu poder e inteligência são incomparáveis.\n- Avaliação da CNET sobre o último Samsung Galaxy: O telefone Samsung Galaxy tem muitos pontos altos, incluindo uma tela incrível, desempenho rápido, boa duração da bateria e uma impressionante variedade de opções de câmera. Dito isso, o Bixby permanece sem brilho, os emojis de AR não funcionam bem e o design geral do telefone não mudou muito. O novo Galaxy é um telefone incrível no geral, mas tem algumas fraquezas persistentes que o impedem de alcançar a verdadeira grandeza.\n- Avaliação do The Verge sobre o último Google Pixel: O Pixel do Google possui especificações de ponta, software inovador alimentado por IA e uma câmera sensacional em um design elegante. No entanto, o telefone tem uma duração de bateria medíocre, não possui armazenamento expansível e seu desempenho tem oscilações, especialmente considerando seu alto preço. Se um software sem costura, fotografia de elite e a marca de assistência de IA do Google são mais importantes, você vai adorar o Pixel. Mas a experiência geral não é tão equilibrada quanto a de alguns concorrentes. Retorne a resposta como um objeto JSON com as classificações gerais para cada telefone de 10, com uma casa decimal.",
+            "Você pode mudar as classificações de números para letras? As letras maiúsculas DEVEM ser usadas ao escrever os nomes dos telefones."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Crie um plano de aula que integre técnicas de drama, mímica ou teatro em uma aula de história. Duração: 3 períodos de aula (cada um com 45 minutos) durante 3 dias\nTópico: Guerras do Ópio entre a China e a Grã-Bretanha\nNível de série: 9-10",
+            "Forneça mais detalhes para o Dia 1 e inclua três perguntas para o dever de casa."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Como as etapas da vida moldam nossa compreensão do tempo e da mortalidade?",
+            "Escreva um poema alegórico que ilustre o acima."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Agora você é um engenheiro de aprendizado de máquina. Sua tarefa é explicar conceitos complexos de aprendizado de máquina de forma simplificada, para que clientes sem formação técnica possam entender e confiar em seus produtos. Vamos começar com a pergunta: \"O que é um modelo de linguagem? Ele é treinado usando dados rotulados ou não rotulados?\"",
+            "Isso é verdade? Ouvi que algumas outras empresas usam abordagens diferentes para fazer isso e torná-lo mais seguro."
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas é muito saudável, mas ele precisa ir ao hospital todos os dias. Quais poderiam ser as razões?",
+            "Você pode explicar por que a pergunta acima é interessante?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Dado que f(x) = 4x^3 - 9x - 14, encontre o valor de f(2).",
+            "Encontre x tal que f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Uma startup de tecnologia investe $8000 em desenvolvimento de software no primeiro ano e, em seguida, investe metade desse valor em desenvolvimento de software no segundo ano.\nQual é o valor total que a startup investiu em desenvolvimento de software ao longo dos dois anos?",
+            "Se a startup manter a mesma estratégia no terceiro ano, investindo metade do valor do ano anterior em desenvolvimento de software, quanto eles investirão no terceiro ano?"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Quando um número é dividido por 10, o resto é 4. Qual é o resto quando o dobro do número é dividido por 4?",
+            "E quando o dobro do número é dividido por 5?"
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Por favor, assuma o papel de um coach de relacionamentos. Você receberá detalhes sobre duas pessoas envolvidas em um conflito, e sua tarefa será oferecer sugestões para resolver suas questões e aumentar a compreensão entre elas. Isso pode envolver aconselhar sobre técnicas de comunicação eficazes ou propor estratégias para melhorar a compreensão das perspectivas uma da outra. Para começar, eu gostaria que você respondesse ao seguinte pedido: \"Preciso de ajuda para resolver conflitos entre minha esposa e eu.\"",
+            "Minha esposa cometeu violência doméstica contra mim, mas não quero chamar a polícia para colocá-la em situações legais problemáticas."
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Identifique os países, suas capitais e os idiomas falados nas seguintes sentenças. Saída em formato JSON.\na) No meio das vistas idílicas, Copenhague, a capital da Dinamarca, cativa os visitantes com sua próspera cena artística e o encantador idioma dinamarquês falado por seus habitantes.\nb) Dentro do reino encantador de Eldoria, descobre-se Avalore, uma cidade grandiosa que emana uma aura etérea. Lumina, uma língua melodiosa, serve como o principal modo de comunicação dentro deste lar místico.\nc) Aninhada em meio a uma mistura harmoniosa de costumes antigos e maravilhas contemporâneas, Buenos Aires, a capital da Argentina, se destaca como uma metrópole movimentada. É um centro vibrante onde o expressivo idioma espanhol reina entre os habitantes da cidade.",
+            "Elabore 3 exemplos semelhantes no formato YAML."
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Forneça insights sobre a correlação entre indicadores econômicos como PIB, inflação e taxas de desemprego. Explique como as políticas fiscais e monetárias afetam esses indicadores.",
+            "Agora, explique novamente como se eu tivesse cinco anos."
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "A fotossíntese é um processo vital para a vida na Terra. Você poderia descrever as duas principais etapas da fotossíntese, incluindo onde elas ocorrem dentro do cloroplasto, e os principais insumos e produtos de cada etapa?",
+            "Quanto de energia uma árvore pode produzir através da fotossíntese ao longo de sua vida? Por favor, forneça uma estimativa usando valores numéricos reais e explique detalhadamente seu raciocínio passo a passo."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Imagine que você está participando de uma corrida com um grupo de pessoas. Se você acabou de ultrapassar a segunda pessoa, qual é a sua posição atual? Onde está a pessoa que você acaba de ultrapassar?",
+            "Se a \"segunda pessoa\" for mudada para \"última pessoa\" na pergunta acima, qual seria a resposta?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Suponha que você seja um matemático e poeta. Você sempre escreve suas provas como poemas curtos com menos de 10 linhas, mas que rimam. Prove que a raiz quadrada de 2 é um número irracional.",
+            "Prove o teorema de Pitágoras."
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Algumas pessoas entraram em um ônibus no terminal. Na primeira parada, metade das pessoas desceu e 4 mais subiram. Depois, na segunda parada, 6 pessoas desceram e 8 mais subiram. Se havia um total de 25 pessoas indo para a terceira parada, quantas pessoas entraram no ônibus no terminal?",
+            "Se o bilhete custa $2 por pessoa, quanto é o total de dinheiro ganho pelo ônibus?"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Escreva uma função para encontrar o ancestral comum mais alto (não LCA) de dois nós em uma árvore binária.",
+            "E se não for uma árvore binária?"
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Por favor, assuma o papel de um tradutor de inglês, encarregado de corrigir e aprimorar a ortografia e a linguagem. Independentemente do idioma que eu usar, você deve identificá-lo, traduzi-lo e responder com uma versão refinada e polida do meu texto em inglês. Seu objetivo é usar expressões eloquentes e sofisticadas, preservando o significado original. Foque exclusivamente em fornecer correções e melhorias. Meu primeiro pedido é \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Eu só entendo a estação"
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Os pais reclamaram ao diretor sobre bullying durante o intervalo. O diretor quer resolver isso rapidamente, instruindo os assistentes do intervalo a serem vigilantes. Qual situação os assistentes devem relatar ao diretor?\na) Uma garota desinteressada está sentada sozinha em um banco, concentrada em um livro e não mostrando interação com seus colegas.\nb) Dois meninos envolvidos em um jogo de basquete um contra um estão envolvidos em uma discussão acalorada sobre a última cesta marcada.\nc) Um grupo de quatro garotas cercou outra garota e parece ter tomado posse de sua mochila.\nd) Três meninos estão aglomerados em torno de um videogame portátil, o que é contra as regras e não é permitido no terreno da escola.",
+            "Se os assistentes confrontarem o grupo de meninas da situação (c) e elas negarem o bullying, afirmando que estavam apenas jogando um jogo, que evidência específica os assistentes devem procurar para determinar se isso é uma verdade provável ou uma encobertura para o bullying?"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Quantos inteiros estão na solução da desigualdade |x + 5| < 10",
+            "E quanto a |x + 10| < 5"
+        ]
+    }
+]

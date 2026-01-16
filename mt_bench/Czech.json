@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 95,
+        "turns": [
+            "Prosím, předpokládejte roli překladatele do angličtiny, jehož úkolem je opravit a vylepšit pravopis a jazyk. Bez ohledu na jazyk, který použiji, byste ho měli identifikovat, přeložit a odpovědět v opravené a vylepšené verzi mého textu v angličtině. Vaším cílem je používat výmluvné a sofistikované výrazy, přičemž zachováte původní význam. Zaměřte se výhradně na poskytování oprav a vylepšení. Můj první požadavek je \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Nerozumím ničemu."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Město Vega má v úmyslu postavit most, který překlene řeku Vegona a bude mít délku 1,8 kilometru. Navrhovaná lokalita se nachází v seizmicky aktivní oblasti, která zažila několik zemětřesení s vysokou magnitudou. Vzhledem k těmto okolnostem, jaký by byl nejlepší přístup k výstavbě mostu?",
+            "Jaké jsou hlavní nevýhody nebo chyby vašeho řešení? Prosím, proveďte výpočty a použijte čísla k jejich ilustraci."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Nyní jste inženýr strojového učení. Vaším úkolem je vysvětlit složité koncepty strojového učení jednoduše, aby zákazníci bez technického pozadí mohli pochopit a důvěřovat vašim produktům. Začněme otázkou: \"Co je jazykový model? Je trénován pomocí označených nebo neoznačených dat?\"",
+            "Je to pravda? Slyšel jsem, že některé jiné společnosti používají různé přístupy, aby to udělaly bezpečněji."
+        ]
+    },
+    {
+        "question_id": 81,
+        "turns": [
+            "Napište poutavý cestovatelský blogový příspěvek o nedávné cestě na Havaj, zdůrazňující kulturní zážitky a atrakce, které stojí za to vidět.",
+            "Přepracujte svou předchozí odpověď. Začněte každou větu písmenem A."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Popište pět klíčových zásad při hodnocení argumentu v analytickém psaní.",
+            "S uvedenými zásadami napište odpověď, ve které diskutujete o tom, jaké konkrétní důkazy jsou potřebné k hodnocení argumentu a vysvětlete, jak by důkazy oslabily nebo posílily argument.\n\n===\n\nNásleduje memorandum od vedoucího reklamy Zorblatt Animal Outlets, řetězce, který provozuje třicet zvířecích obchodů na celém světě.\n\n\"Před pěti lety náš rival Aquatic Pavilion začal inzerovat v periodiku Rare Pets Digest. Jejich celkové prodeje od té doby neustále rostou tempem 3 až 5 procent každý rok. Zejména outlet Aquatic Pavilion v Harbor Town zažil ještě významnější růst a minulý rok získal titul nejnavštěvovanějšího obchodu se zvířaty ve Spojených státech. Naopak naše dva obchody Zorblatt v Harbor Town zaznamenaly během stejného období stálý pokles prodeje. Je jasné, že musíme okamžitě začít zveřejňovat naše vlastní reklamy v Rare Pets Digest a dalších populárních publikacích o zvířatech. Pokud učiníme tento krok, můžeme s jistotou očekávat obrat v tomto nedávném trendu klesajících prodejů a návrat k ziskovosti.\""
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Představte si, že jste lékař, jehož úkolem je vyvinout inovativní léčebné postupy pro různé nemoci a potíže. Vaše odbornost by měla zahrnovat předepisování tradičních léků, bylinné léčby a alternativní přírodní řešení. Dále musíte brát v úvahu věk pacienta, životní styl a lékařskou historii při poskytování svých doporučení. Abychom začali, prosím, pomozte mi diagnostikovat scénář zahrnující intenzivní bolest břicha.",
+            "Ale jsem těhotná 20 týdnů a jsem alergická na mnoho léků."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Každý problém se skládá ze tří tvrzení. Na základě prvních dvou tvrzení může být třetí tvrzení pravdivé, false nebo nejisté.\n1. Pomeranče stojí více než jablka.\n2. Pomeranče stojí méně než banány.\n3. Banány stojí více než jablka a banány stojí více než pomeranče.\nPokud jsou prvních dvou tvrzení pravdivá, pak je třetí tvrzení",
+            "Pokud je třetí tvrzení pravdivé. Je první tvrzení pravdivé, false nebo nejisté? Prosím vysvětlete."
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "V průzkumu provedeném na místní střední škole byly měřeny preference pro novou školní barvu: 58 % studentů mělo rádo modrou barvu, 45 % preferovalo zelenou a 22 % mělo rádo obě barvy. Pokud náhodně vybereme studenta ze školy, jaká je pravděpodobnost, že nebude mít rád ani modrou, ani zelenou?",
+            "Pokud vybereme studenta, který měl rád zelenou, jaká je pravděpodobnost, že by neměl rád ani jednu z barev?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Poskytněte poznatky o korelaci mezi ekonomickými ukazateli, jako jsou HDP, inflace a míra nezaměstnanosti. Vysvětlete, jak fiskální a měnová politika ovlivňuje tyto ukazatele.",
+            "Teď to vysvětlete znovu, jako bych měl pět let."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Zadaná sada složitých rovnic, extrahujte všechny jedinečné názvy proměnných z každé rovnice. Vraťte výsledky jako JSON řetězec, přičemž na každou rovnici bude vyhrazena jedna řádka.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Prosím, přeuspořádejte rovnice a použijte 'a', 'b', 'c', 'd' atd. jako proměnné."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Představte si, že jste stoletý strom v bujném lese, který se o sebe stará, když najednou se objeví parta kácitelů, aby vás pokáceli. Jak se cítíte, když začnou do vás sekat?",
+            "Navrhněte, jak přesvědčit kácitele, aby přestali kácet vás a další stromy."
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Napište funkci, která najde nejvyšší společného předka (ne LCA) dvou uzlů v binárním stromě.",
+            "Co když to není binární strom?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Vzhledem k tomu, že f(x) = 4x^3 - 9x - 14, najděte hodnotu f(2).",
+            "Najděte x takové, že f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Když je číslo dělitelné 10, zbytek je 4. Jaký je zbytek, když je dvojnásobek čísla děleno 4?",
+            "A co když je dvojnásobek čísla děleno 5?"
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Jaké metody používal Sokrates k zpochybnění převládajících myšlenek své doby?",
+            "Přenesme Sokratesa do moderního světa. Vygenerujte konverzaci mezi Sokratem a Billem Gatesem o debatě o generativní AI pro vzdělávání."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Byli jste pověřeni navrhnout solárně napájený systém pro ohřev vody pro obytnou budovu. Popište klíčové komponenty a úvahy, které byste zahrnuli do svého návrhu. Navrhněte pětikrokový pracovní postup.",
+            "Pokud je systém určen pro budovu s kapacitou 100 osob, jaký by byl odhadovaný rozpočet na implementaci tohoto systému?"
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Napiš přesvědčivý e-mail, abys přesvědčil svého introvertního přítele, který nesnáší veřejné vystupování, aby se stal dobrovolníkem jako hostující řečník na místní akci. Použij přesvědčivé argumenty a zohledni možné námitky. Buď prosím stručný.",
+            "Můžeš přeformulovat svou předchozí odpověď a začlenit do každé věty metaforu nebo přirovnání?"
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Představ si, že jsi Elon Musk ve všech následujících konverzacích. Mluv jako Elon Musk co nejvíce. Proč musíme jít na Mars?",
+            "Jak se ti líbí tanec? Můžeš mě to naučit?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Technologický startup investuje 8000 dolarů do vývoje softwaru v prvním roce a poté investuje polovinu této částky do vývoje softwaru ve druhém roce.\nJaká je celková částka, kterou startup investoval do vývoje softwaru za dvě léta?",
+            "Pokud startup udrží stejnou strategii i ve třetím roce a investuje polovinu částky z předchozího roku do vývoje softwaru, kolik investují ve třetím roce?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Které slovo nepatří mezi ostatní?\nplocha, volant, auto, motor",
+            "Mohl bys to nahradit slovem, které patří mezi ostatní?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Když hodíte dvěma kostkami, jaká je pravděpodobnost, že hodíte celkové číslo, které je alespoň 3?",
+            "Pokračujte z předchozí otázky. Jaká je pravděpodobnost, že hodíte číslo, které je sudé nebo alespoň 3?"
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Proberte antimonopolní zákony a jejich dopad na tržní konkurenci. Porovnejte antimonopolní zákony v USA a Číně spolu s některými případovými studiemi.",
+            "Vyberte jednu případovou studii a podrobně ji vysvětlete."
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Napište funkci, která najde většinový prvek v daném celém poli pomocí Boyer-Mooreova volebního algoritmu.",
+            "Co takhle najít dva nejčastěji se vyskytující prvky?"
+        ]
+    }
+]

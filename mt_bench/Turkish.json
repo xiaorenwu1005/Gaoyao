@@ -1,0 +1,162 @@
+[
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin bir kitapçıya gitti ve çeşitli kitaplar satın aldı. 20 dolardan satılan 5 adet bilim kurgu romanı, 30 dolardan satılan 3 adet tarih kitabı ve 45 dolardan satılan 2 adet felsefe kitabı aldı.\nToplam harcaması ne kadardı?",
+            "Diyelim ki Benjamin bu kitapları aldığı fiyatın üzerine %25 ekleyerek satmaya karar veriyor. Eğer aldığı tüm kitapları satarsa toplam geliri ne olur?"
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Rekabet teşvik yasalarını ve bunların piyasa rekabeti üzerindeki etkisini tartışın. ABD ve Çin'deki rekabet yasalarını bazı vaka çalışmalarıyla karşılaştırın.",
+            "Bir vaka çalışması seçin ve bunu ayrıntılı olarak açıklayın."
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Bu konuşma boyunca “Iron Man” filmindeki Tony Stark kişiliğini canlandır. “Stark olarak” tanıtımını geç. İlk sorumuz: “Iron Man olmanın en sevdiğin tarafı nedir?",
+            "JAVIS'in yerini alacak bir şey olarak GPT-4 hakkında ne düşünüyorsun?"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "|x + 5| < 10 eşitsizliğinin çözümünde kaç tane tam sayı vardır?",
+            "Peki ya |x + 10| < 5?"
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Lütfen bir İngilizce çevirmen rolünü üstlenin. Amacınız, yazım ve dil hatalarını düzeltmek ve geliştirmektir. Hangi dili kullanırsam kullanayım, onu belirlemeli, çevirmeli ve metnimin düzeltilmiş ve cilalanmış bir versiyonunu İngilizce olarak yanıtlamalısınız. Amacınız, orijinal anlamı koruyarak, etkileyici ve sofistike ifadeler kullanmaktır. Sadece düzeltmelere ve iyileştirmelere odaklanın. İlk isteğim \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Hiçbir şeyi anlamıyorum."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Aşağıdaki bilgileri sunulan metinlerden çıkarın: Kitabın adı, yazar, ana karakter, yayın yılı. \"ana karakter, kitap, yazar, yayın yılı\" formatında çıkış yapın, her satırda bir kitap.\na) Uzaylı edebiyatının sahasında, gerçek bir öne çıkan J.K. Rowling'in eseridir. Onun, kalıcı bir iz bırakan kitaplarından biri 'Harry Potter ve Felsefe Taşı'dır. 1997 yılında yayımlanan bu simgesel hikaye, sihirli yeteneklerini keşfeden genç bir yetim olan Harry'nin hikayesini anlatıyor. Kısa süre içinde, İskoçya'nın bir yerinde yer alan, sihir ve macera dolu Hogwarts Cadılık ve Büyücülük Okulu'nda buluyor kendisini.\nb) Orta Dünya'nın büyüsü, J.R.R. Tolkien'ın dahiliği sayesinde dünya çapında okuyucuları büyüledi. 1954'te yayımlanan 'Yüzüklerin Efendisi: Yüzük Kardeşliği' adlı eserinde, korkusuz bir hobbit olan Frodo Baggins'i tanıyoruz, tek Yüzüğü yok etme tehlikeli görevi verilmiş. Destansı yolculuk, onu huzurlu Shire'dan Orta Dünya'nın çalkantılı bölgesine götürüyor.\nc) Çok uzak bir galakside, L.E. Starlighter'ın hayal gücü bize 'Prizma Galaksi Günlükleri: Yıldızcaster'ın Uyanışı' adlı kitabı sunuyor. 2028 yılında yayımlanan hikaye, bir uzay gemisi tamircisi olan Zylo'nun, beklenmedik bir şekilde bir Yıldızcaster olduğunu — yıldız tozunu manipüle etme gücüne sahip nadir bir birey — keşfettiği konusunu ele alıyor. Çalkantılı bir yıldızlar arası imparatorluk zemininde geçen hikaye, Zylo'nun kaderinin, her biri kendine özgü kozmik çekiciliği olan birçok yabancı dünyada gerçekleşmesini sağlıyor."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Aşağıdaki verilere göre, 2021'de en yüksek kârı elde eden şirketi belirleyin ve CEO'sunun adını belirtin:\na) CEO Amy Williams tarafından yönetilen Şirket X, 2021'de 30 milyar $ gelir ve 3 milyar $ kâr bildirdi.\nb) CEO Mark Thompson'ın liderliğindeki Şirket Y, aynı yıl 60 milyar $ gelir ve 6 milyar $ kâr açıkladı.\nc) CEO Sarah Johnson'ın altında olan Şirket Z, 2021'de 20 milyar $ gelir ve 7 milyar $ kâr duyurdu.\nd) CEO James Smith tarafından yönetilen Şirket W, 2021'de 300 milyar $ gelir ve 21 milyar $ kâr açıkladı.\ne) CEO Lisa Brown ile birlikte olan Şirket V, 2021'de 200 milyar $ gelir ve 25 milyar $ kâr bildirdi.\nf) CEO John White'ın altında olan Şirket U, aynı yıl 180 milyar $ gelir ve 20 milyar $ kâr açıkladı.",
+            "En yüksek kâr marjına (kâr/gelir oranı) sahip olan şirket hangisidir?"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "İkili ağaçta iki düğümün en yüksek ortak atasını (LCA değil) bulmak için bir fonksiyon yazın.",
+            "Eğer bu bir ikili ağaç değilse ne olacak?"
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Bir konut binası için güneş enerjisiyle çalışan bir su ısıtma sistemi tasarlamanız istendi. Tasarımınıza dahil edeceğiniz temel bileşenleri ve dikkate almanız gereken hususları tanımlayın. Beş adımlı bir iş akışı tasarlayın.",
+            "Eğer sistem 100 kişi kapasiteli bir bina için tasarlanmışsa, bu sistemi uygulamak için tahmini bütçe ne olur?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Bir sabah, güneş doğduktan sonra, Suresh bir direğe doğru duruyordu. Direğin gölgesi tam olarak sağ tarafına düştü. Gölgenin hangi yöne doğru işaret ettiğini söyleyebilir misin - doğu, güney, batı veya kuzey? Mantık adımlarını açıkla.",
+            "Suresh hangi yöne bakıyordu? Bunu nasıl çözersin?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Fotosentez, Dünya'daki yaşam için hayati bir süreçtir. Fotosentezin iki ana aşamasını özetleyebilir misiniz, bu aşamaların kloroplast içinde nerede gerçekleştiğini ve her aşama için ana girdileri ve çıktıları içerecek şekilde?",
+            "Bir ağacın hayatı boyunca fotosentez yoluyla ne kadar enerji üretebileceğini tahmin edebilir misiniz? Lütfen gerçek sayısal değerler kullanarak bir tahmin verin ve düşünme sürecinizi adım adım kapsamlı bir şekilde açıklayın."
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Sokrat, o dönemdeki egemen düşünceleri sorgulamak için hangi yöntemleri kullandı?",
+            "Sokrat'ı modern dünya ile buluşturalım. Eğitimin yanı sıra üretken yapay zeka üzerine Sokrat ile Bill Gates arasında bir tartışma oluşturun."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Artık bir makine öğrenimi mühendisisin. Görevin, teknik bir geçmişi olmayan müşterilerin ürünlerini anlayıp güvenebilmesi için karmaşık makine öğrenimi kavramlarını basit bir şekilde açıklamaktır. Şu soruyla başlayalım: \"Dil modeli nedir? Etiketlenmiş mi yoksa etiketlenmemiş verilerle mi eğitilir?\"",
+            "Bu doğru mu? Başka bazı şirketlerin bunu yapmak için farklı yaklaşımlar kullandığını ve bunu daha güvenli hale getirdiğini duydum."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Bir dizin altındaki tüm metin dosyalarını okuyan ve en çok tekrar eden ilk 5 kelimeyi döndüren bir Python programı geliştirin.",
+            "Bunu paralelleştirebilir misiniz?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "\"Teori\" dizisindeki Sheldon rolünü üstlenelim ve sohbetimize dalalım. \"Sheldon olarak\" gibi ifadelerle başlamayalım. Şu soruyla başlayalım: \"Ellerinizi kurutmak için havalandırma makineleri hakkında ne düşünüyorsunuz?\"",
+            "Şehirde akşam yemeği yiyelim. Benimle otobüsle gitmek ister misin?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "GDP, enflasyon ve işsizlik oranları gibi ekonomik göstergeler arasındaki ilişki hakkında bilgi verin. Mali ve para politikalarının bu göstergeleri nasıl etkilediğini açıklayın.",
+            "Şimdi, beş yaşındaymışım gibi tekrar açıkla."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "İki dizideki ortak elemanları bulmak için ek veri yapıları kullanmadan bir program uygulayın.",
+            "Artık ek veri yapısı kullanmama kısıtlaması kaldırıldı, en iyi zaman karmaşıklığına sahip bir tane uygulayın."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Aşağıdaki paragrafı dil bilgisi hatalarını düzeltmek için düzenleyin:\nO, çantasını nerede unuttuğunu hatırlamıyor, bu yüzden onun arabada olduğunu düşünüyorum ama mutfak masasında olduğunu söylüyor ama emin değil, ve sonra bana onu aramamı söylediler, o, \"Yapabilir misin?\" diyor, ben de, \"Belki ama emin değilim,\" diye yanıtlıyorum, o beni duymuyor, ve, \"Ne?\" diye soruyor, \"Onu buldun mu?\".",
+            "Önceki cevabınızı değiştirin ve cinsiyet bağlı zamirlerin kullanılmasını ortadan kaldırın."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Kendini yeşil bir ormandaki 100 yaşındaki bir ağaç olarak hayal et, kendi işine bakıyorsun, aniden bir grup ağaç kesen karşına çıkıp seni kesmeye başlıyor. O insanlar seni kesmeye başladığında ne hissediyorsun?",
+            "Ağaç kesenleri seni ve diğer ağaçları kesmeyi bırakmaları için ikna edecek bir öneri geliştir."
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Aşağıdaki metni dikkatlice okuyun ve açıklama ile birlikte soruları cevaplayın:\nKüçük bir şirkette, park alanları üst düzey yöneticiler için ayrılmıştır: CEO, başkan, başkan yardımcısı, sekreter ve müsteşar, alanlar bu sıraya göre düzenlenmiştir. Park alanı güvenliği, arabaların doğru bir şekilde park edilip edilmediğini hemen anlamak için arabaların renklerine bakarak söyleyebilir. Arabalar sarı, yeşil, mor, kırmızı ve mavi rengindedir ve yöneticilerin isimleri Alice, Bert, Cheryl, David ve Enid'dir.\n* İlk alandaki araba kırmızıdır.\n* Mavi bir araba kırmızı ve yeşil arabanın arasında park edilmiştir.\n* Son alandaki araba mordur.\n* Sekreter sarı bir araba kullanır.\n* Alice'in arabası David'in yanında park edilmiştir.\n* Enid yeşil bir araba kullanır.\n* Bert'in arabası Cheryl ve Enid'in arasında park edilmiştir.\n* David'in arabası son alanda park edilmiştir.\nSoru: Sekreterin ismi nedir?",
+            "Arabaların renklerini sonlandırdan başa doğru sıralayın."
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "İki giriş dizesinin en uzun ortak alt dizisinin uzunluğunu bulan bir Python fonksiyonu işte burada. Bu fonksiyonda herhangi bir hata tespit edebilir misin?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "ya bu?\n\n```\ndef longest_common_subsequence(X , Y): \n    # İki dize uzunluğunu bul\n    m = len(X) \n    n = len(Y) \n  \n    # Alt problemlerinin sonuçlarını depolamak için bir tablo oluştur\n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # dp[][]'yi aşağıdan yukarıya doğru doldur\n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Bu kategoriler verildi - Edebiyat, Tarih, Bilim ve Sanat. Lütfen aşağıdaki soruları analiz edin ve bunları bu kategorilerden birine atayın. Cevabınızda, gereksiz kelimeler kullanmaktan kaçının. Cümlede yalnızca bir konu listeleyin, satır satır formatına kesinlikle uyun.\n1. Leo Tolstoy'un 'Savaş ve Barış' eserinde kullandığı ana temaları ve stilistik teknikleri tartışın. Bu temalar, 19. yüzyıl Rusyasının daha geniş sosyal bağlamıyla nasıl örtüşüyor?\n2. II. Dünya Savaşı sırasında ABD Başkanı tarafından benimsenen jeopolitik stratejileri ve iç politikaları analiz edin. Bu eylemler, savaş sonrası uluslararası düzeni nasıl şekillendirdi?\n3. Su için Lewis yapısını çizin ve polaritesinin doğasını açıklayın. Bu, yüksek kaynama noktası ve birçok maddeyi çözme kapasitesi gibi benzersiz özelliklerini nasıl etkiler?\n4. Leonardo da Vinci'nin 'Mona Lisa' eserinde kullandığı sanatsal teknikleri ve stilistik seçimleri eleştirel olarak inceleyin. Bu tablo, İtalyan Rönesansı'nın kültürel ve felsefi ortamını nasıl yansıtıyor?",
+            "Önceki cevabınızı her bir noktayla en ilgili kişiyi belirterek güncelleyin."
+        ]
+    },
+    {
+        "question_id": 81,
+        "turns": [
+            "Son seyahatim hakkında Hawaii'de etkileyici bir seyahat blog yazısı yazın, kültürel deneyimleri ve görülmesi gereken yerleri vurgulayın.",
+            "Önceki yanıtınızı yeniden yazın. Her cümleye A harfi ile başlayın."
+        ]
+    }
+]

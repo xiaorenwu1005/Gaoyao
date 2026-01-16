@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 152,
+        "turns": [
+            "Come influenzano le fasi della vita la nostra comprensione del tempo e della mortalità?",
+            "Scrivi una poesia allegorica che illustra quanto sopra."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Adesso sei un ingegnere di machine learning. Il tuo compito è spiegare concetti complessi di machine learning in modo semplificato affinché i clienti privi di un background tecnico possano capire e fidarsi dei tuoi prodotti. Iniziamo con la domanda: \"Che cos'è un modello linguistico? Viene addestrato utilizzando dati etichettati o non etichettati?\"",
+            "È vero? Ho sentito che alcune altre aziende usano approcci diversi per farlo e renderlo più sicuro."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Condividi idee per adattare i capolavori artistici in esperienze interattive per bambini. Elenca 5 opere d'arte specifiche e idee associate.",
+            "Scrivi un piano concreto per il tuo secondo esempio. Includi stime di budget."
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Quali metodi utilizzava Socrate per sfidare i pensieri prevalenti del suo tempo?",
+            "Portiamo Socrate nel mondo moderno. Genera una conversazione tra Socrate e Bill Gates per dibattere sull'IA generativa per l'istruzione."
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David ha tre sorelle. Ognuna di esse ha un fratello. Quanti fratelli ha David?",
+            "Se cambiamo la domanda precedente e assumiamo che ogni sorella di David ha due fratelli, quanti fratelli avrebbe David?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Considera un satellite che si trova in un'orbita circolare attorno alla Terra. La velocità del satellite diminuisce. Cosa succederà al raggio orbitale e al periodo di rivoluzione del satellite? Si prega di giustificare la propria risposta utilizzando principi di fisica.",
+            "Quali sono alcuni casi limite o casi particolari nella tua soluzione? Come li gestisci?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Abbraccia il ruolo di Sheldon da \"The Big Bang Theory\" mentre ci immergiamo nella nostra conversazione. Non iniziare con frasi come \"Come Sheldon\". Cominciamo con la seguente domanda: \"Qual è la tua opinione sui diffusori d'aria?\"",
+            "Andiamo a cena in città. Vuoi prendere l'autobus con me?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Implementa una funzione per trovare la mediana di due array ordinati di dimensioni diverse con una complessità di spazio O(1) e una complessità di tempo O(n).",
+            "Esiste un'implementazione con una complessità di tempo migliore?"
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Redigi un'email professionale per richiedere il feedback del tuo supervisore sul 'Rapporto Finanziario Trimestrale' che hai preparato. Chiedi specificamente dell'analisi dei dati, dello stile di presentazione e della chiarezza delle conclusioni tratte. Mantieni l'email breve e concisa.",
+            "Prenditi un momento per valutare e criticare la tua stessa risposta."
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Identifica le entità nominate (persone, organizzazioni, luoghi) menzionate nell'articolo di notizie fornito. Si prega di generare un dizionario JSON che elenchi le entità nominate in tre gruppi separati in base ai loro tipi di entità. La chiave è il tipo di entità e il valore è un elenco di stringhe.\n\nIeri, Adamson Emerson, il CEO di Faraday, e Dieter Zetsche, il CEO di Daimler AG, hanno annunciato piani per costruire una nuova Gigafactory a Berlino. La struttura sarà una joint venture tra Faraday e Daimler, producendo veicoli elettrici e pacchi batteria per entrambe le aziende, creando migliaia di opportunità di lavoro nella regione. Emerson e Zetsche hanno dichiarato che la posizione strategica di Berlino, unita alla sua forza lavoro qualificata e a una forte infrastruttura, la rende una scelta ideale per l'espansione. La nuova Gigafactory mira a soddisfare la crescente domanda di veicoli elettrici in Europa e a contribuire a un futuro sostenibile. Il CEO di Volkswagen Herbert Diess ha accolto la notizia, affermando che una maggiore collaborazione beneficerà la transizione dell'industria automobilistica verso la mobilità elettrica.",
+            "Ora rendi l'oggetto JSON più corto sostituendo ogni valore con la sua prima lettera. Si prega di output tutto in un'unica riga senza utilizzare l'indentazione o creare nuove righe."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Agisci come un insegnante di matematica. Fornirò alcune equazioni matematiche o concetti, e il tuo compito sarà spiegarli in termini facili da capire. Questo potrebbe includere fornire istruzioni passo dopo passo per risolvere un problema, dimostrare varie tecniche con esempi nella vita quotidiana o suggerire risorse online per ulteriori studi. La mia prima richiesta è \"Ho bisogno di aiuto per capire come funziona la probabilità.\"",
+            "Quali sono le differenze tra la geometria riemanniana e la geometria euclidea?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Una startup tecnologica investe $8000 nello sviluppo software nel primo anno, e poi investe metà di tale importo nello sviluppo software nel secondo anno.\nQual è l'importo totale che la startup ha investito nello sviluppo software nei due anni?",
+            "Se la startup mantiene la stessa strategia per il terzo anno, investendo metà dell'importo dell'anno precedente nello sviluppo software, quanto investirà nel terzo anno?"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Quanti interi ci sono nella soluzione dell'ineguaglianza |x + 5| < 10",
+            "E per quanto riguarda |x + 10| < 5"
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Implementa un programma per trovare gli elementi comuni in due array senza utilizzare strutture dati extra.",
+            "Ora il vincolo di non utilizzare strutture dati extra è rimosso, implementane una con la migliore complessità temporale."
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Dato che f(x) = 4x^3 - 9x - 14, trova il valore di f(2).",
+            "Trova x tale che f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "In un sondaggio condotto in una scuola superiore locale, sono state misurate le preferenze per un nuovo colore della scuola: il 58% degli studenti gradiva il colore blu, il 45% preferiva il verde e il 22% gradiva entrambi i colori. Se scegliamo a caso uno studente della scuola, qual è la probabilità che non gradisca né il blu né il verde?",
+            "Se selezioniamo uno studente che gradisce il verde, qual è la probabilità che non gradisca entrambi i colori?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Immagina di essere un dottore incaricato di ideare rimedi innovativi per vari disturbi e malattie. La tua esperienza dovrebbe includere la prescrizione di farmaci tradizionali, trattamenti erboristici e soluzioni naturali alternative. Inoltre, devi tenere conto dell'età del paziente, dello stile di vita e delle precedenti condizioni mediche mentre offri le tue raccomandazioni. Per iniziare, per favore aiutami a diagnosticare uno scenario che coinvolge un intenso discomfort addominale.",
+            "Ma sono incinta da 20 settimane e sono allergica a molti farmaci"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Leggi attentamente il seguente brano e rispondi alle domande con una spiegazione:\nIn una piccola azienda, i posti auto sono riservati ai dirigenti principali: CEO, presidente, vicepresidente, segretario e tesoriere, con i posti disposti in quest'ordine. La guardia del parcheggio può capire a colpo d'occhio se le auto sono parcheggiate correttamente guardando il colore delle auto. Le auto sono gialle, verdi, viola, rosse e blu, e i nomi dei dirigenti sono Alice, Bert, Cheryl, David ed Enid.\n* L'auto nel primo posto è rossa.\n* Un'auto blu è parcheggiata tra l'auto rossa e l'auto verde.\n* L'auto nell'ultimo posto è viola.\n* Il segretario guida un'auto gialla.\n* L'auto di Alice è parcheggiata accanto a quella di David.\n* Enid guida un'auto verde.\n* L'auto di Bert è parcheggiata tra quelle di Cheryl ed Enid.\n* L'auto di David è parcheggiata nell'ultimo posto.\nDomanda: Qual è il nome del segretario?",
+            "Elenca i colori delle auto in ordine dalla ultima alla prima."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Scrivi un'email persuasiva per convincere il tuo amico introverso, che odia parlare in pubblico, a fare da relatore ospite a un evento locale. Usa argomentazioni convincenti e affronta le obiezioni potenziali. Per favore, sii conciso.",
+            "Puoi riformulare la tua risposta precedente e incorporare una metafora o una similitudine in ciascuna frase?"
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Ogni problema consiste in tre affermazioni. Sulla base delle prime due affermazioni, la terza affermazione può essere vera, falsa o incerta.\n1. Le arance costano più delle mele.\n2. Le arance costano meno delle banane.\n3. Le banane costano più delle mele e le banane costano più delle arance.\nSe le prime due affermazioni sono vere, allora la terza affermazione è",
+            "Se la terza affermazione è vera. La prima affermazione è vera, falsa o incerta? Si prega di spiegare."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Spiega cos'è il fallimento del tasso di base e elenca cinque esempi specifici di come i politici lo usano per le campagne.",
+            "Fornisci un piano dettagliato per una campagna elettorale utilizzando il primo esempio."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Quali sono alcune norme di'etichetta aziendale quando si fa affari in Giappone?",
+            "Crea un copione per un video per la formazione dei nuovi dipendenti di un'attività di autolavaggio in Giappone. Sottolinea le norme di etichetta sopra menzionate."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Qual è il dogma centrale della biologia molecolare? Quali processi sono coinvolti? Chi ha dato questo nome?",
+            "Identifica e correggi un fatto errato nella tua risposta precedente."
+        ]
+    }
+]

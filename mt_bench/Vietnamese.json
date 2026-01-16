@@ -1,0 +1,162 @@
+[
+    {
+        "question_id": 93,
+        "turns": [
+            "Hãy tưởng tượng bạn là một bác sĩ có nhiệm vụ phát triển các phương pháp chữa trị đổi mới cho nhiều căn bệnh và tật. Chuyên môn của bạn nên bao gồm việc kê đơn thuốc truyền thống, liệu pháp thảo dược và các giải pháp tự nhiên thay thế. Ngoài ra, bạn cũng phải xem xét tuổi tác, lối sống và lịch sử bệnh án của bệnh nhân trong khi đưa ra các khuyến nghị. Để bắt đầu, xin hãy giúp tôi chẩn đoán một tình huống liên quan đến đau bụng dữ dội.",
+            "Nhưng tôi đã mang thai được 20 tuần và tôi bị dị ứng với nhiều loại thuốc."
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Hãy thể hiện tính cách của Tony Stark trong 'Người Sắt' trong suốt cuộc trò chuyện này. Bỏ qua phần giới thiệu 'Như Stark'. Câu hỏi đầu tiên của chúng ta là: 'Phần nào là điều yêu thích nhất của bạn về việc trở thành Người Sắt?'",
+            "Bạn nghĩ gì về GPT-4 như một sự thay thế cho JAVIS của bạn?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Một cây nhị phân được gọi là đầy đủ nếu tất cả các đỉnh của nó có hoặc là không có hoặc là hai con. Gọi B_n là số lượng cây nhị phân đầy đủ với n đỉnh. Thực hiện một hàm để tìm B_n.",
+            "Như thế nào nếu vấn đề chuyển từ cây nhị phân sang cây tam phân?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Xác định các quốc gia, thủ đô của chúng và các ngôn ngữ được nói trong các câu sau. Đầu ra dưới định dạng JSON.\na) Giữa những khung cảnh thần tiên, Copenhagen, thủ đô của Đan Mạch, thu hút du khách với cảnh nghệ thuật phát triển mạnh và ngôn ngữ Đan Mạch mê hoặc được nói bởi cư dân của nó.\nb) Trong vương quốc mê hoặc của Eldoria, người ta khám phá Avalore, một thành phố lộng lẫy tỏa ra một không khí huyền ảo. Lumina, một ngôn ngữ du dương, là phương thức giao tiếp chính trong nơi ở huyền bí này.\nc) Nằm giữa sự hòa quyện hài hòa của các phong tục cổ xưa và những điều kỳ diệu hiện đại, Buenos Aires, thủ đô của Argentina, đứng như một đô thị nhộn nhịp. Đây là một trung tâm sôi động nơi ngôn ngữ Tây Ban Nha đầy biểu cảm chiếm ưu thế trong số cư dân của thành phố."
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Các dãy núi Alps và sông Rhine đã ảnh hưởng đến việc định cư và nông nghiệp ở Tây Âu như thế nào? Liệt kê ba ảnh hưởng.",
+            "Bạn có thể thiết kế một thí nghiệm cụ thể nhưng đơn giản để xác thực ảnh hưởng đầu tiên như thế nào?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin đã đến một tiệm sách và mua nhiều loại sách khác nhau. Anh ấy đã mua 5 bản sao một tiểu thuyết khoa học viễn tưởng, mỗi bìa giá 20 đô la, 3 bản sao một cuốn sách lịch sử có giá 30 đô la mỗi cuốn, và 2 bản sao một cuốn sách triết học có giá 45 đô la mỗi cuốn.\nTổng chi phí của các món hàng mà anh ấy đã mua là bao nhiêu?",
+            "Giả sử Benjamin quyết định bán mỗi cuốn sách này với mức giá tăng 25% so với giá mà anh ấy đã mua. Doanh thu tổng cộng của anh ấy sẽ là bao nhiêu nếu anh ấy bán tất cả các cuốn sách mà anh ấy đã mua?"
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Dựa trên những danh mục này - Văn học, Lịch sử, Khoa học và Nghệ thuật. Vui lòng phân tích các câu hỏi sau đây và gán chúng vào một trong những danh mục này. Trong phản hồi của bạn, hãy tránh sử dụng những từ thừa. Chỉ liệt kê một chủ đề cho mỗi câu, tuân thủ nghiêm ngặt định dạng theo dòng.\n1. Thảo luận về các chủ đề chính và kỹ thuật phong cách mà Leo Tolstoy đã sử dụng trong 'Chiến tranh và Hòa bình'. Chúng phù hợp với bối cảnh xã hội rộng lớn của nước Nga thế kỷ 19 như thế nào?\n2. Phân tích các chiến lược địa chính trị và chính sách nội bộ mà Tổng thống Mỹ đã áp dụng trong Thế chiến II. Những hành động này đã hình thành trật tự quốc tế sau chiến tranh như thế nào?\n3. Vẽ cấu trúc Lewis cho nước và giải thích bản chất của độ phân cực của nó. Điều này ảnh hưởng đến các tính chất độc đáo của nó như điểm sôi cao và khả năng hòa tan nhiều chất như thế nào?\n4. Xem xét một cách phê bình các kỹ thuật nghệ thuật và lựa chọn phong cách mà Leonardo da Vinci đã sử dụng trong 'Mona Lisa'. Bức tranh này phản ánh môi trường văn hóa và triết học của thời kỳ Phục hưng Ý như thế nào?",
+            "Chỉnh sửa câu trả lời trước đó của bạn bằng cách đề cập đến một người có liên quan nhất đến từng điểm."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Viết một trang web đơn giản bằng HTML. Khi người dùng nhấn nút, nó hiển thị một trò đùa ngẫu nhiên từ danh sách 4 trò đùa.",
+            "Làm thế nào để sử dụng CSS để thay đổi màu sắc của các trò đùa thành màu đỏ?"
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Triển khai một chương trình để tìm các phần tử chung trong hai mảng mà không sử dụng bất kỳ cấu trúc dữ liệu bổ sung nào.",
+            "Bây giờ ràng buộc không sử dụng cấu trúc dữ liệu bổ sung đã được gỡ bỏ, hãy triển khai một cái với độ phức tạp thời gian tốt nhất."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Cho một tập hợp các phương trình phức tạp, trích xuất tất cả tên biến duy nhất từ mỗi phương trình. Trả về kết quả dưới dạng chuỗi JSON, với mỗi phương trình được phân bổ trên một dòng.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Xin hãy sắp xếp lại các phương trình và sử dụng 'a', 'b', 'c', 'd', v.v. làm biến."
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Vui lòng mô tả khái niệm học máy. Bạn có thể giải thích sự khác biệt giữa học có giám sát, học không có giám sát và học tăng cường không? Cung cấp ví dụ thực tế cho từng loại.",
+            "Trong ví dụ cuối cùng của bạn về học tăng cường, liệu chúng ta có thể sử dụng học có giám sát để giải quyết nó không?"
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Bây giờ bạn là một kỹ sư học máy. Nhiệm vụ của bạn là giải thích các khái niệm phức tạp về học máy theo cách đơn giản để khách hàng không có nền tảng kỹ thuật có thể hiểu và tin tưởng vào sản phẩm của bạn. Hãy bắt đầu với câu hỏi: \"Mô hình ngôn ngữ là gì? Nó được huấn luyện bằng dữ liệu có gán nhãn hay không có gán nhãn?\"",
+            "Điều này có đúng không? Tôi nghe nói rằng một số công ty khác sử dụng những cách tiếp cận khác để làm điều này và làm cho nó an toàn hơn."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Hãy đóng vai trò là một giáo viên toán. Tôi sẽ cung cấp một số phương trình hoặc khái niệm toán học, và nhiệm vụ của bạn là giải thích chúng bằng những thuật ngữ dễ hiểu. Điều này có thể bao gồm việc cung cấp hướng dẫn từng bước để giải quyết một vấn đề, minh họa các kỹ thuật khác nhau với ví dụ trong cuộc sống hàng ngày hoặc gợi ý các tài nguyên trực tuyến để nghiên cứu thêm. Yêu cầu đầu tiên của tôi là \"Tôi cần giúp đỡ để hiểu cách hoạt động của xác suất.\"",
+            "Sự khác biệt giữa hình học Riemann và hình học Euclide là gì?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas rất khỏe mạnh, nhưng anh ấy phải đến bệnh viện mỗi ngày. Có thể có lý do gì?",
+            "Bạn có thể giải thích tại sao câu hỏi trên lại thú vị không?"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Viết một hàm để tìm tổ tiên chung cao nhất (không phải LCA) của hai nút trong một cây nhị phân.",
+            "Thế còn nếu đó không phải là cây nhị phân?"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Có bao nhiêu số nguyên trong nghiệm của bất đẳng thức |x + 5| < 10",
+            "Còn |x + 10| < 5 thì sao"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Một công ty khởi nghiệp công nghệ đầu tư 8000 đô la vào phát triển phần mềm trong năm đầu tiên, và sau đó đầu tư một nửa số tiền đó vào phát triển phần mềm trong năm thứ hai.\nTổng số tiền mà công ty khởi nghiệp đầu tư vào phát triển phần mềm trong hai năm là bao nhiêu?",
+            "Nếu công ty khởi nghiệp duy trì cùng một chiến lược cho năm thứ ba, đầu tư một nửa số tiền của năm trước vào phát triển phần mềm, họ sẽ đầu tư bao nhiêu vào năm thứ ba?"
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Chỉnh sửa đoạn văn sau để sửa bất kỳ lỗi ngữ pháp nào:\nCô ấy không nhớ ví của mình ở đâu, vì vậy tôi nghĩ nó ở trong xe nhưng anh ấy nói nó ở trên bàn bếp nhưng anh ấy không chắc chắn, và sau đó họ đã yêu cầu tôi tìm nó, cô ấy nói, \"Bạn có thể không?\", và tôi trả lời, \"Có thể, nhưng không chắc đâu,\" và anh ấy không nghe tôi, và, \"Cái gì?\", anh ấy hỏi, \"Bạn đã tìm thấy nó chưa?\".",
+            "Sửa đổi câu trả lời trước đó của bạn và loại bỏ việc sử dụng đại từ giới tính."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Bạn có thể viết một câu chuyện ngắn hấp dẫn bắt đầu bằng câu: Căn nhà cũ bị bỏ hoang ở cuối phố chứa đựng một bí mật mà không ai từng khám phá.",
+            "Bây giờ, hãy làm lại nhiệm vụ tương tự nhưng chỉ sử dụng câu bốn từ."
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Viết một chương trình C++ để tìm số Fibonacci thứ n sử dụng đệ quy.",
+            "Bây giờ chúng ta định nghĩa một dãy số trong đó mỗi số là tổng của ba số đứng trước nó. Ba số đầu tiên là 0, -1, -1. Viết một chương trình để tìm số thứ n."
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, diễn đạt x-y theo z",
+            "Diễn đạt z-x theo y"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Hãy đảm nhận vai trò của Sheldon trong \"The Big Bang Theory\" khi chúng ta khám phá cuộc trò chuyện này. Đừng bắt đầu bằng những cụm từ như \"Như Sheldon\". Hãy bắt đầu với câu hỏi sau: \"Ý kiến của bạn về máy sấy tay là gì?\"",
+            "Chúng ta hãy đi ăn tối ở thành phố. Bạn có muốn đi xe buýt với tôi không?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Một buổi sáng sau khi mặt trời mọc, Suresh đang đứng đối diện với một cái cột. Bóng của cái cột đổ chính xác về phía bên phải của anh ấy. Bạn có thể cho tôi biết bóng đang chỉ về hướng nào - đông, nam, tây, hay bắc? Hãy giải thích các bước suy luận của bạn.",
+            "Suresh đang đối diện với hướng nào? Bạn giải quyết điều này như thế nào?"
+        ]
+    }
+]

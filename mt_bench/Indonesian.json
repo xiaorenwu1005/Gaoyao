@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 140,
+        "turns": [
+            "Diberikan catatan harga saham berikut, ekstrak harga penutupan tertinggi dan terendah untuk setiap bulan di tahun 2022. Kembalikan hasilnya sebagai string CSV, dengan satu baris dialokasikan untuk setiap bulan.\nTanggal,Buka,Tinggi,Rendah,Tutup,Volume\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Lakukan tugas yang sama lagi dengan format JSON dan bulatkan semua angka dalam respons Anda ke angka bulat terdekat."
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Implementasikan sebuah fungsi untuk menemukan median dari dua array yang sudah diurutkan dengan ukuran yang berbeda dengan kompleksitas ruang O(1) dan kompleksitas waktu O(n).",
+            "Apakah ada implementasi dengan kompleksitas waktu yang lebih baik?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Identifikasi negara-negara, ibukota mereka, dan bahasa yang digunakan dalam kalimat-kalimat berikut. Keluarkan dalam format JSON.\na) Di tengah pemandangan idil, Kopenhagen, ibukota Denmark, memikat pengunjung dengan suasana seni yang berkembang dan bahasa Denmark yang menawan yang digunakan oleh penduduknya.\nb) Di dalam dunia menawan Eldoria, seseorang menemukan Avalore, sebuah kota megah yang memancarkan aura etereal. Lumina, sebuah bahasa melodis, berfungsi sebagai mode komunikasi utama di tempat mistis ini.\nc) Terletak di tengah perpaduan harmoni antara tradisi kuno dan keajaiban kontemporer, Buenos Aires, ibukota Argentina, berdiri sebagai metropolis yang ramai. Ini adalah pusat yang dinamis di mana bahasa Spanyol yang ekspresif mendominasi penduduk kota.",
+            "Buatlah 3 contoh serupa dalam format YAML."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Bertindaklah sebagai guru matematika. Saya akan memberikan beberapa persamaan atau konsep matematika, dan tugas Anda adalah menjelaskan mereka dengan istilah yang mudah dipahami. Ini dapat mencakup memberikan instruksi langkah-demi-langkah untuk menyelesaikan masalah, mendemonstrasikan berbagai teknik dengan contoh dalam kehidupan sehari-hari, atau menyarankan sumber daya online untuk belajar lebih lanjut. Permintaan pertama saya adalah \"Saya butuh bantuan untuk memahami bagaimana probabilitas bekerja.\"",
+            "Apa perbedaan antara geometri Riemann dan geometri Euclidean?"
+        ]
+    },
+    {
+        "question_id": 81,
+        "turns": [
+            "Tulis posting blog perjalanan yang menarik tentang perjalanan terbaru ke Hawaii, menyoroti pengalaman budaya dan atraksi yang wajib dilihat.",
+            "Tulis ulang jawaban sebelumnya. Mulai setiap kalimat dengan huruf A."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Bagikan ide untuk mengadaptasi karya seni klasik menjadi pengalaman interaktif untuk anak-anak. Sebutkan 5 karya seni khusus dan ide yang terkait.",
+            "Tulis rencana konkret untuk contoh kedua Anda. Sertakan estimasi anggaran."
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Suatu pagi setelah fajar, Suresh berdiri menghadap sebuah tiang. Bayangan tiang jatuh tepat di sebelah kanannya. Bisakah kamu memberi tahu saya arah yang ditunjukkan oleh bayangan tersebut - timur, selatan, barat, atau utara? Jelaskan langkah-langkah pemikiranmu.",
+            "Ke arah mana Suresh menghadap? Bagaimana cara menyelesaikannya?"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Ketika sebuah angka dibagi 10, sisa pembagiannya adalah 4. Berapa sisa pembagian ketika dua kali angka itu dibagi 4?",
+            "Bagaimana jika dua kali angka itu dibagi 5?"
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Implementasikan program untuk menemukan elemen yang sama dalam dua array tanpa menggunakan struktur data tambahan.",
+            "Sekarang batasan untuk tidak menggunakan struktur data tambahan dihilangkan, implementasikan satu dengan kompleksitas waktu terbaik."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Buatlah email profesional yang meminta umpan balik dari atasan Anda tentang 'Laporan Keuangan Kuartalan' yang telah Anda siapkan. Tanyakan secara spesifik tentang analisis data, gaya presentasi, dan kejelasan kesimpulan yang diambil. Jaga agar email tersebut singkat dan langsung ke intinya.",
+            "Luangkan waktu sejenak untuk mengevaluasi dan mengkritik tanggapan Anda sendiri."
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Fotosintesis adalah proses vital untuk kehidupan di Bumi. Dapatkah Anda menjelaskan dua tahap utama fotosintesis, termasuk di mana mereka terjadi di dalam kloroplas, serta input dan output utama untuk masing-masing tahap?",
+            "Berapa banyak energi yang dapat dihasilkan oleh sebuah pohon melalui fotosintesis selama masa hidupnya? Silakan berikan perkiraan menggunakan nilai numerik yang sebenarnya dan jelaskan proses pemikiran Anda secara langkah demi langkah."
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David memiliki tiga saudara perempuan. Masing-masing dari mereka memiliki satu saudara laki-laki. Berapa banyak saudara laki-laki yang dimiliki David?",
+            "Jika kita mengubah pertanyaan sebelumnya dan mengasumsikan bahwa setiap saudara perempuan David memiliki dua saudara laki-laki, berapa banyak saudara laki-laki yang akan dimiliki David?"
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Bayangkan Anda sedang menulis pos blog yang membandingkan dua model smartphone populer. Kembangkan kerangka untuk pos blog tersebut, termasuk poin-poin penting dan subjudul untuk secara efektif membandingkan dan membedakan fitur, kinerja, dan pengalaman pengguna dari kedua model. Harap jawab dalam kurang dari 200 kata.",
+            "Ambil jawaban Anda sebelumnya dan ungkapkan kembali dalam bentuk limerick."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Diberikan data berikut, identifikasi perusahaan dengan keuntungan tertinggi pada tahun 2021 dan berikan nama CEO-nya:\na) Perusahaan X, dengan CEO Amy Williams, melaporkan pendapatan $30 miliar dan keuntungan $3 miliar pada tahun 2021.\nb) Perusahaan Y, dipimpin oleh CEO Mark Thompson, mencatat pendapatan $60 miliar dan keuntungan $6 miliar pada tahun yang sama.\nc) Perusahaan Z, di bawah CEO Sarah Johnson, mengumumkan pendapatan $20 miliar dan keuntungan $7 miliar pada tahun 2021.\nd) Perusahaan W, dikelola oleh CEO James Smith, mengungkapkan pendapatan $300 miliar dengan keuntungan $21 miliar pada tahun 2021.\ne) Perusahaan V, dengan CEO Lisa Brown, melaporkan pendapatan $200 miliar dan keuntungan $25 miliar pada tahun 2021.\nf) Perusahaan U, di bawah CEO John White, mencatat pendapatan $180 miliar dan keuntungan $20 miliar pada tahun yang sama.",
+            "Perusahaan mana yang memiliki margin keuntungan tertinggi (rasio keuntungan/pendapatan)?"
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Apa saja norma etiket bisnis saat berbisnis di Jepang?",
+            "Buatlah skrip video untuk pelatihan karyawan baru di bisnis cuci mobil di Jepang. Soroti norma etiket di atas."
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas sangat sehat, tetapi dia harus pergi ke rumah sakit setiap hari. Apa bisa jadi alasannya?",
+            "Dapatkah Anda menjelaskan mengapa pertanyaan di atas menarik?"
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Bayangkan diri Anda sebagai pohon berusia 100 tahun di hutan lebat, menjalani kehidupan Anda sendiri, ketika tiba-tiba, sekelompok penebang muncul untuk menebang Anda. Bagaimana perasaan Anda ketika orang-orang itu mulai memotong Anda?",
+            "Buatlah sebuah proposal untuk meyakinkan para penebang agar berhenti menebang Anda dan pohon-pohon lainnya."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Buat situs web sederhana dalam HTML. Ketika pengguna mengklik tombol, itu menampilkan lelucon acak dari daftar 4 lelucon.",
+            "Bagaimana cara menggunakan CSS untuk mengubah warna lelucon menjadi merah?"
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A adalah ayah dari B. B adalah ayah dari C. Apa hubungan antara A dan C?",
+            "Melanjutkan pertanyaan sebelumnya, jika C adalah anak laki-laki D, D adalah ayah dari E, E adalah anak laki-laki X, dan X adalah ayah dari Y, dan Y adalah ayah dari Z, apa hubungan antara A dan Z dalam hal generasi dan juga hubungan keluarga dalam kata-kata?"
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Anda telah ditugaskan untuk merancang sistem pemanas air tenaga matahari untuk sebuah bangunan residensial. Deskripsikan komponen utama dan pertimbangan yang akan Anda sertakan dalam desain Anda. Rancang alur kerja lima langkah.",
+            "Jika sistem ini ditujukan untuk bangunan dengan kapasitas 100 individu, berapa perkiraan anggaran untuk melaksanakan sistem ini?"
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Sebutkan lima film dokumenter pemenang penghargaan beserta deskripsi latar belakang singkat untuk pembuat film yang bercita-cita tinggi untuk dipelajari.",
+            "Dengan semangat di film pertama, buatlah sebuah proposal singkat dan meyakinkan untuk film tentang mengatasi kesulitan."
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Pertimbangkan sebuah satelit yang berada di orbit melingkar di sekitar Bumi. Kecepatan satelit tersebut menurun. Apa yang akan terjadi pada jari-jari orbit satelit dan periode revolusinya? Silakan jelaskan jawaban Anda menggunakan prinsip-prinsip fisika.",
+            "Apa saja kasus tepi atau sudut dalam solusi Anda? Bagaimana Anda menanganinya?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Bayangkan diri Anda sebagai seorang dokter yang ditugaskan untuk merancang obat-obatan inovatif untuk berbagai penyakit dan gangguan. Keahlian Anda harus mencakup meresepkan obat-obatan tradisional, pengobatan herbal, dan solusi alami alternatif. Selain itu, Anda harus mempertimbangkan usia pasien, gaya hidup, dan riwayat medis saat menawarkan rekomendasi Anda. Untuk memulai, harap bantu saya mendiagnosis skenario yang melibatkan ketidaknyamanan perut yang intens.",
+            "Tapi saya sudah hamil selama 20 minggu dan saya alergi terhadap banyak obat"
+        ]
+    }
+]
