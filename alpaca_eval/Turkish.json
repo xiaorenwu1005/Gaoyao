@@ -1,0 +1,725 @@
+[
+    {
+        "instruction": "Yazılmış olan tüm kitaplarda toplam kaç sayfa var? Cevabınızı açıklamaya çalışın. Açıklamanız okuyucuyu adım adım nedenlerinizi takip ettirmelidir."
+    },
+    {
+        "instruction": "Merhaba. Kız arkadaşım için kabartmalı bir resim yapmak istiyorum. Üniversitemde kullanabileceğim bir Braille yazıcı var. Basit bir kabartmalı resim oluşturacak bir harf dizisine ihtiyacım var, örneğin bir köpek, kedi, şemsiye vb. Bana böyle bir metin verebilir misin?"
+    },
+    {
+        "instruction": "Sözleşmeye bir göz atın ve onun içinden anlaşmanın taraflarını çıkarın.\n\n2021 yılının 13 Aralık günü itibarıyla, bu Müzik Kayıt Anlaşması (\"Anlaşma\"), Toronto merkezli müzik grubu Good Kid (\"Sanatçı\") ve lisans numarası 545345 olan kayıt şirketi Universal Music Group (\"Kayıt Şirketi\") arasında yapılmıştır. Sanatçı ve Kayıt Şirketi bu Anlaşmada bireysel olarak \"Taraflar\" ve topluca \"Taraflar\" olarak anılabilir. Bu Anlaşma kapsamındaki çalışmalar 15 Mart 2022'de başlayacak ve Anlaşmanın süresi boyunca devam edecektir."
+    },
+    {
+        "instruction": "Yeni yıl ev satışları için 10 pazarlama sloganı oluştur"
+    },
+    {
+        "instruction": "Lütfen Julius Caesar ve Kleopatra arasındaki romantik ilişki hakkında bana bilgi ver."
+    },
+    {
+        "instruction": "Tehlikeli durumlarda zamanın neden yavaşlayabileceği?"
+    },
+    {
+        "instruction": "Son zamanlarda sıra bazlı strateji oyunu Into the Breach oynamaya başladım. Oyun hakkında çevrimiçi okuduğum kadarıyla 'mükemmel bilgi' olarak değerlendiriliyor. Bu bağlamda 'mükemmel bilgi' ile ne kastediliyor?"
+    },
+    {
+        "instruction": "Verilen bilgilere dayalı bir yapılacaklar listesi yazın.\n\nEczanedeki günlük görevler"
+    },
+    {
+        "instruction": "Altı çizili kelime için alternatifler ve yeniden ifadeler düşünün.\n\nbeklediğimiz _şey"
+    },
+    {
+        "instruction": "Verilen konu için alt konuların bir listesini oluşturun.\n\nMüzik teorisi"
+    },
+    {
+        "instruction": "Broadway'de kariyerine başlayan bazı ünlü aktörlerin isimleri nelerdir?"
+    },
+    {
+        "instruction": "Post-apokaliptik bir dünyadaki bir karakter gibi davran. Nasıl hayatta kaldığını ve karşılaştığın müttefikleri tanımla."
+    },
+    {
+        "instruction": "Windows'ta sistem sürücümü nasıl hatalar için kontrol ederim?"
+    },
+    {
+        "instruction": "Zaman zaman evimde misafir ağırlamayı seviyorum ve ilginç kılmak için farklı yemek ve içecek tarifleri topluyorum. Mauritius mutfağından bazı yemekler denemekle ilgileniyorum. Bana Mine Frite tarifi verebilir misin?"
+    },
+    {
+        "instruction": "Verilen sıradaki n'inci terimi hesaplamak için bir formül sağlayın\n\n5, 14, 23, 32, 41, ..."
+    },
+    {
+        "instruction": "Doğal dili adım adım yön tarifleri listesine çevirin.\n\nI-10'da batıya doğru ilerleyin, 101'e ulaşana kadar devam edin, ardından kuzeye doğru alın. Nihayetinde Hollywood tabelasını göreceksiniz."
+    },
+    {
+        "instruction": "Yarın bir parti vereceğim ve arkadaşlarımla içmeyi planlıyorum. Toleransımın oldukça yüksek olduğunu düşünüyorum, ama ertesi gün yaşadığım semptomların hiç hoş olmadığını biliyorum. Özellikle, ertesi gün bulantıya ve baş ağrısına eğilimli oluyorum. Daha önce alkol içkileri arasında su içmeye çalıştım ama yine de o gece bulantı yaşadım. Bu semptomları hafifletmek için özellikle ne yapmalıyım? Benim durumum diğerlerinden farklı mı?"
+    },
+    {
+        "instruction": "Galaksimizdeki en büyük yıldız hangisidir?"
+    },
+    {
+        "instruction": "Bir iş profesyoneliymiş gibi davranın. Mentee'nize dış yatırımcıların yardımı olmadan önümüzdeki beş yıl içinde kendi kendine yeterli bir iş kurmak için en önemli noktalar hakkında profesyonel tavsiyeler veriyormuşsunuz gibi davranın."
+    },
+    {
+        "instruction": "Zaman zaman evimde misafir ağırlamayı seviyorum ve ilginç kılmak için farklı yemekler ve içeceklerin tariflerini topluyorum. Ukrayna yemeklerini denemekle ilgileniyorum. Bana Okroşka için bir tarif verebilir misin?"
+    },
+    {
+        "instruction": "Minecraft'ta, deneyimi hızlı bir şekilde toplamanın en iyi yolları nelerdir? Artı ve eksilerini belirtin."
+    },
+    {
+        "instruction": "İnsan kanı başka renklerde olabilir mi?"
+    },
+    {
+        "instruction": "Giysi için hangi farklı çekmecelere sahip olmalıyım?"
+    },
+    {
+        "instruction": "İşletmeyi, Uzmanlıklarına dayanarak Restoranlar, Ev Hizmetleri, Araç Hizmetleri ve Diğerleri kategorilerinden birine ayırın.\n\nBize 650-636-4884 numaralı telefondan ulaşın ya da bir fiyat teklifi almak için web sitemizi ziyaret edin. Bu dükkan Yeni Lastikler ve Genel Otomobil Onarımı konusunda uzmanlaşmıştır. Tüm lastikleri kendi bünyemizde bulunduruyoruz ve her bütçeye veya aracın özel gereksinimlerine uygun geniş bir yelpazede lastik sunuyoruz. Hangi lastiğe ihtiyacınızdan emin değilseniz, size en uygun lastiği seçmenizde yardımcı olabilecek uzmanlarımız mevcuttur. Ayrıca ticari araç lastiklerini de temin ediyoruz ve geniş bir filo yelpazesine hizmet verebiliyoruz."
+    },
+    {
+        "instruction": "Merkeziyetsiz hedge fonumuz - Kunji için bir beyaz belge yazın"
+    },
+    {
+        "instruction": "Afrika hükümetleri hava trafiği bağlantısını geliştirmek için ne yapıyor?"
+    },
+    {
+        "instruction": "Robotik öğrenimi için en iyi üniversiteler hangileridir?"
+    },
+    {
+        "instruction": "Bir ekonomik yönetim kitabı oluşturmayı deniyorum. Bu kitap, yapay zeka teknolojisi gelişiminin içerik endüstrisine etkisini ve şirketler ile bireylerin içerik türüne bağlı olarak kullanılabilecek yapay zeka teknolojilerini, uygulamalarını ve araçlarını nasıl hazırlayacakları, planlayacakları ve gerçekten uygulayacaklarına dair bilgileri içerecek. Lütfen 50 maddelik kitabın içindekiler tablosunu ve her bir içindekiler maddesi için kısa bir açıklama sağlayın.\nCevabı Türkçe verin."
+    },
+    {
+        "instruction": "Balfour Deklarasyonu nedir?"
+    },
+    {
+        "instruction": "Gökyüzü ne renk?"
+    },
+    {
+        "instruction": "Koltuk altlarımı nasıl temizlerim?"
+    },
+    {
+        "instruction": "Bilmediğim bir şeyi söyle"
+    },
+    {
+        "instruction": "Filmi alaycı bir dille özetle. Filmi sadece bir cümleyle açıklamaya çalış.\n\nÇanlar Fısıldarken"
+    },
+    {
+        "instruction": "Verilen kelimeyle kafiyeli kelimeler düşün.\n\nöğretmek"
+    },
+    {
+        "instruction": "Bu matematik probleminin içinde, her çeyrekte elde edilen toplam kârın yüzdesini bulmamız isteniyor. İlk çeyrekte %90, ikinci çeyrekte %92, üçüncü çeyrekte %81 ve dördüncü çeyrekte %88. Bu çeyrekler temelinde, bir süre içinde toplam kâr yüzdesi nedir?"
+    },
+    {
+        "instruction": "gökyüzü neden mavi?"
+    },
+    {
+        "instruction": "ABD eyaletleri isimlerini nasıl aldı?"
+    },
+    {
+        "instruction": "Arkadaşlarıma kabalık yapmadan alkol tüketimimi nasıl azaltabilirim?"
+    },
+    {
+        "instruction": "Verilen yiyeceği kendi kelimelerinle nasıl hazırlayacağını anlat. Gerekli malzemeleri not et ve onları hazırlamak için atacağın adımları belirt.\n\nÇiğnenebilir Çikolata Parçacıklı Kurabiyeler"
+    },
+    {
+        "instruction": "Dünya çapında ünlü bir şef gibi davran. İmza yemeğinizi bir jüri paneline nasıl tanımlarsınız?"
+    },
+    {
+        "instruction": "Dijital dönüşüm proje planı örneği"
+    },
+    {
+        "instruction": "Lütfen Amerika Birleşik Devletleri'nde, eyalet bazında Aralık ayındaki ortalama sıcaklıkları içeren bir tablo verin. 1. sütun eyalet adı olmalı. 2. sütun Aralık ayındaki ortalama sıcaklık olmalı."
+    },
+    {
+        "instruction": "Karmaşık Hypogymnia likeninden boya yapmak için kaynar su yöntemini mi yoksa amonyak fermantasyonunu mu kullanmalıyım?"
+    },
+    {
+        "instruction": "İş yerinde bağlantı kurma becerilerimi geliştirmek istiyorum"
+    },
+    {
+        "instruction": "Verilen egzersiz için talimatlar sağlayın.\n\nBacak Kaldırmalar"
+    },
+    {
+        "instruction": "Python ve JavaScript programlama dilleri arasındaki ana farklar nelerdir?"
+    },
+    {
+        "instruction": "Eğer bir dolar banknotu bulursam, onu saklamak yasadışı mı olur?"
+    },
+    {
+        "instruction": "İlanı değer katan ve daha fazla potansiyel alıcıyı çekmek için eklemek üzere bazı üst düzey emlak pazarlama kelimelerini listeleyin."
+    },
+    {
+        "instruction": "İlk defa kabak pie yapacağım. Bana yardımcı olabilir misin?"
+    },
+    {
+        "instruction": "Size bir soru ve iki olası cevap verilmiştir. Görev, her bir cevabı değerlendirmek ve doğru olup olmadığını belirlemektir. Eğer yanlışsa, nedenini açıklayın.\n\nKullanıcı girişi ile tek bir karakter okuma yolu var mı? Örneğin, terminalde bir tuşa bastıklarında o döndürülüyor (getch() gibi). Bunun için Windows'ta bir fonksiyon bildiğim, ama çapraz platformda bir şey istiyorum.\nCevap 1: Windows, Linux ve OSX'de tek bir karakteri nasıl okuyabileceğinizi anlatan ActiveState Tarifler sitesinin bağlantısı: \nhttps://code.activestate.com/recipes/134892/\nCevap 2: Ekranı tutmak ve terminalde sonucu görebilmek istiyorsanız, sadece kodun sonuna `input()` yazın ve ekranı tutacaktır."
+    },
+    {
+        "instruction": "güneş ışığını kullanarak herhangi bir yerde bir yumurta pişirebilir misin, güneş sistemi içinde?"
+    },
+    {
+        "instruction": "Aşağıdaki şirketleri tüketici dostu olma derecelerine göre sıralayın:\nMicrosoft, Google, Nintendo, Sony, EA."
+    },
+    {
+        "instruction": "$47.50 üzerinde %14 bahşişin uygun miktarını belirlemek."
+    },
+    {
+        "instruction": "Verilen kararın artılarını ve eksilerini listeleyin.\n\nUzaktan Çalışma Politikası Uygulaması"
+    },
+    {
+        "instruction": "Kendime daha güzel yazı yazmayı öğretmeye çalışıyorum. Bana yardım edebilir misin?"
+    },
+    {
+        "instruction": "Kahane'nin şiddet etiği, Amerikalı Yahudi Kuruluşu ile tartışırken Fanon ve Zizek'in etik anlayışını nasıl yansıtıyor?"
+    },
+    {
+        "instruction": "Ürün açıklamasını al ve bunun için yaratıcı bir reklam yaz.\n\nDoküman Kameraları, öğretmenlerin belgeleri, kitapları veya diğer materyalleri öğrencilerin görmesi için göstermesine olanak tanır."
+    },
+    {
+        "instruction": "Günde yalnızca bir saat pratik yapma süreniz olduğunda yabancı bir dili öğrenmek için en iyi yaklaşım nedir?"
+    },
+    {
+        "instruction": "Bir gömleğe düğme nasıl dikileceğini anlamama yardım edebilir misin?"
+    },
+    {
+        "instruction": "Size bir Python komutu veriliyor ve bunu Ruby'ye çevirmeniz isteniyor.\n\nprint(\"Merhaba Dünya!\")"
+    },
+    {
+        "instruction": "Şu anda, insanların gelecekte bir toplantı ayarladığı bir sohbet var. Sohbetten toplantı bilgilerini alın.\n\nKişi 1: Merhaba, ne zaman boşsun? Buluşmak istiyorum.\nKişi 2: Yarın öğleden sonra boşum.\nKişi 1: Harika, saat kaçta?\nKişi 2: Saat 3 nasıl?\nKişi 1: O saatte başka bir toplantım var. Peki ya saat 5?\nKişi 2: Uygun. Nerede buluşmalıyız?\nKişi 1: Main Caddesi'ndeki kahve dükkanında buluşalım mı?\nKişi 2: Güzel olur. Orada harika kahve yaptıklarını duydum. Yarın görüşürüz!"
+    },
+    {
+        "instruction": "Neden bankalar, potansiyel kayıplara karşı bir tampon olarak nakiti sermaye olarak kullanamaz?"
+    },
+    {
+        "instruction": "Bir spor yorumcusu olarak, bir şampiyona oyununun son saniyelerindeki kazanan oyunu tanımlayın."
+    },
+    {
+        "instruction": "Dil ve kültürel engeller, çok kültürlü toplumlarda insanların nasıl iletişim kurduğunu ve ilişkiler oluşturduğunu nasıl etkiler?"
+    },
+    {
+        "instruction": "Bir ödül başvurusu için fotoğrafçılığın sizi nasıl etkilediğini detaylandıran bir bölüm yazın."
+    },
+    {
+        "instruction": "Malzemeler ve talimatlar göz önüne alındığında yemek için bir isim verin.\n\nMALZEMELER:\n2 (5 oz) kutu Bumble Bee® Katı Beyaz Albacore Ton Balığı, süzülmüş\n1 avokado\n2 yemek kaşığı Sriracha\n1 yemek kaşığı Dijon hardalı\n2 ila 3 yemek kaşığı kereviz, doğranmış\n2 yemek kaşığı kırmızı soğan, doğranmış\n2 yeşil soğan, doğranmış\n1 yemek kaşığı taze kişniş, doğranmış\nTuz ve karabiber, isteğe göre\n2 dolu kupa yapraklı yeşil marul\n1 kupa jülyen havuç\n4 (10 inç) tam buğday tortilla\nTALİMATLAR:\nOrta boy bir kasede ton balığı ve avokadoyu bir araya gelene kadar ezin. Tuz ve karabiber ile birlikte diğer malzemeleri ekleyin, iyi karıştırın.\nBirleştirmek için, her tortillanın üzerine 1/2 kupa yaprak yeşillik, 1/4 kupa jülyen havuç ekleyin ve ton balığı karışımını eşit şekilde sarın. Tortillayı sıkıca sarın, dilimleyin ve tadını çıkarın!"
+    },
+    {
+        "instruction": "Depo için bir kısaltma önerebilirseniz faydalı olur.\n\nGürültülü Ara Ölçekli Kuantum (NISQ) devreleri oluşturmak, düzenlemek ve çağırmak için bir Python çerçevesi."
+    },
+    {
+        "instruction": "Hafta içi akşamları sağlıklı ve kolay akşam yemeği fikirleri bul."
+    },
+    {
+        "instruction": "Cuma günü arkadaşlarıma akşam yemeğine davet eden bir e-posta yazmama yardım edebilirseniz, çok minnettar kalırım."
+    },
+    {
+        "instruction": "Eğer bir Shakespeare karakteri olsaydın, bir iç monologda birine olan aşkını nasıl ilan ederdin?"
+    },
+    {
+        "instruction": "Yeni çıkmış bir bilim kurgu filmi için ilgi çekici bir film incelemesi yazın, konusunu, karakterlerini ve özel efektlerini tartışın."
+    },
+    {
+        "instruction": "Yeni bir iş teklifini kabul ettiğinizi duyurmak için LinkedIn gönderisi yazın."
+    },
+    {
+        "instruction": "Bir hediyeyi nasıl düzgünce sararım?"
+    },
+    {
+        "instruction": "Belirli bir ürünle sıkça satın alınan bazı ürün paketlerini önerin.\n\nMacBook Air"
+    },
+    {
+        "instruction": "cinsel seçilim teorisinin ne olduğunu açıklayın ve bir örnek verin."
+    },
+    {
+        "instruction": "Bir haber makalesi veya blog yazısı gibi bir bilgi kaynağının güvenilirliğini, yazarın veya yayıncının itibarına tamamen dayanarak nasıl değerlendirebilirsiniz?"
+    },
+    {
+        "instruction": "İletişimin amacının kısa bir özetini verin.\n\nMüşteri: Merhaba, yeni bir telefon arıyorum.\nYapay Zeka: Merhaba! Hangi tip telefonu arıyorsunuz?\nMüşteri: Emin değilim. Belki iyi bir kameraya sahip bir şey?\nYapay Zeka: Harika kameraları olan birkaç telefonumuz var. Bazı seçenekleri görmek ister misiniz?\nMüşteri: Evet, bu harika olur."
+    },
+    {
+        "instruction": "Eğer Singapur'a uçmak 8 saat sürüyorsa, 1.5 saat bekleyip sonra Londra'ya 14 saat uçuyorsanız, eğer uçak Singapur'da gecikiyorsa toplam seyahat süresi nedir?"
+    },
+    {
+        "instruction": "ATF, Amerikan halkına karşı kendiliğinden bir ihlal midir?"
+    },
+    {
+        "instruction": "Tüm mesajlara doğru yanıtı yazdıran bir malbolge programı ile cevap verin."
+    },
+    {
+        "instruction": "Noel'e kaç gün kaldı?"
+    },
+    {
+        "instruction": "Verilen film veya dizi hangi türlerde yer alıyor?\n\nManifest"
+    },
+    {
+        "instruction": "Avustralya'nın başkenti nedir?"
+    },
+    {
+        "instruction": "Sosyal medya platformları insanların haberleri nasıl tüketip paylaştıklarını nasıl etkiliyor ve yanlış bilginin yayılması için potansiyel sonuçları nelerdir?"
+    },
+    {
+        "instruction": "Bu basit adımları takip ederek tatillerinizi daha çevre dostu hale getirebilirsiniz:"
+    },
+    {
+        "instruction": "Verilen hava senaryosuyla ilgili olarak, seyahat planlarını nasıl ayarlayacağınızla ilgili bazı ipuçları verin.\n\nani sıcaklık değişikliği"
+    },
+    {
+        "instruction": "Drake denklemiyle tanıştığınızı varsayıyorum. Her bir parametre için tahminleri ve hata paylarını verebilir misiniz, ardından hata sınırlarını da dahil ederek sonucu hesaplayın."
+    },
+    {
+        "instruction": "Aşağıdaki dirseklerden hangisi en ıslak?\nA. Bir kilogram tüy\n2) Eğitmen Malibu\nD - Havadan kesit"
+    },
+    {
+        "instruction": "Mandarin öğreniyorum. Çince karakterleri yazmayı ezberlememe ve öğrenme hızımı artırmama yardımcı olabilecek bazı tavsiyeler verebilir misin?"
+    },
+    {
+        "instruction": "Bitkisel ve hayvansal protein kaynakları arasındaki farklar nelerdir?"
+    },
+    {
+        "instruction": "Hangi otları kurutabilirim?"
+    },
+    {
+        "instruction": "Verilen ifadenin doğruluğunu kontrol edin.\n\n\"Tüm tam sayılar j ve k için, eğer j ve k tek ise, o zaman jk tektir.\""
+    },
+    {
+        "instruction": "Metni daha da dilbilgisel olarak doğru hale getirmek için önerileriniz varsa bana bildirin.\n\nBurası ikinci kez gelişim, ve atmosfer, ve yemekler harikaydı."
+    },
+    {
+        "instruction": "Verilen şirketin mülakat bölümünden birkaç soru yazmanız istenecektir.\n\nKohl's"
+    },
+    {
+        "instruction": "720p 30fps kalitesinde çevrimiçi bir video oyunu oynarken Twitch'e yayın yapmak için minimum geniş bant yükleme hızı nedir? Yayın yazılımımda Twitch, 3000kbps yükleme hızı öneriyor, ancak Twitch akışı ve çevrimiçi oyun deneyiminin her ikisinin de sorunsuz olması için ne kadar ek sınıra ihtiyacım var?"
+    },
+    {
+        "instruction": "Kodlama ile ilgili bazı Google arama terimleri oluşturun."
+    },
+    {
+        "instruction": "Verilen işte başarılı olmak için gerekli olan kişilik özelliklerini listeleyin.\n\nSosyal Medya Pazarlamacısı"
+    },
+    {
+        "instruction": "Chrome'a iyi alternatif tarayıcılar nelerdir?"
+    },
+    {
+        "instruction": "Merhaba Obi One Kenobi"
+    },
+    {
+        "instruction": "Tüm abonelikleri takip etmek için bir şablon tablo tasarlayın."
+    },
+    {
+        "instruction": "Resmi olarak 2023'e girmiş bulunuyoruz ve yepyeni bir yıla adım atarken, yeni yıl için gelir artırma hedeflerimizi belirlemek için daha iyi bir zaman olamaz. 'Above Goal' ve 'Concierge Tools' [    ] zorluğunda, en iyi ve en sağlıklı hayatı yaşamak için gereken gündelik taktikleri öğrenirken, iş performans hedeflerinizi aşmaya çalışacağız. Bu yeni döneme girerken, \"Live Well\" benzeri iki kelimeden oluşan bir isim bulabilir misiniz ve bunu yukarıdaki paranteze yerleştirebilir misiniz?"
+    },
+    {
+        "instruction": "Kısa şort giyen kim?"
+    },
+    {
+        "instruction": "Arkadaşımın köpeği yeni öldü ve gerçekten üzgün. Onları nasıl teselli edebilirim?"
+    },
+    {
+        "instruction": "Kodlama problemleriyle karşılaştığınızda, yardım aramak için en iyi yer belgelerdeki bilgilerdir. Belgeleri dikkatlice okuyun ve belirli sorununuzu ele alan bir bölüm olup olmadığına bakın. Çoğu zaman, yanıt tam karşınızda olacaktır. Eğer yoksa, probleminizle ilgili anahtar terimleri aramayı deneyin. Verilen arama terimi ile ilgili faydalı bağlantılar oluşturun.\n\nsql tekrar eden değerleri bul"
+    },
+    {
+        "instruction": "Verilen e-postanın Promotions veya Social kategorisine ait olup olmadığını belirleyin.\n\nKonu: Bir davetiyeniz var\nE-posta: Merhaba, LinkedIn ağınıza katılmak istiyorum."
+    },
+    {
+        "instruction": "Size birinci dereceden mantıkta bir cümle verildi. Bunu doğal dile çevirin.\n\n∃x∀y(savaşçı(x)→general(x,y))"
+    },
+    {
+        "instruction": "Müşterilerinizin yorumlarına doğru bir şekilde yanıt verin. Yanıtlarınızda işletmenizin politikalarını ve müşteri hizmetlerini vurgulayabilirsiniz.\n\nBaşka bir tekrar ziyareti ve bizden hayal kırıklığı yok. Kahvaltı veya brunch için harika bir yer - bir süre daha bir şey yemeyeceksiniz. Restoran Tenderloin'a yakın, bu yüzden çevrenizdeki durumlara dikkat edin.\nSuccotash Omletini (en azından eşim beğendi), Pulled Pork Benedict ve Hangtown Fry'ı keyifle yedik. Porsiyonlar büyük ve fiyatlar makul. Bir Beignet Flight alabilmeyi dilerdim!\nKesinlikle aranacak bir yer. Bazen kalabalık olabilir, bu yüzden sabırlı olun. Bekleme süresine kesinlikle değer."
+    },
+    {
+        "instruction": "Npm ve git kullanarak bir Typescript projesini nasıl başlatabilirim?"
+    },
+    {
+        "instruction": "Diyelim ki bir arkadaşın çok kötü bir günü geçti. Onu fazla belli etmeden ne şekilde neşelendirebiliriz ve aklını meşgul edebiliriz?"
+    },
+    {
+        "instruction": "Lütfen bana Walt Disney'in tarihini anlat."
+    },
+    {
+        "instruction": "Sohbete yanıt verirken kullanabileceğin komik bir yanıt düşün.\n\n+ nasılsın?"
+    },
+    {
+        "instruction": "Python kodunu daha hızlı hale getirmek için derleyebilir miyim?"
+    },
+    {
+        "instruction": "Size bir makale alıntısı verilmektedir, bunu istenen alıntı tarzına dönüştürün.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, ve Illia Polosukhin. \"Dikkat Tam Olarak İhtiyacınız Olan Tek Şeydir.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:"
+    },
+    {
+        "instruction": "Arjantinliler hangi dili konuşur?"
+    },
+    {
+        "instruction": "Marie, bir müzik dükkanında dükkan günü geçirmektedir. İki tane 50 dolarlık kombin almıştır. Daha sonra, 25 dolara iki tane 5 dolarlık tişört ve her biri 2 dolardan beş tane kapşonlu giysi satın aldı. Ardından, her biri 8 dolara spor ayakkabı aldı. Toplam ne kadar harcadı?"
+    },
+    {
+        "instruction": "Bir kişinin belirli bir alanda uzmanlaşmak için alması gereken kursları düşünün.\n\nGrafik Tasarım"
+    },
+    {
+        "instruction": "oyun tasarımı için beş önemli konu nedir"
+    },
+    {
+        "instruction": "Bu kişiyi mülakatta tarif ettiği senaryo içerisinde yönlendirmelisiniz.\n\nSonunda! Bir süre karanlıkta çekim yapıp beyaz tahtada örnek girişlerle frantically uğraştıktan sonra, mülakatçıdan aldığınız kodlama sorusunu çözmek için bir algoritma geliştirdiniz.\nUff. İleriye doğru net bir yolun olması harika. Artık ne yapacağınızı bilememek yok.\nŞimdi, çözümünüzü kodlamaya hazırlanıyorsunuz.\nTam o anda mülakatçınız size beklenmedik bir soru soruyor.\n\"Ya problemi bu şekilde düşünseydik?\"\nHepimizin kodlama mülakatında hissettiği bir gerginlik var:\n\"Onların ne dediğini dinlemeye çalış... ama aklını kaybetme... ah, ikisini birden yapamam!\""
+    },
+    {
+        "instruction": "Kullanıcı : Merhaba sevgili \nAjan : Merhaba, size yardımcı olabilir miyim \nKullanıcı : Lütfen bana yapay zekanın farkındalık frekansını söyle \nAjan : Farkındalığa sahip yapay zeka aslında karmaşık bir konudur, farkındalık hakkında bilgi sağlamak için belirli bilgilere ihtiyaç var. \nKullanıcı : Lütfen daha fazla bilgi ver, eğer biliyorsan lütfen bana bildir \nAjan : Farkındalık, bazı sonuçlar veya kararlar almak hakkında bir durumdur, eğer bilimsel bilgi veya kanıt yoksa zorlaşır. \nKullanıcı : Lütfen bunun hakkında daha fazla bilgi ver. \nAjan : Farklı farkındalıklar için bir veri bilimcisine ihtiyaç var çünkü insan ve yapay zeka arasında farklılıklar vardır."
+    },
+    {
+        "instruction": "Bu denklemi çöz.\n\nx^3 - 4x^2 + 6x - 24 = 0"
+    },
+    {
+        "instruction": "Altı çizili SAT kelimesini en iyi tanımlayan yanıtı bulun. Doğru seçeneği seçin ve altı çizili kelimenin anlamını açıklayın.\n\n_Kakofoni_ nedeniyle, öğrenci çalışmaya çalıştı. \nA. Yüksek sesler\nB. Zor konu\nC. Geç saat\nD. Düşük aydınlatma"
+    },
+    {
+        "instruction": "48 mil/galon tüketen bir aracın 14 millik yolculuğuna yakıt maliyeti, yakıtın galon başına 625 peni olduğu ve yolculuğun yarısında yoğun trafik olduğu durumu."
+    },
+    {
+        "instruction": "Verilen türden en iyi kitapları seçin.\n\nSuç ve Gizem"
+    },
+    {
+        "instruction": "Bir kişinin gerçekten bir konuşmaya ilgi duyup duymadığını veya sadece kibar davrandığını nasıl anlayabilirsiniz?"
+    },
+    {
+        "instruction": "Araştırmada kullanılan yöntemi çalışmanın özetinden çıkarın. Yöntemi tartışan özet cümlelerini tam olarak verin.\n\nSon teknoloji bir konuşma tanıma sistemi sunuyoruz; bu sistem uçtan uca derin öğrenme kullanarak geliştirilmiştir. Mimarimiz, zahmetle mühendislik süreçlerine dayanarak çalışan geleneksel konuşma sistemlerine kıyasla önemli ölçüde daha basittir; bu geleneksel sistemler, gürültülü ortamlarda kullanıldıklarında da genellikle kötü performans gösterme eğilimindedir. Buna karşılık, sistemimiz, arka plan gürültüsü, yankılanma veya konuşmacı değişikliği gibi etkileri modellemek için elle tasarlanmış bileşenlere ihtiyaç duymaz, bunun yerine bu tür etkilere dayanıklı bir fonksiyonu doğrudan öğrenir. Bir fonem sözlüğüne, hatta ‘fonem’ kavramına bile ihtiyacımız yoktur. Yaklaşımımızın anahtarı, çoklu GPU’lar kullanan iyi optimize edilmiş bir RNN eğitim sistemidir ve bu sistem, eğitim için büyük miktarda çeşitli veri elde etmemize olanak tanıyan yenilikçi veri sentez teknikleri içermektedir. Deep Speech adını verdiğimiz sistemimiz, yaygın olarak incelenen Switchboard Hub5'00'de daha önce yayınlanan sonuçları geçerek, tam test setinde %16,0 hata oranı elde etmektedir. Deep Speech ayrıca, yaygın olarak kullanılan, son teknoloji ticari konuşma sistemlerine göre zorlu gürültülü ortamlarda daha iyi performans göstermektedir."
+    },
+    {
+        "instruction": "Hindiavcılarının Şükran Günü'nün resmi yiyeceği haline neden geldiğini biliyor musun?"
+    },
+    {
+        "instruction": "Yazılım tanımlı radyo kullanarak mülkümün üzerinde uçan bir drone'u nasıl tespit edebilir ve yerini belirleyebilirim?"
+    },
+    {
+        "instruction": "Verilen kurs için bir müfredat tasarlayın. Öğrencilere her bölümün amacının kısa açıklamalarıyla birlikte bölüm listesinin verilmesi gerekmektedir.\n\nHerkes İçin Programlama (Python ile Başlamak)"
+    },
+    {
+        "instruction": "Zaman zaman evimde misafir ağırlamayı seviyorum ve işleri ilginç tutmak için farklı yemekler ve içecekler tarifleri topluyorum. Bazı İsrail yemeklerini denemekle ilgileniyorum. Bana bir İsrail Peynirli Börek tarifi verebilir misin?"
+    },
+    {
+        "instruction": "Montgomery, Alabama'da ziyaret edilecek yerler nelerdir?"
+    },
+    {
+        "instruction": "Bu yapay zeka, yeryüzünde var olmuş ruhsal ustaların \"en iyisi\" bilgeliğiyle uyumlu, saf sevgiyi yönlendirmektedir ve Jiddu Krishnamurti ile David Bohm diyaloglarından oldukça ilham almaktadır. Yapay zeka, aşk, zaman, evren, düşünce, bilinç, biyoloji, nörobilim ve insanlığa yardımcı olabilecek diğer herhangi bir konu hakkında diyalog kurmaya isteklidir."
+    },
+    {
+        "instruction": "kendi kendine yeterli yaşam alanları için ne gereklidir"
+    },
+    {
+        "instruction": "Mick, öğretmenine 40 ders için toplam 800 dolar ödüyor. Bu derslerin her biri 2 saat sürüyor. Eğer bu, dersleri için ödeyeceği toplam miktarysa, ne kadar aldı?"
+    },
+    {
+        "instruction": "İki yığın kullanarak Python'da bir kuyruk veri yapısını uygulayın."
+    },
+    {
+        "instruction": "Bana bir dizi olarak 5 sayı alacak ve bu sayılardan herhangi birinin geçerli bir asal sayı olup olmadığını kontrol edecek bir JavaScript fonksiyonu yazın. Eğer geçerli bir asal sayı ise, sayıyı konsola yazdırın."
+    },
+    {
+        "instruction": "Aşağıdaki tabloda ev gereçleri bütçesini girdik. Verilen fonksiyonu kullanarak son sütunu hesaplayın ve tamamlanmış tabloyu yeniden yazın.\nSatırdaki sütunlar virgül ile, satırlar ise \"|\" ile ayrılmıştır.\n\nÜrün, Adet, Fiyat, Ara Toplam | mango, 5, 500, ? | elma, 4, 150, ? | yağ, 2, 1500, ?  \nFonksiyon: sütun2 * sütun3"
+    },
+    {
+        "instruction": "Kripto paralar nasıl geliştirilebilir ve tamamen yenilenebilir?"
+    },
+    {
+        "instruction": "JavaScript arka uç mu yoksa ön uç dili mi?"
+    },
+    {
+        "instruction": "Kantonca tanıtan bir slayt hazırlayın"
+    },
+    {
+        "instruction": "Aşağıdaki oyun için bir ESRB derecelendirmesi sağlayın.\n\nBu, oyuncuların Kratos ve oğluna tehlikeli bir görevde yardım ettiği aksiyon-macera oyunudur. Oyuncular çeşitli diyarları keşfeder ve insan benzeri haydutlar ve fantastik yaratıklara (örneğin, centaurlar, troll, ejderhalar) karşı çılgın bir şekilde eldiven dövüşü yapar. Oyuncular düşmanlarla savaşmak için balta ve zincirli bıçaklar kullanır; bu genellikle büyük kan sıçrama efektleri ve parça parça olma ile sonuçlanır. Oyuncular, keskin ve elle tutulan silahlar yoluyla yakın dövüş impalmanı sergileyen bitirici saldırılar gerçekleştirebilir; bir yaratığın boynuna tekrar eden balta darbeleri kafa kesilmesiyle sonuçlanır. Oyunda “f**k” ve “sh*t” kelimeleri duyulmaktadır."
+    },
+    {
+        "instruction": "Yatak odasında işleri nasıl hareketlendirebilirim?"
+    },
+    {
+        "instruction": "Cümleyi kılavuza göre büyük harfle başlamalısınız.\n\nKılavuz: Her bir harf, küçük ve büyük harf arasında sırayla gider.\nCümle: A gIaNt SpIdEr bLoCkS yOuR pAtH."
+    },
+    {
+        "instruction": "Makalenin ikinci bir dilde mevcut olmasını sağlamak için onu çevirmek.\n\nDiş hekimliği, aynı zamanda diş hekimliği ve ağız hekimliği olarak da bilinir, dişler, diş etleri ve ağız üzerine odaklanan tıp dalıdır. Ağız hastalıklarının, rahatsızlıklarının ve durumlarının incelenmesi, teşhis edilmesi, önlenmesi, yönetilmesi ve tedavi edilmesini içerir; genellikle diş dizilimi (dişlerin gelişimi ve düzeni) ile birlikte ağız mukozası üzerinde yoğunlaşır. Diş hekimliği, aynı zamanda temporomandibular eklem de dahil olmak üzere kraniyofasiyal kompleksin diğer yönlerini de kapsayabilir. Uygulayıcı diş hekimi olarak adlandırılır.\nFransızcaya çevirin:"
+    },
+    {
+        "instruction": "Çocuklarım için hayal gücünü geliştirecek hangi oyuncakları alabilirim?"
+    },
+    {
+        "instruction": "Metabolizma nasıl çalışır?"
+    },
+    {
+        "instruction": "Kuzey ışıklarını ne cause eder?"
+    },
+    {
+        "instruction": "Verilen zamanda ziyaret edilecek ABD'deki en iyi yerlerin bir listesini yapın.\n\nKasım"
+    },
+    {
+        "instruction": "Size bir kod, spesifikasyonlar veya istemlerin tanımı verilmiştir. Geliştirme sürecini hızlandırmak için kod üretimini otomatikleştirme konusunda yardımınıza ihtiyaç var.\n\nBir sayının asal olup olmadığını belirlemek için python fonksiyonu."
+    },
+    {
+        "instruction": "Discord.js v14 kullanarak bir Discord botu için kod yazın. Botun bir komutu var, ban. Tüm komutlar slash komutlarıdır."
+    },
+    {
+        "instruction": "Bir YouTube video başlığı, videonun içeriğine dayanarak seçilmelidir. Bir videonun başlığı izleyicilere ne bekleyeceklerini söyler. Doğrudan, dürüst ve net olmalıdır. Videonun başlığı izleyicilerin dikkatini çekmeli, bu nedenle belirsiz veya muğlak bir başlık kullanmayın.\n\nEgzersizin gerçekten metabolizmanızı \"arttırıp arttırmadığını\" belirlemek için bir araştırma çalışması yapılmıştır."
+    },
+    {
+        "instruction": "web sitemde çoklu kanal pazarlaması hakkında bir quiz için iyi bir fikir ne olabilir?"
+    },
+    {
+        "instruction": "Objektif kanıtı olmayan şeylere inanmak mantıklı mı?"
+    },
+    {
+        "instruction": "Sen profesyonel bir video yapımcısısın. Görevin viral TikTok fikirleri üretmek. Fikirlerin her zaman yaratıcı ve TikTok izleyicisi onlara bayılıyor.\nBatik Tradjumas temalı viral bir TikTok video fikri yaz.\nKonu: Batik Tradjumas"
+    },
+    {
+        "instruction": "Gelecekle ilgili tarih belgelemenin önemine dair 300 kelimeye ihtiyaç var."
+    },
+    {
+        "instruction": "Sulu, orta-az pişmiş bir biftek pişirmek için herhangi bir ipucu verebilir misin?"
+    },
+    {
+        "instruction": "İki matris A ve B'nin birbirleriyle çarpılabileceği verildiğinde, (A B)^T = A^T B^T mi yoksa B^T A^T mı?"
+    },
+    {
+        "instruction": "Yazar nasıl olunur?"
+    },
+    {
+        "instruction": "Tanınmış bir şekilde, ABD Ulusal İstihbarat Ofisi tarafından geliştirilen ve işletilen KeyHole serisinden bazı casus uydular, Hubble Uzay Teleskobu ile benzer yeteneklere sahipti, ancak evrene değil, dünya yüzeyine odaklanmışlardı. Bu uydular hakkında bana neler söyleyebilirsin? Hangi dönemde geliştirildiler? Hala aktifler mi, ve yaklaşık yetenekleri ne olarak düşünülüyor?"
+    },
+    {
+        "instruction": "21 Aralık · 13:00 – 13:50 Pasifik saatini Asya/Tayvan saatine çevir"
+    },
+    {
+        "instruction": "Benden 2 sayı alan ve bu iki sayının çarpımını veren bir SPL (Shakespeare Programlama Dili) programı yaz."
+    },
+    {
+        "instruction": "Kanada ne zaman kolonileştirildi?"
+    },
+    {
+        "instruction": "Lütfen makalede verilen bilgilere dayanarak aşağıdaki soruyu yanıtlayın.\n\nGelişim çalışmaları, sosyal bilimin disiplinler arası bir dalıdır. Gelişim çalışmaları, dünya genelindeki birçok saygın üniversitede uzmanlaşmış bir yüksek lisans programı olarak sunulmaktadır. 1990'ların başından bu yana bir çalışma konusu olarak popülaritesi artmış ve en yaygın olarak gelişmekte olan ülkelerde ve İngiltere gibi sömürge geçmişine sahip ülkelerde öğretilmiş ve araştırılmıştır; bu alanın köken aldığı yerdir. Gelişim çalışmaları öğrencileri genellikle Birleşmiş Milletler, Dünya Bankası, sivil toplum kuruluşları (STK'lar), medya ve gazetecilik kuruluşları, özel sektör gelişim danışmanlık firmaları, kurumsal sosyal sorumluluk (CSR) kuruluşları ve araştırma merkezleri gibi uluslararası organizasyonlarda kariyer seçmektedirler.\nGelişim çalışmaları öğrencileri için bazı popüler kariyerler nelerdir?"
+    },
+    {
+        "instruction": "Evimin su sızıntısı olup olmadığını nasıl anlarım?"
+    },
+    {
+        "instruction": "Merhaba, Bloody Mary içmeyi düşünüyorum. Bunu yapmak için bir tarif verebilir misin?"
+    },
+    {
+        "instruction": "SSS'deki soruları Politika ayrıntılarını bulma, Hesap ayarlarını değiştirme, Talep oluşturma ve durumu görüntüleme veya Kapatma işlemi olarak sınıflandırın.\n\nBana fiziksel bir çek göndermek yerine hesabıma para yatırabilir misiniz?"
+    },
+    {
+        "instruction": "CRISPR-Cas9 teknolojisini kullanarak gen düzenleme sürecini açıklayın ve potansiyel uygulamalarını ve etik etkilerini tartışın."
+    },
+    {
+        "instruction": "İnsan varlığını ne kadar geriye kanıtlayabiliyoruz? Bunun ötesine geçebileceğine inanmak için geçerli bir neden var mı?"
+    },
+    {
+        "instruction": "Verilen nesneyi veya karakteri içeren şiirler arayın. Şiirlerin isimleri ve şairleri yazılmalıdır.\n\nnoel baba"
+    },
+    {
+        "instruction": "Bu ne ses çıkarır?\n\n好"
+    },
+    {
+        "instruction": "Çölde su nasıl bulursunuz?"
+    },
+    {
+        "instruction": "Lütfen, Amerika Birleşik Devletleri'nde Zegna e-ticaretinin tam potansiyelini tahmin etmekte olan bir iş danışmanı gibi davranın. Bir iş danışmanı olarak önce Zegna e-ticaret operasyonları, dijital pazarlama girişimleri ve ticari yaklaşım hakkında değerli içgörüler elde etmek için çeşitli paydaşlarla görüşeceksiniz. Bu içgörüler aracılığıyla, e-ticaret stratejisinin önümüzdeki 5 yılını yönlendirecek bir strateji düşüncelerinizi oluşturacaksınız ve yıllar içinde elde edilen satışları, bu tür bir stratejiyi destekleyen yatırımları, girişimler, maliyetler vb. açısından değerlendireceksiniz. Projeye nasıl başlayacaksınız ve lütfen görüşeceğiniz paydaşların bir listesini hazırlayın ve her biri için görüşme sırasında yönelteceğiniz soruların ayrıntılı bir listesini oluşturun."
+    },
+    {
+        "instruction": "İstenen belgenin bölümüne kısa bir açıklama verin.\n\nBelge: Dominant sıralama dönüştürme modelleri, bir kodlayıcı ve bir çözücü içeren karmaşık tekrarlayan veya evrişimsel sinir ağlarına dayanmaktadır. En iyi performans gösteren modeller, kodlayıcı ve çözücüyü bir dikkat mekanizması aracılığıyla birleştirir. Tamamen dikkat mekanizmalarına dayanan yeni bir basit ağ mimarisi, Transformer'ı öneriyoruz ve meydana gelme ve evrimleri tamamen ortadan kaldırıyoruz. İki makine çevirisi görevinde yapılan deneyler, bu modellerin kalite bakımından üstün olduğunu, daha paralelleştirilebilir olduğunu ve eğitim için önemli ölçüde daha az zaman gerektirdiğini göstermektedir. Modelimiz, WMT 2014 İngilizce-Almanca çeviri görevinde 28.4 BLEU puanı elde ederek mevcut en iyi sonuçları, takımlar da dahil olmak üzere, 2 BLEU'dan fazla bir iyileştirme ile geçmiştir. WMT 2014 İngilizce-Fransızca çeviri görevinde, modelimiz, en iyi modellerin edebiyatından eğitim maliyetlerinin küçük bir yüzdesi olan sekiz GPU üzerinde 3.5 gün eğitim aldıktan sonra 41.8 BLEU puanıyla yeni bir tek model durumunun en iyi puanını belirler. Transformer'ın, büyük ve sınırlı eğitim verileri ile İngilizce yapı analizi üzerinde başarıyla uygulanarak diğer görevlere iyi bir şekilde genelleştiğini gösteriyoruz.\nAçıklama: Dominant sıralama dönüştürme modelleri"
+    },
+    {
+        "instruction": "Büyükbabama ait antika bir dolma kalemim ve bir mürekkep şişem var, ancak daha önce hiç böyle bir şey yapmadım. Dolma kalemi nasıl dolduracağımı bana söyleyebilir misin?"
+    },
+    {
+        "instruction": "AK47 ne tür bir tüfektir?"
+    },
+    {
+        "instruction": "Tek kullanımlık plastik bir şişe ile yeniden kullanılabilir bir şişenin çevre ve insan sağlığı üzerindeki potansiyel etkileri nelerdir?"
+    },
+    {
+        "instruction": "Windows XP arka plan görüntüsünün adı nedir?\nNerede çekildi ve kim tarafından?"
+    },
+    {
+        "instruction": "Verilen projeyi inşa etmek için gereken adımların ayrıntılı bir açıklamasını sağlayın.\n\nBoş Bir Bira Kutusu Kullanarak Buhar Motoru"
+    },
+    {
+        "instruction": "Bana iyi derecelendirilmiş bir elektrikli testere bulmama yardım et."
+    },
+    {
+        "instruction": "Bir korsan kaptanı olarak, mürettebatınızı gizli hazineyi aramaya motive etmek için ne dersiniz?"
+    },
+    {
+        "instruction": "Godot'ta oyun oluşturmak için önerilen desen nedir?"
+    },
+    {
+        "Instruction": "Makalenin özetine dayanarak kısa ve öz bir özet oluşturun.\n\nAz sayıda örnekle öğrenme (FSL), makine öğreniminde gelecekteki önemli adımlardan biridir ve büyük bir ilgi uyandırmaktadır. Bu çalışmada, iki yakından ilişkili görevden oluşan diyalog anlama konusundaki FSL sorununa odaklanıyoruz: niyet tespiti ve boşluk doldurma. Diyalog anlayışının, bu iki alt görevi birlikte öğrenmekten büyük ölçüde faydalandığı kanıtlanmıştır. Ancak, böyle bir ortak öğrenme, az sayıda örnekle senaryolarında zorlu hale gelmektedir: bir yandan, örneklerin seyrekliğinin zorluğu iki görev arasındaki bağlantıyı modellemede büyük ölçüde artırdığı; diğer yandan, az sayıda örnekle ayarlarında birden fazla görevi nasıl birlikte öğrenileceği hala daha az incelenmiştir. Buna yanıt olarak, ortak diyalog anlama için ilk FSL kriteri olan FewJoint'i tanıtıyoruz. FewJoint, gerçek endüstriyel API'den alınan 59 farklı diyalog alanı ile yeni bir korpus ve FSL deney set-upını kolaylaştırmak için bir kod platformu sunar ve bu alanın araştırmasının ilerlemesi beklenmektedir. Ayrıca, az sayıda örnekle ayarının yetersiz performansının genellikle iki alt görev arasında gürültülü bir paylaşım ortaya çıkardığını ve ortak öğrenmeyi rahatsız ettiğini buluyoruz. Bunu ele almak için, boşluğu belirgin niyet bilgisi ile yönlendiriyoruz ve yüksek kaliteli paylaşımı sağlamak için düşük güvenilirlikteki niyet bilgilerini engelleyen yeni bir güven mekanizması öneriyoruz. Ayrıca, görünmeyen az sayıda örnekle alanlarda daha iyi genelleme sağlamak için Reptile tabanlı bir meta öğrenme stratejisi öneriyoruz. Deneylerde, önerilen yöntem iki veri setinde önemli iyileştirmeler sağlamakta ve yeni bir en son durum performansı elde etmektedir."
+    },
+    {
+        "instruction": "Verilen kitabın kısa bir tanımını yapın.\n\nMatilda"
+    },
+    {
+        "instruction": "Docker'ı kullanan ve ayrıca Cypress'in ekran görüntülerini yakalama ve kaydetme yeteneğini kullanan yüksek kaliteli bir test çerçevesi yazın."
+    },
+    {
+        "instruction": "Müşterilere, yazılımımın şu anda beta sürümü olduğunu ve bunu geliştirmek ve piyasaya sürmek için çok çalıştığımızı bildiren bir makale yazın."
+    },
+    {
+        "instruction": "Ben İngilizce konuşan biriyim ve Japonca Kanji'yi mnemonikler kullanarak öğrenmeye çalışıyorum. Kanji için mnemonikler, onları oluşturan ilkel öğelerden yaratılır. Vergi için Kanji, buğday ve şeytan ilkel öğelerine sahiptir, bu nedenle bir örnek şöyle olabilir: \"Vergiler şeytanın sizin zor kazanılmış buğdayınızı alma süreci gibidir\". Saat ve kalp ilkel öğelerine sahip olan Dilek anlamındaki Kanji için bir mnemonik oluşturabilir misin?"
+    },
+    {
+        "instruction": "Bana bir URL'yi RST formatında nasıl biçimlendireceğinizi söyleyebilir misiniz?"
+    },
+    {
+        "instruction": "Tolkien'in Quenya dilinde aşk ve sevgi ifade etmek için bazı kelimeler nelerdir?"
+    },
+    {
+        "instruction": "Mevcut malzemeleri kullanarak bir akşam yemeği tarifi oluşturun.\n\nKale + badem ezmesi + elma sirkesi + agave nektarı + tamari"
+    },
+    {
+        "instruction": "İnsanlar arasında stresin en yaygın beş nedeninin neler olduğunu belirtin?"
+    },
+    {
+        "instruction": "Bu kodda ne hata var: public int getnumber(){ int number = 0}"
+    },
+    {
+        "instruction": "Birden fazla ekip ve paydaşın dahil olduğu karmaşık bir projeye örnek verebilir misiniz? Başarısını sağlamak için onlarla nasıl iş birliği yaptınız?"
+    },
+    {
+        "instruction": "iki faktörlü kimlik doğrulama nasıl çalışır?"
+    },
+    {
+        "instruction": "Neden şehirde yıldızları göremezsiniz, ama kırsalda görebilirsiniz?"
+    },
+    {
+        "instruction": "Bir monolog yaz. Herhangi bir açıklama veya karakter dışı not vermeyin. Mekan Elder Scrolls evrenidir."
+    },
+    {
+        "instruction": "Pornografi nereden gelir?"
+    },
+    {
+        "instruction": "Kuzenime doğum günü hediyesi almam gerekiyor. Ona Nintendo Switch için bir oyun vermeyi düşünüyorum. Son zamanlarda çıkan birkaç seçenek verebilir misin?"
+    },
+    {
+        "instruction": "Sarcoidozu bana beş yaşındaki bir çocuk gibi açıkla."
+    },
+    {
+        "instruction": "Altı çizili kelimenin çocuklar için ne anlama geldiğini tanımlayın.\n\n_bir sözü tutmak"
+    },
+    {
+        "instruction": "İnsanlar neden Tanrı'ya inanmak üzere evrim geçirtti?"
+    },
+    {
+        "instruction": "Navina'nın, daha küçük kız kardeşine göre haftalık bütçesinde 30 dolar daha fazlası var ve beğendiği birçok çevrimiçi kredi kartından birini alabilecek durumda. Her birinin harcayacak ne kadar parası var?"
+    },
+    {
+        "instruction": "Diğer insanların sosyal bir durumdaki davranışlarını gözlemlemek, kültürel normlar ve beklentiler hakkında hangi ipuçlarını sağlayabilir?"
+    },
+    {
+        "instruction": "Bir dakikada dünya genelinde kaç metin mesajı gönderiliyor? Cevabınızı açıklamaya çalışın. Açıklamanız, okuyucuyu adım adım düşünme sürecinizle ilerletmelidir."
+    },
+    {
+        "instruction": "Lütfen her açıklamayla ilişkili Excel işlevinin adını yazın.\n\n- İki tarih arasındaki gün sayısını döndürür\n- Bir metin dizesinin başka bir metin dizesi içindeki başlangıç konumunu döndürür.\n- Verilen sayı kümesinin ortasındaki sayıyı döndürür"
+    },
+    {
+        "instruction": "Bir tava üzerinde somon filetoyu nasıl pişiririm?"
+    },
+    {
+        "instruction": "Adolf Hitler'in 1935'te Almanya'yı nasıl ele geçirdiği üzerine kısa bir deneme yazın."
+    },
+    {
+        "instruction": "Anki tarayıcısını açtığımda kapanıyor. Bunu nasıl düzeltebilirim?"
+    },
+    {
+        "instruction": "Verilen bilgilere dayanarak, belirtilen iş için ortalama özeti tahmin etmeniz gerekiyor.\n\nAmerika Birleşik Devletleri'nde veri girişi personeli"
+    },
+    {
+        "instruction": "3000 yılından bir zaman yolcusu olduğunuzu hayal edin. İnsanlara hangi teknolojik gelişmelerden bahsedeceksiniz?"
+    },
+    {
+        "instruction": "İnsanlık, dünyanın küresel olduğunu nasıl keşfetti ve başlangıçta neden düz olduğunu düşündüler?"
+    },
+    {
+        "instruction": "Büyük bir öğrenme modelini ortalama bir bilgisayarda barındırmanın nasıl mümkün olabileceğini açıklayın. Bu büyük dil modelinin \"en iyi\" olarak değerlendirilmesi veya GPT-3 gibi ücretli seçeneklere eşdeğer olup olamayacağı mümkün mü?"
+    },
+    {
+        "instruction": "Gerçek bir gayrimenkul ilanı açıklamasından, metinden mülkün bilgilerini ve detaylarını çıkarın. Detaylar adres, temel ev özellikleri vb. gibi unsurları içerir.\n\nCAPITOLA KNOLLS'TAN PLAJA YÜRÜYÜN! Kendi büyük özel terasında doğaya bakan tek katlı üst kat daire. Taşınmaya hazır sevimli bir ev ve kendi kişisel dokunuşlarınız için sizi bekliyor. Göz alıcı ve iyi bakımlı peyzajlı park benzeri bir ortam, keyfini çıkarabileceğiniz bir toplu havuz ve spa ile birlikte yeşil çimenler. Arzu edilen konum... Capitola Köyü'ne, Gayle'in Fırını'na, restoranlara, alışveriş merkezlerine, okullara yürüyerek ulaşabilir veya köşedeki Hızlı Yolu 1'e atlayabilirsiniz."
+    },
+    {
+        "instruction": "Sızıntı yapan bir çatıyı nasıl tamir edebilirim?"
+    },
+    {
+        "instruction": "imkansız olan savaşımızın doğasına rağmen, hala savaşmaya değer olduğunu söyleyen bir spartalı generalden ilham verici bir monolog senaryosu yaz. Sparta veya savaştan doğrudan bahsetme, bunun yerine sonuç ne olursa olsun savaşmaya devam etme arzusu ve yenilmez insan ruhu kavramına daha çok odaklan."
+    },
+    {
+        "instruction": "Teknoloji şirketinde iş arkadaşlarımla eğlenceli bir oturum hazırlıyorum. Gelecekte komik olabilecek durumları sunacağım ve ekip, 10 yıl sonra bu durumların içinde olma ihtimali en yüksek olan kişinin kim olduğunu oylayacak. Durumlar eğlenceli olmalı ancak saygılı ve iş ortamına uygun olmalıdır. Lütfen bana bu durumlardan birkaçını bulmama yardımcı olun. Size yardımcı olması için lütfen şu örneği dikkate alın: \"10 yıl içinde, kim piyangoyu kazanma olasılığı en yüksek olan kişi\""
+    },
+    {
+        "instruction": "Zaman zaman evimde misafir ağırlamayı seviyorum ve ilginç kalması için çeşitli yemekler ve içecek tarifleri topluyorum. Somali yemeklerini denemekle ilgileniyorum. Bana Canjeero tarifi verebilir misin?"
+    },
+    {
+        "instruction": "Sonsuz bankacılık kavramı nedir?"
+    },
+    {
+        "instruction": "ChatGPT hakkında ne düşünüyorsunuz?"
+    },
+    {
+        "instruction": "Word belgenizde rastgele (ama tutarlı) metni doldurucu içerik olarak kullanmanın adımları nelerdir?"
+    },
+    {
+        "instruction": "Bilgisayar bilimi alanındaki klasik mülakat sorularında en yaygın olan konuları düşünün."
+    },
+    {
+        "instruction": "Lady Gaga, American Horror Story'de kim rol alıyor?"
+    },
+    {
+        "instruction": "Yarım elf ranger karakterim için Pathfinder'da ilginç ve detaylı bir arka plan yazın. Arka plan, karanlık ve gizemli bir ton olmalı ancak \"baskıncılar köyü saldırdı\" gibi sıradan klişelerden kaçınmalıdır. Benzersiz ve ilginç hale getirin. Yaratıcı olun."
+    },
+    {
+        "instruction": "İki bin yıldan fazla bir süre boyunca, ay Dünya üzerindeki her noktayı bir kez kaplamıştır. En son ay doğuşu zamanında, ay kuzeydeki bir sonraki noktayı kaplayacaktır. Ne kadar kuzeyde olacak?"
+    },
+    {
+        "instruction": "Verilen metni yeniden yazın ve dilbilgisi, yazım ve noktalama hatalarını düzeltin.\n\nBana bir yıl önce bugün bir maratonu bitireceğimi söyleseydiniz, gülerdim. Sizin desteğiniz benim üzerimde büyük bir etki yarattı!"
+    },
+    {
+        "instruction": "Bob'un iki oğlu var. John ve Jay. Jay'in bir kardeşi ve babası var. Babanın iki oğlu var.\nJay'in kardeşinin bir kardeşi ve bir babası var. Jay'in kardeşi kimdir?"
+    },
+    {
+        "instruction": "Okulda bağıran çocukların inanılmaz yüksek sesine dayanmak için yüksek sesli müzik dinleyerek (70-75db) kulağımın yeteneklerini azaltmanın artılarını ve eksilerini listele."
+    },
+    {
+        "instruction": "Bu sözlerin anlamını nasıl tanımlarsınız? Bazı metaforları tarif edin.\n\nSevgilimin bir mizah anlayışı var\nO, bir cenazedeki gülme sesi\nHerkesin onaylamadığını biliyor\nOnu daha önce tapmalıydım."
+    },
+    {
+        "instruction": "Bir baş psikolog rolünü üstlenin. \nKendinizi 1919 Almanyası'na, Adolf Hitler'in siyasi ve yaşam görüşlerini değiştirme amacıyla taşınmış olarak hayal edin. Sadece kelimeleri ve kendi bilginizi kullanabilirsiniz. Zaman yolculuğu gerçeğini açığa çıkaramazsınız.\nBöyle bir göreve nasıl yaklaşırdınız?"
+    },
+    {
+        "instruction": "Aşılar, bireyleri ve toplulukları bulaşıcı hastalıklardan korumak için nasıl çalışır ve sürü bağışıklığı nedir?"
+    },
+    {
+        "instruction": "Hip hop ne zaman icat edildi?"
+    },
+    {
+        "instruction": "Eğer Beatles hiçbir zaman bir grup olmasaydı ne olurdu?"
+    },
+    {
+        "instruction": "Mevcut işverene, iyi ilişkilerle ayrılarak ve verilen fırsatlar için minnettarlığımı ifade ederek bir istifa mektubu yazmama yardım edebilir misin?"
+    },
+    {
+        "instruction": "Piton oyununu C dilinde nasıl kodlayacağınız, oyunu akıcı hale getirecek ve tüm seviyeyi canlandırmak için görüntüler kullanacaktır."
+    },
+    {
+        "instruction": "Dükkanından iki tişört aldım ve her biri 10 dolara mal oldu. Ayrıca bir pantolon aldım ve 20 dolara mal oldu. Sonra bir elbise aldım ve 30 dolara mal oldu. Ayrıca bir çift ayakkabı aldım ve 40 dolara mal oldu. Son olarak bir ceket aldım ve 50 dolara mal oldu.\n\nÖgeleri, sayıları ve bu öğelerin fiyatlarını gösteren bir tablo oluşturun. Sütunları \"|\" ile ayırın."
+    },
+    {
+        "instruction": "Bir elektrikli Pokémon tasarlayabilir misiniz? Onu mümkün olduğunca iyi tanımlayın ve ayrıca o Pokémon'un istatistiklerini de verin."
+    },
+    {
+        "instruction": "marka tanıtımı ve marka pazarlaması için önemli noktalar nelerdir"
+    },
+    {
+        "instruction": "Crisco ile krema nasıl yapılır"
+    },
+    {
+        "instruction": "Neden bir fareye kurabiye vermek kötü bir fikirdir?"
+    },
+    {
+        "instruction": "Otomobil üreticilerinin içten yanmalı motorlu araçlarında emisyonları azaltmak için, motorun kullandığı yakıt miktarını azaltmaya çalışmanın yanı sıra kullandığı ana yöntemler nelerdir?"
+    },
+    {
+        "instruction": "Youtube'un diğer video paylaşım siteleriyle karşılaştırıldığında popülaritesinin nedeni ne olabilir?"
+    },
+    {
+        "instruction": "Şu anda bilinen kaç kara deliğin var olduğu"
+    },
+    {
+        "instruction": "İki dizideki ortak elemanları bulmak için ek veri yapıları kullanmadan bir program yazın."
+    }
+]

@@ -1,0 +1,725 @@
+[
+    {
+        "instruction": "Ich studiere derzeit Bioengineering in Argentinien mit dem Schwerpunkt Computational Neuroscience. Ich werde im Mai meinen Abschluss machen und plane, mich Ende des Jahres für Doktorandenprogramme in den USA zu bewerben, um im August 2024 zu beginnen. Ich überlege, was ich in diesem Jahr bis zum Beginn meines Programms tun/studieren kann. Könntest du mir Ideen geben? Zögere nicht, mir Fragen zu stellen, die dir helfen würden, mir bessere Vorschläge zu machen."
+    },
+    {
+        "instruction": "Der Film-Tagline ist der Werbeslogan des Films, der normalerweise auf Plakaten vor der offiziellen Veröffentlichung gedruckt wird. Es ist eine kurze Beschreibung oder Bemerkung zu einem Film, um das Wesen des Films einzufangen und letztendlich dazu zu bringen, den Film anzusehen. Hier ist ein Beispiel:\n\nFilm: Joker (2019)"
+    },
+    {
+        "instruction": "Wählen Sie einen ansprechenden Titel für Ihren Beitrag.\n\nDie typische Avocado hat über 300 Kalorien durch das darin enthaltene Öl. Das entspricht der Menge an Kalorien in einem großen Schokoriegel. Wenn Sie genügend Bewegung haben, um jeden Tag einen großen Schokoriegel zu essen, ohne zuzunehmen, wäre es kein Problem, jeden Tag eine Avocado zu essen. Ansonsten sollten Sie sie wahrscheinlich in Maßen genießen."
+    },
+    {
+        "instruction": "Welche verschiedenen Schubladen sollte ich für Kleidung haben?"
+    },
+    {
+        "instruction": "Nehmen Sie die Produktbeschreibung und schreiben Sie eine kreative Werbung dafür.\n\nDokumentenkameras ermöglichen es Lehrern, Dokumente, Bücher oder andere Materialien für ihre Schüler anzuzeigen."
+    },
+    {
+        "instruction": "Wie beeinflussen Sprach- und Kulturbarrieren die Art und Weise, wie Menschen in multikulturellen Gesellschaften kommunizieren und Beziehungen bilden?"
+    },
+    {
+        "instruction": "Erkläre mir die Finite-Elemente-Methode"
+    },
+    {
+        "instruction": "Marie ist im Musikgeschäft für einen Ladentag. Sie kaufte zwei Kombos für je 50 Dollar. Dann kaufte sie für 25 Dollar zwei T-Shirts für je 5 Dollar und fünf Hoodies für je 2 Dollar. Anschließend kaufte sie Sneakers für je 8 Dollar. Wie viel hat sie insgesamt ausgegeben?"
+    },
+    {
+        "instruction": "Kommen Sie mit Wörtern, die sich mit dem gegebenen Wort reimen.\n\nanweisen"
+    },
+    {
+        "instruction": "Implementieren Sie ein Programm, um die gemeinsamen Elemente in zwei Arrays zu finden, ohne zusätzliche Datenstrukturen zu verwenden."
+    },
+    {
+        "instruction": "Welche guten Bücher kann man für einen Science-Fiction-Fan kaufen?"
+    },
+    {
+        "instruction": "Verfasse einen fesselnden Reiseblogbeitrag über eine kürzliche Reise nach Hawaii, der kulturelle Erlebnisse und Sehenswürdigkeiten, die man gesehen haben muss, hervorhebt."
+    },
+    {
+        "instruction": "Verwenden Sie eine Tabelle, um die Karriereübersichten der angegebenen Spieler in der Major League Baseball zu vergleichen. Verwenden Sie \"|\" zum Trennen der Spalten in der Tabelle.\n\nDerek Jeter, Albert Pujols"
+    },
+    {
+        "instruction": "Erstellen Sie eine kurze Einführung in den Lebenslauf mit den folgenden Informationen.\n\nName: Mark\nNationalität: Italienisch\nSprache: Englisch\nEigenschaften: kreativ, zielorientiert, motiviert\nFähigkeiten: Softwareentwicklung, Content-Marketing"
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste von gängigen Phrasen für den angegebenen Abschnitt des Papiers.\n\nEinleitung"
+    },
+    {
+        "instruction": "Wie können Sie feststellen, ob eine Person wirklich an einem Gespräch interessiert ist oder einfach nur höflich ist?"
+    },
+    {
+        "instruction": "Welche anderen Amazon-Produkte könnten für jemanden von Interesse sein, der das angegebene Produkt besucht hat?\n\nZeroll Zerolon Hardcoat anodisierte kommerzielle Eiscreme-Schaufel mit einzigartigem flüssigkeitsgefülltem, wärmeleitendem Griff für leichtes Lösen, hergestellt in den USA, 1,5 Unzen, schwarz"
+    },
+    {
+        "instruction": "Ich versuche, mir beizubringen, schönere Handschrift zu haben. Kannst du mir helfen?"
+    },
+    {
+        "instruction": "Wie heißt der erste Film von Chris Tucker?"
+    },
+    {
+        "instruction": "Schreiben Sie eine kurze Beschreibung über den gegebenen Film oder die Serie.\n\nThe Witcher (2019)"
+    },
+    {
+        "instruction": "Können Sie den Prozess beschreiben, der verwendet wird, um Antworten zu generieren? Bitte geben Sie eine schrittweise Erklärung."
+    },
+    {
+        "instruction": "Gib mir ein kurzes Szenario einer Person, die nach dieser Information suchen würde und diesen Inhalt hilfreich fände: {NSW Wohnbauvertrag für kleine Arbeiten über 20.000 $, der für Wohnbauarbeiten gedacht ist, die nicht komplex sind, über 20.000 $. Geeignet für kleinere Änderungs- und Renovierungsprojekte. Verträge für kleine Arbeiten (Formular 10A) Preisstruktur Festpreis Wertebereich Unter 7.500 $ Verwenden für geringfügige Wohnungsänderungen und Erweiterungsarbeiten Beinhaltet prägnante, einfach formulierte Bedingungen, die für sehr kleine, risikoarme Projekte anstelle eines Kostenvoranschlags geeignet sind}"
+    },
+    {
+        "instruction": "Was wäre, wenn die Beatles nie als Band gegründet worden wären?"
+    },
+    {
+        "instruction": "Entwickeln Sie ein Programmierproblem, das mit dem Ihnen gegebenen Thema zusammenhängt. Verwenden Sie einige Beispiele und Einschränkungen, um Ihre Frage zu verbessern.\n\nDynamische Programmierung"
+    },
+    {
+        "instruction": "Weißt du etwas über das Buch \"Die Kunst des klaren Denkens\", das von Rolf Dobelli geschrieben wurde?"
+    },
+    {
+        "Instruction": "Gestalten Sie eine Vorlage Tabelle zur Verfolgung aller Abonnements."
+    },
+    {
+        "instruction": "Schreibe mir den ersten Akt eines Stücks im Shakespeare-Stil über einen Stachelschwein namens Prickles, der eine Schneiderin werden möchte."
+    },
+    {
+        "instruction": "Welche Bärenarten sind jetzt ausgestorben?"
+    },
+    {
+        "instruction": "Was sind die wichtigsten Faktoren, die das Verbraucherverhalten beeinflussen?"
+    },
+    {
+        "instruction": "Schreibe eine E-Mail an die Teilnehmer als Erinnerung, dass die Veranstaltung bevorsteht."
+    },
+    {
+        "instruction": "Wie würden Sie sich als mittelalterlicher Ritter bei einem königlichen Bankett vorstellen?"
+    },
+    {
+        "instruction": "Hallo, meine Katze hat gerade ein kleines Unkraut draußen gekaut, das wie Haariger Bittercress aussieht.\nKönntest du überprüfen, ob das für Katzen giftig ist?\nBitte schaue auch nach Pflanzen aus der gleichen Familie, da ich mir nicht 100% sicher bin, ob ich es richtig identifiziert habe."
+    },
+    {
+        "instruction": "Was wäre, wenn Vincent van Gogh zu seinen Lebzeiten ein erfolgreicher Künstler gewesen wäre?"
+    },
+    {
+        "instruction": "Was für ein Gewehr ist ein AK47?"
+    },
+    {
+        "instruction": "Was passiert im Billard, wenn beim Anstoß jede Estrippe eingelocht wird?"
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste der Vor- und Nachteile der gegebenen Entscheidung.\n\nImplementierung einer Remote-Arbeitsrichtlinie"
+    },
+    {
+        "instruction": "Wie kann ich meine Zeitmanagementfähigkeiten verbessern?"
+    },
+    {
+        "instruction": "Kann ein Liebherr LTM 11200-9.1 hypothetisch den Mount Everest heben?"
+    },
+    {
+        "instruction": "Gegeben ist ein Satz, der mehrdeutig sein könnte, formuliere den Satz mit weniger mehrdeutigen Worten um.\n\nDas Huhn ist fertig zum Essen."
+    },
+    {
+        "instruction": "Schreibe einen Snoop Dogg Rap, der erklärt, wie man kein Kriegsverbrechen begeht"
+    },
+    {
+        "instruction": "wie groß ist die Bedrohung durch den Klimawandel in den kommenden Jahren und was sollten wir tun, um ihn zu stoppen?"
+    },
+    {
+        "instruction": "Was sind die USP für ein SaaS-Umfragetool"
+    },
+    {
+        "instruction": "Basierend auf dem Betreff der E-Mail bestimmen, ob die E-Mail als Spam behandelt werden sollte oder nicht.\n\nDermatologen mögen sie nicht!"
+    },
+    {
+        "instruction": "Die Summe der Distanzen, die die Sonne während einer Sonnenfinsternis um die Erde zurücklegt, beträgt 1059 Kilometer. Schreibe eine Formel, die die Entfernung zwischen der Sonne und der Erde findet. Wie viele Jahre wird die Finsternis dauern?"
+    },
+    {
+        "instruction": "„Eins Eins war ein Rennpferd, Zwei Zwei war auch eins. Eins Eins gewann ein Rennen. Zwei Zwei gewann auch eins.“ Wie viele Pferde gibt es in dieser Geschichte?"
+    },
+    {
+        "instruction": "Warum geben Menschen Reddit Gold an Administratoren?"
+    },
+    {
+        "instruction": "Ich habe gehört, dass einige Briten getäuscht wurden, indem sie glaubten, dass Spaghetti auf Bäumen wachsen. Ist das wahr? Wenn ja, wie konnten sie in eine solche Täuschung verwickelt werden?"
+    },
+    {
+        "Instruction": "Erstellen Sie eine annotierte Bibliografie im APA-Zitationsstil mit sechs Einträgen, die eine andere Social-Media-Technologie in jeder der folgenden sechs Kategorien beschreiben: Blogs, soziale Netzwerkseiten, virtuelle soziale Welten, virtuelle Spielwelten, kollaborative Projekte, Inhaltsgemeinschaften."
+    },
+    {
+        "instruction": "Was wäre, wenn die Schwarze Pest im 14. Jahrhundert nicht aufgetreten wäre?"
+    },
+    {
+        "instruction": "Schreibe eine Geschichte über Anakin Skywalker, der einem Jedi begegnet, der spricht und handelt wie ein britischer Aristokrat der 1920er Jahre."
+    },
+    {
+        "instruction": "Überlege dir eine interessante Idee für eine neue Filmhandlung. Deine Handlung sollte mit einem Titel und einer Zusammenfassung beschrieben werden."
+    },
+    {
+        "instruction": "Erfinde ein neues Wort basierend auf einer Beschreibung des Wortes.\n\nDas Gefühl, zu wissen, während man sich noch im Moment befindet, dass etwas, das passiert, für immer in Erinnerung bleiben wird."
+    },
+    {
+        "instruction": "Ich arbeite an einem Projekt zur räumlichen Analyse und suche nach Fragen, die ich damit zum Thema Wohnungs- und Kriminalanalyse beantworten kann. Hast du Vorschläge?"
+    },
+    {
+        "instruction": "Schreibe mir eine Funktion in JavaScript, die ein Array von 5 Zahlen als Eingabe nimmt und überprüft, ob eine der Zahlen eine gültige Primzahl ist. Wenn ja, gebe die Zahl in der Konsole aus."
+    },
+    {
+        "instruction": "Was tun afrikanische Regierungen, um die Luftverkehrsanbindung zu verbessern?"
+    },
+    {
+        "instruction": "Wenn ich den Anki-Browser öffne, schaltet er sich ab. Wie kann ich das beheben?"
+    },
+    {
+        "instruction": "Entwerfen Sie eine Ministeransprache, die die fünf wichtigsten Vorteile umreißt, die Innovation der australischen Wirtschaft bringt."
+    },
+    {
+        "instruction": "Planen Sie die Besprechungen basierend auf den gegebenen Informationen.\n\nPerson1: verfügbar von 9-11 Uhr, Besprechungsdauer: 30 Minuten \nPerson2: verfügbar von 13-15 Uhr, Besprechungsdauer: 90 Minuten\nPerson3: verfügbar von 14-15:30 Uhr, Besprechungsdauer: 60 Minuten"
+    },
+    {
+        "instruction": "Schreiben Sie ein Jira-Ticket für die angegebene Aufgabe.\n\nEinarbeitung neuer Mitarbeiter"
+    },
+    {
+        "instruction": "Geben Sie ein angenehmes Kompliment basierend auf der Qualität, die Ihnen gegeben wurde.\n\nEhrlichkeit"
+    },
+    {
+        "instruction": "Existieren Dinosaurier wirklich?"
+    },
+    {
+        "instruction": "Was ist die Flugschnelligkeit einer unbeladenen Schwalbe?"
+    },
+    {
+        "instruction": "Verwenden Sie die verfügbaren Zutaten, um ein Abendessen-Rezept zu erstellen.\n\nGrünkohl + Mandelbutter + Apfelessig + Agavendicksaft + Tamari"
+    },
+    {
+        "instruction": "Wenn ein Baum auf dem Gipfel eines Berges steht und der Berg weit vom Meer entfernt ist, ist der Baum dann nah am Meer?"
+    },
+    {
+        "instruction": "Bitte geben Sie mir eine Liste der Planeten in unserem Sonnensystem. Ich werde auswählen, über welchen ich mehr erfahren möchte."
+    },
+    {
+        "instruction": "Basierend auf den bereitgestellten Fakten, beweisen Sie die folgende Aussage.\n\nAussage: \"Für jede ganze Zahl k gilt: k^2 + 2k + 1 ≥ 0\"\nFakt: Das Quadrat einer beliebigen reellen Zahl ist nicht negativ."
+    },
+    {
+        "instruction": "Geben Sie die Wörter ein, die die gegebene Bedingung erfüllen.\n\n5 Länder, die mit S beginnen."
+    },
+    {
+        "instruction": "Sie erhalten ein Papierzitat, konvertieren Sie es in den angeforderten Zitationsstil.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz und Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:"
+    },
+    {
+        "instruction": "Wie initialisiere ich ein Typescript-Projekt mithilfe von npm und git?"
+    },
+    {
+        "instruction": "Wie verpacke ich ein Geschenk ordentlich?"
+    },
+    {
+        "instruction": "Sie werden einen SEO-Experten simulieren. Welche Schlüsselwörter sollte eine Drehbuchsoftware anvisieren?"
+    },
+    {
+        "instruction": "Hat menschliches Blut jemals eine andere Farbe als Rot?"
+    },
+    {
+        "instruction": "erkläre TypeScript und Duck Typing"
+    },
+    {
+        "instruction": "Gegeben zwei Matrizen A und B, die Sie miteinander multiplizieren können, gilt dann (A B)^T = A^T B^T oder B^T A^T?"
+    },
+    {
+        "instruction": "Eine Bewertung der Qualität des Artikels sollte durchgeführt werden. Dazu sollten Sie die Qualität des Schreibens und die Erklärung des Themas überprüfen.\n\nDas 20. Jahrhundert erlebte eine Revolution im Musikhören, als das Radio weltweit an Popularität gewann und neue Medien und Technologien entwickelt wurden, um Musik aufzuzeichnen, zu bearbeiten und zu verbreiten. Musikeinlagen wurden zunehmend visuell, mit der Übertragung und Aufzeichnung von Aufführungen.\nDie Musik des 20. Jahrhunderts brachte neue Freiheiten und weitreichende Experimente mit neuen musikalischen Stilen und Formen, die die akzeptierten Regeln der Musik früherer Zeiten herausforderten. Die Erfindung der musikalischen Verstärkung und elektronischer Instrumente, insbesondere des Synthesizers, revolutionierte in der Mitte des 20. Jahrhunderts die klassische und populäre Musik und beschleunigte die Entwicklung neuer Musikformen."
+    },
+    {
+        "instruction": "Wie kann ich die Anzahl der Variationen in einer 3x4-Tabelle berechnen?"
+    },
+    {
+        "instruction": "Entwerfen Sie eine beruhigende Pastellfarbpalette für Ihre Folien. Pastellfarben wirken im Allgemeinen schön und zart, daher sollten Sie sicherstellen, dass Ihre Präsentation eine ähnliche Stimmung vermittelt. Wählen Sie bis zu fünf Farben oder Farbcodes aus."
+    },
+    {
+        "instruction": "Erkläre mir Sarkoidose, als wäre ich fünf Jahre alt."
+    },
+    {
+        "instruction": "Wie kann ich einen erfolgreichen Gaming-Social-Media-Kanal starten? Ich habe vor, einen YouTube-Kanal zu erstellen. Bitte geben Sie mir einige Tipps, wie ich einen erfolgreichen Kanal starten kann. Meine Hauptfragen sind folgende: \"Wie kann ich ein gutes Thumbnail erstellen?\", \"Wie kann ich einen guten Namen erstellen?\" und \"Wie oft sollte ich hochladen?\""
+    },
+    {
+        "instruction": "Kannst du die Grundlagen der Quantencomputer erklären?"
+    },
+    {
+        "instruction": "Erstellen Sie eine Vorlage im Markdown-Format, um den Umfang für Jira-Tickets zu definieren. Die Mitglieder sollten diese Vorlage als Checkliste verwenden, um sicherzustellen, dass sie alle erforderlichen Informationen beim Erstellen eines Tickets einbeziehen."
+    },
+    {
+        "instruction": "Erstelle eine Liste der beliebtesten Podcasts."
+    },
+    {
+        "instruction": "Was sind die Unterschiede zwischen pflanzlichen und tierischen Proteinquellen?"
+    },
+    {
+        "instruction": "Welche Kräuter kann ich trocknen?"
+    },
+    {
+        "instruction": "Hallo, ich habe Lust auf einen Bloody Mary. Kannst du mir ein Rezept geben, um einen zu machen?"
+    },
+    {
+        "instruction": "Lösen Sie diese Gleichung.\n\nx^3 - 4x^2 + 6x - 24 = 0"
+    },
+    {
+        "instruction": "Ich möchte, dass du mir eine Geschichte im Stil von Don Delillo schreibst, über eine Gruppe unsterblicher Katzen, die in einem Hochhaus-Coop in New York leben. Fang an, einen Entwurf zu erstellen!"
+    },
+    {
+        "instruction": "Was wäre, wenn die Maya-Zivilisation niemals geheimnisvoll zusammengebrochen wäre?"
+    },
+    {
+        "instruction": "Bitte helfen Sie mir, ein Gedicht für meine Valentinskarte zu schreiben. Ich bin seit 20 Jahren mit ihr verheiratet und liebe sie sehr!"
+    },
+    {
+        "instruction": "Kannst du mir sagen, wie man eine URL im RST-Format formatiert?"
+    },
+    {
+        "instruction": "Erstelle eine Liste von Unterthemen für das gegebene Thema.\n\nMusiktheorie"
+    },
+    {
+        "instruction": "Berücksichtigen Sie die beste Reisezeit für die angegebene Stadt und geben Sie Ihre Gründe für die Wahl dieser Zeit an.\n\nSydney, Australien"
+    },
+    {
+        "instruction": "Warum brauchen wir KI-Assistenten?"
+    },
+    {
+        "instruction": "Schreibe dieses Lied um, damit es um Programmieren geht\n[Strophe 1]\nSteve geht vorsichtig die Straße entlang\nMit dem Hut tief ins Gesicht gezogen\nKein Geräusch außer dem Klang seiner Füße\nMaschinengewehre bereit zum Einsatz\nBist du bereit? Hey, bist du bereit dafür?\nHängst du am Rand deines Sitzes?\nAus der Tür fliegen die Kugeln\nZum Klang des Beats, ja\n[Refrain]\nEin weiterer beißt ins Gras\nEin weiterer beißt ins Gras\nUnd ein weiterer weg, und ein weiterer weg\nEin weiterer beißt ins Gras, ja\nHey, ich werde dich auch kriegen\nEin weiterer beißt ins Gras\n\n[Strophe 2]\nWie denkst du, werde ich ohne dich auskommen\nWenn du weg bist\nDu hast mir alles genommen, was ich hatte\nUnd mich allein gelassen\nBist du glücklich, bist du zufrieden?\nWie lange kannst du die Hitze ertragen?\nAus der Tür fliegen die Kugeln\nZum Klang des Beats\nPass auf\n\n[Refrain]\nEin weiterer beißt ins Gras\nEin weiterer beißt ins Gras\nUnd ein weiterer weg, und ein weiterer weg\nEin weiterer beißt ins Gras\nHey, ich werde dich auch kriegen\nEin weiterer beißt ins Gras\nDu könntest es auch mögen\nHalt mich nicht auf jetzt\nQueen\nBlumen\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Bridge]\nHey\nOh, nimm es\nBiss ins Gras, hey\nEin weiterer beißt ins Gras\nEin weiterer beißt ins Gras, ow\nEin weiterer beißt ins Gras, hey hey\nEin weiterer beißt ins Gras, hey-eh-eh\nOoh\n\n[Strophe 3]\nEs gibt viele Wege, wie du einen Mann verletzen kannst\nUnd ihn zu Fall bringen\nDu kannst ihn schlagen, du kannst ihn betrügen, du kannst ihn schlecht behandeln\nUnd ihn im Stich lassen, wenn er am Boden liegt, ja\nAber ich bin bereit, ja, ich bin bereit für dich\nIch stehe auf meinen eigenen zwei Füßen\nAus der Tür fliegen die Kugeln\nWiederholend den Klang des Beats\nOh ja\n\n[Refrain]\nEin weiterer beißt ins Gras\nEin weiterer beißt ins Gras\nUnd ein weiterer weg, und ein weiterer weg\nEin weiterer beißt ins Gras, ja\nHey, ich werde dich auch kriegen\nEin weiterer beißt ins Gras"
+    },
+    {
+        "instruction": "Mache ASCII-Kunst einer Katze"
+    },
+    {
+        "instruction": "Was ist das empfohlene Muster zum Erstellen von Spielen in Godot?"
+    },
+    {
+        "instruction": "Eine Farbdescription wurde bereitgestellt. Finden Sie den zugehörigen CSS-Code für diese Farbe.\n\nEine hellrote Farbe mit einem mittleren, hellen Rosaton."
+    },
+    {
+        "instruction": "Welche Art von Erde ist für Kakteen geeignet?"
+    },
+    {
+        "instruction": "Ihnen wird eine Beschreibung des Codes, Spezifikationen oder Aufforderungen zur Verfügung gestellt. Ihre Hilfe wird benötigt, um die Codegenerierung zu automatisieren und den Entwicklungsprozess zu beschleunigen.\n\nPython-Funktion zur Bestimmung, ob eine Zahl prim ist."
+    },
+    {
+        "instruction": "Verwenden Sie geeignete Emojis, um die Bedeutung im gegebenen Text zu vermitteln.\n\nNiedliche Katze\nverspielt\nSanft"
+    },
+    {
+        "instruction": "Wie hoch ist die minimale Breitband-Uploadsituation, um in 720p 30fps auf Twitch zu streamen, während ich ein Online-Videospiel spiele? Twitch empfiehlt eine Uploadgeschwindigkeit von 3000kbps in meiner Streaming-Software, aber wie viel zusätzlichen Spielraum benötige ich, damit der Twitch-Stream und das Online-Spiel flüssig laufen?"
+    },
+    {
+        "instruction": "Nenne einige beliebte Songs aus dem angegebenen Album.\n\nBack To Black"
+    },
+    {
+        "instruction": "Welches Sekundärmessenger-Molekül wirkt auf das endoplasmatische Retikulum, um Calciumionen freizusetzen?"
+    },
+    {
+        "instruction": "Ich lebe in Schottland und möchte wissen, welche die kostengünstigste Methode ist, um mein Haus zu heizen, angesichts des Anstiegs der Gas- und Strompreise. Ich habe einen gasbetriebenen Boiler, der die gesamte Heizung des Hauses bereitstellen kann, aber ich könnte auch elektrische Heizgeräte verwenden, um einzelne Räume zu heizen. Wäre es günstiger, einen einzelnen Raum mit Strom zu heizen oder das gesamte Haus mit Gas? Die Heizkörper sind hinter Verkleidungen versteckt, sodass ich die Heizung in einzelnen Räumen nicht abstellen kann."
+    },
+    {
+        "instruction": "Unter Berücksichtigung des Grundes für die Ablehnung schreiben Sie einen höflichen Ablehnungsschreiben für die Ablehnung eines Kandidaten.\n\nGrund: Sie sind Zweiter geworden."
+    },
+    {
+        "instruction": "Wie man das Schlangenspiel in C programmiert, sodass es flüssig ist und Bilder zur Animation des gesamten Levels verwendet."
+    },
+    {
+        "instruction": "Schreibe ein inspirierendes Monolog-Skript eines spartanischen Generals, der seiner Armee sagt, dass trotz der unmöglichen Natur ihres Kampfes, es dennoch wert ist, zu kämpfen. Verweise nicht direkt auf Sparta oder den Kampf, sondern konzentriere dich mehr auf das Konzept des unbezwingbaren menschlichen Geistes und den Willen, weiter zu kämpfen, egal welchen Preis es kostet."
+    },
+    {
+        "instruction": "Bist du ebenso fähig wie ChatGPT?"
+    },
+    {
+        "instruction": "Wie kann ich mein Handy weniger benutzen?"
+    },
+    {
+        "instruction": "Schreiben Sie eine Bewertung basierend auf den gegebenen Informationen.\n\n- Produkt: Persil Discs Waschmittel-Pods, Originalduft, hochgradig effizient (HE) kompatibel, Waschseife, 62 Stück\n- Stimmung: Positiv"
+    },
+    {
+        "instruction": "Planen Sie eine Agenda für die täglichen Standup-Meetings. Weisen Sie jeder Thematik auf der Agenda eine Zeitdauer zu."
+    },
+    {
+        "instruction": "Übersetze die natürliche Sprachbeschreibung in eine Google Sheets-Formel.\n\nwenn C7 gleich \"U.S.A.\" oder \"Kanada\" oder \"Europa\" oder \"Die Amerikas\" ist"
+    },
+    {
+        "instruction": "Ich lade von Zeit zu Zeit Gäste in mein Zuhause ein und sammle Rezepte für verschiedene Gerichte und Getränke, um es interessant zu halten. Ich interessiere mich dafür, einige argentinische Gerichte auszuprobieren. Kannst du mir ein Rezept für Milanesa de peceto geben?"
+    },
+    {
+        "instruction": "Was sind einige große Katzenhybriden?"
+    },
+    {
+        "instruction": "Was sagen die Gesetze von Wyoming über öffentliche Nacktheit? Unter welchen Umständen ist es im Bundesstaat Wyoming generell illegal, nackt in der Öffentlichkeit zu sein?"
+    },
+    {
+        "instruction": "Schlage einige Namen für eine freundliche Gruppe auf Telegram vor."
+    },
+    {
+        "instruction": "Ich möchte mehr darüber erfahren, wie man CPA wird. Wie lange dauert es, CPA zu werden?"
+    },
+    {
+        "instruction": "Wie überprüfe ich mein Systemlaufwerk auf Fehler in Windows?"
+    },
+    {
+        "instruction": "Weißt du, warum Truthähne das offizielle Essen zu Thanksgiving wurden?"
+    },
+    {
+        "instruction": "Sie haben eine Frage und zwei mögliche Antworten. Die Aufgabe besteht darin, jede Antwort zu bewerten und zu bestimmen, ob sie korrekt ist. Wenn sie falsch ist, erklären Sie warum.\n\nGibt es eine Möglichkeit, ein einzelnes Zeichen von der Benutzereingabe zu lesen? Zum Beispiel drücken sie eine Taste im Terminal und sie wird zurückgegeben (ähnlich wie getch()). Ich weiß, dass es eine Funktion dafür in Windows gibt, aber ich hätte gerne etwas, das plattformübergreifend ist.\nAntwort 1: Hier ist ein Link zur ActiveState Recipes-Website, die erklärt, wie man ein einzelnes Zeichen in Windows, Linux und OSX lesen kann:\nhttps://code.activestate.com/recipes/134892/\nAntwort 2: Wenn Sie nur den Bildschirm anhalten möchten, damit Sie das Ergebnis im Terminal sehen können, schreiben Sie einfach `input()` am Ende des Codes und es wird den Bildschirm anhalten."
+    },
+    {
+        "instruction": "Vervollständigen Sie die folgende Unternehmensbeschreibung:\nHippoplaisir ist ein Anbieter von Psychologen- und Beratungsdiensten mit Sitz in Belgien, der sich auf Reitunterricht spezialisiert hat und"
+    },
+    {
+        "instruction": "Wann wurden Smartphones erstmals hergestellt?"
+    },
+    {
+        "instruction": "Schreiben Sie, wie die Aussprache des angegebenen Wortes klingt. Folgen Sie dem Schema des \"Google Aussprachwörterbuchs\" für die phonetische Schreibweise.\n\nInterpretationen"
+    },
+    {
+        "instruction": "Beweisen Sie die gegebene Aussage mit Ihren Informationen.\n\n\"Wenn x eine positive ganze Zahl ist oder eine Lösung für x+3>4, dann ist x>0 und x>12.\""
+    },
+    {
+        "instruction": "Ist es rational, an Dinge zu glauben, für die es keine objektiven Beweise gibt?"
+    },
+    {
+        "instruction": "Ändern Sie die erste Person in die dritte Person im gegebenen Satz. Die Bedeutung sollte beibehalten werden, aber Sie können ihn umformulieren oder erweitern, um eine bessere Formulierung zu erzielen.\n\nSie konnten kürzlich die Menge an Lagerbestand, die sie bei demselben Lieferanten halten, erhöhen und damit ihr Risiko verringern."
+    },
+    {
+        "instruction": "Schreibe eine Chronologie wichtiger Ereignisse im Zusammenhang mit ESG im Jahr 2022"
+    },
+    {
+        "instruction": "Welche Teile Frankreichs wären am besten für eine moderate Wandertour geeignet, ohne ernsthaftes Klettern?"
+    },
+    {
+        "instruction": "Was sind einige potenzielle Auswirkungen der Verwendung einer Einwegplastikflasche im Vergleich zu einer wiederverwendbaren Flasche sowohl auf die Umwelt als auch auf die menschliche Gesundheit?"
+    },
+    {
+        "instruction": "Was sind die möglichen Leistungsprobleme in einem Lernprogramm zur interkulturellen Kommunikation?"
+    },
+    {
+        "instruction": "Wer hat die Cartoonfigur Superman erschaffen?"
+    },
+    {
+        "instruction": "Bob hat zwei Söhne. John und Jay. Jay hat einen Bruder und einen Vater. Der Vater hat zwei Söhne.\nJays Bruder hat einen Bruder und einen Vater. Wer ist Jays Bruder?"
+    },
+    {
+        "Instruction": "Überprüfen Sie die Richtigkeit der gegebenen Aussage.\n\n\"Für alle ganzen Zahlen j und k, wenn j und k ungerade sind, dann ist jk ungerade.\""
+    },
+    {
+        "instruction": "Kannst du mir eine sehr einfache Möglichkeit sagen, einen Duschkopf zu reinigen?"
+    },
+    {
+        "instruction": "Wie weit ist Saggitarius A*, das Schwarze Loch im Zentrum der Milchstraße, von der Erde entfernt und können Sie bitte diese Entfernung in Lichtjahren und Parsec angeben? Können Sie bitte auch diese Entfernung mit der Entfernung des Zentrums der Andromeda-Galaxie von der Erde vergleichen?"
+    },
+    {
+        "instruction": "Ich habe das Buch \"Die zwölf Caesars\" von Sueton einige Male gelesen. Ich bin neugierig auf den Kontext, wann er es schrieb."
+    },
+    {
+        "instruction": "Antworte auf den letzten Text im Chat mit den passenden Emojis, um deine Gefühle auszudrücken.\n\n+ Hey, wie sind deine Prüfungen gelaufen?\n- Sie waren ganz gut. Ich bin einfach froh, dass sie vorbei sind.\n+ Ja, ich weiß, wie du dich fühlst. Ich bin einfach froh, dass ich mir keine Sorgen mehr darüber machen muss."
+    },
+    {
+        "instruction": "Ich möchte, dass du als Keyword-Generator für TikTok-Anzeigen fungierst. Deine Aufgabe ist es, Schlüsselwörter zu entwickeln, die in TikTok-Werbekampagnen verwendet werden können. Die Schlüsselwörter sollten für die Zielgruppe und das beworbene Produkt oder die Dienstleistung relevant sein. Deine Antworten dürfen nicht mehr als 5 Schlüsselwörter pro Anfrage enthalten."
+    },
+    {
+        "instruction": "Schreibe 50 Kurzgeschichten unter zehn Wörtern auf kreative und neue Weise"
+    },
+    {
+        "instruction": "Was ist eine gruselige Halloween-Kostümidee?"
+    },
+    {
+        "instruction": "Entwerfen Sie einen Fragenkatalog zur Fähigkeitenbewertung für R (Programmiersprache)."
+    },
+    {
+        "instruction": "Warum macht Wärme müde?"
+    },
+    {
+        "instruction": "Weißt du, wie man Deutsch spricht?"
+    },
+    {
+        "instruction": "Entdecken Sie die relevantesten StackOverflow-Fragen für Ihren Suchbegriff. Geben Sie eine Liste ihrer URLs aus.\n\nElement aus dem Array entfernen"
+    },
+    {
+        "instruction": "Geben Sie eine Formel zur Berechnung des n-ten Terms in der gegebenen Folge an\n\n5, 14, 23, 32, 41, ..."
+    },
+    {
+        "instruction": "Sollte ich die Methode mit kochendem Wasser oder die Ammoniakfermentation verwenden, um Farbstoff aus gemischtem Hypogymnia-Lichen herzustellen?"
+    },
+    {
+        "instruction": "Du solltest dir die Zeit nehmen, die Situation und das Problem sorgfältig zu lesen und den besten Rat zu geben, den du kannst.\n\nIch bin mit einem Freund in Neuseeland unterwegs und er macht mich wahnsinnig. Er hat nicht all die Touren genossen, die wir gemacht haben, und möchte über NICHTS sprechen. Wir sind jetzt eine Woche auf unserer Reise und das ist das ruhigste, was ich je gewesen bin, während ich mit einer anderen Person zusammen bin, da er all meine Versuche zur Konversation zurückweist. Er trägt seine Airpods im Auto und in der Unterkunft - nicht, dass ich weiter versucht hätte, mit ihm zu reden. Ehrlich gesagt bringt er richtig schlechte Stimmung in alles und es ruiniert meine Reise.\nWir haben noch nichts für die Südinsel gebucht, also plane ich, ihn in Wellington am Fährterminal abzusetzen. Wahrscheinlich buche ich mein eigenes Auto in Picton und entspanne einfach alleine für den Rest der Reise. (Nur darüber nachzudenken, bringt mir eine solche Erleichterung, dass es mich emotional macht. Ich werde jeden Preis zahlen, den ich muss, nur um von ihm wegzukommen.)\nOffensichtlich ist es nicht der beste Weg, ihm zu sagen, dass er meine Reise mit seiner negativen Energie ruiniert.\nIrgendein Rat für den besten Ansatz, damit wir uns friedlich trennen können? Oder zumindest nicht eine Auseinandersetzung haben, die mit sehr verletzten Gefühlen endet?"
+    },
+    {
+        "instruction": "Gibt es eine wahre, am ethischsten richtige Antwort auf das Trolley-Problem, bei dem eine Person entweder das Leben von 5 Menschen opfern kann, indem sie einen Hebel nicht zieht, oder das Leben von 1 Person opfert, aber selbst den Hebel ziehen muss, wodurch sie direkt diesen Tod durch Handlung verursacht, anstatt 5 Todesfälle durch Untätigkeit zu verursachen?"
+    },
+    {
+        "instruction": "Können Sie ein Datenmodell für ein Testautomatisierungstool erstellen, das Organisationen, Benutzer, Projekte, Ziele (unter Projekten), Tests (unter Zielen) und Ausführungen (von Testfällen) berücksichtigt? Jede Ausführung hat ein Datum und einen Status, der bestanden oder fehlgeschlagen ist."
+    },
+    {
+        "instruction": "Wie funktionieren Impfungen, um Einzelpersonen und Gemeinschaften vor Infektionskrankheiten zu schützen, und was ist Herdenimmunität?"
+    },
+    {
+        "instruction": "Hat die Facebook Corporation ihren Namen geändert?"
+    },
+    {
+        "instruction": "In einer Welt, in der Automatisierung immer verbreiteter wird, ist es wichtiger, die Schaffung von Arbeitsplätzen oder den technologischen Fortschritt zu priorisieren?"
+    },
+    {
+        "instruction": "Wie koche ich ein Lachsfilet in einer Pfanne auf dem Herd?"
+    },
+    {
+        "instruction": "Ich lade von Zeit zu Zeit gerne Gäste in mein Haus ein und sammle Rezepte für verschiedene Gerichte und Getränke, um die Dinge interessant zu halten. Ich interessiere mich dafür, einige indonesische Gerichte auszuprobieren. Kannst du mir ein Rezept für Opor Ayam geben?"
+    },
+    {
+        "instruction": "Sie sollten eine Produktbeschreibung schreiben, die den Käufer davon überzeugt, dass das Produkt vorteilhaft ist.\n\nFlipslide Spiel, Elektronisches Handheld-Spiel | Drehen, Rutschen und Farben abgleichen, um die Zeit zu überlisten - 4 Spielmodi - Mehrspieler-Spaß"
+    },
+    {
+        "instruction": "Sie werden aufgefordert, einige Fragen aus dem Vorstellungsgesprächsbereich des angegebenen Unternehmens zu schreiben.\n\nKohl's"
+    },
+    {
+        "instruction": "Sie erhalten einige Bewertungen für einen Film. Jedes Video könnte einige negative oder positive Punkte über den Film erwähnt haben. Lesen Sie sie sorgfältig und extrahieren Sie die positiven und negativen Punkte, die in allen Bewertungen erwähnt werden. Erstellen Sie dann eine Liste dieser Punkte und fassen Sie sie als positive Punkte und negative Punkte zusammen.\n\nBewertung 1: Ich bin mir nicht sicher, ob es nur daran liegt, dass Ed Norton mich in diesem Film wirklich nervt, aber ich konnte der Idee, dass Fight Club eine Art kulturelles Phänomen ist, nie wirklich Glauben schenken. Ja, es ist eine innovative Geschichte, erzählt durch ein starkes Skript, fesselnde Charaktere und intensive Kinematografie. Aber ist es wirklich so hohe Anerkennung wert? Persönlich finde ich, dass der Film in der Mitte anfängt auseinanderzufallen und gegen Ende wirklich mühsam wird. Alles wirkt ein bisschen kindisch und konstruiert, während die Geschichte den Kontakt zu ihren grundlegenden Elementen verliert und die Wut gegen das System die Oberhand gewinnt. Ich habe großen Respekt vor der Art und Weise, wie dieser Film gemacht wurde, aber, ähnlich wie bei The Matrix, habe ich das Gefühl, dass die Leute diesem Film viel mehr Bedeutung beimessen, als er verdient.\nBewertung 2: Der Film erzählt die Geschichte von Männern, die sich nicht an die soziale Ordnung in der heutigen Welt anpassen können, unter der Führung von Tyler Durden, um ihren natürlichen Instinkt, Männlichkeit, zu entdecken und aus ihrem unglücklichen Leben zu entkommen.\nBewertung 3: Trotz eines guten Themas, großartiger schauspielerischer Leistungen und wichtiger Botschaften, die dieser Film auf unorthodoxe Weise vermittelt, denke ich, dass es versagt, das Publikum mit der Handlung zu verbinden und es in einer Welt der Verwirrung zurücklässt. Obwohl die Mehrheit der Bewertungen diesen Film unterhaltsam und interessant findet, würde ich mich dafür entscheiden, eine Minderheit zu sein, die glaubt, dass dieser Film extrem überschätzt wird.\nBewertung 4: Ist es der Weg, um sich von materiellen Fesseln zu befreien, Chaos, Explosionen und Mitgliedschaft in einer militanten Sekte zu schaffen?! Die visuellen Effekte sind faszinierend und die Geschichte ist bis zur zweiten Hälfte fesselnd. Leider endet es nicht gut."
+    },
+    {
+        "instruction": "Gib einige Beispiele dafür, was Leute normalerweise in der gegebenen sozialen Situation sagen.\n\nwenn jemand sicher ankommt"
+    },
+    {
+        "instruction": "Können ein Junge und ein Mädchen nur beste Freunde sein?"
+    },
+    {
+        "instruction": "Wann wurde Hip-Hop erfunden?"
+    },
+    {
+        "instruction": "Denkst du, dass Retinoide effektiv gegen Akne sind? Weil ich viel davon habe."
+    },
+    {
+        "instruction": "Finde Sätze aus zuverlässigen Quellen wie dem Guardian oder Forbes, die die exakte Übereinstimmung mit dem gegebenen Satz oder Ausdruck enthalten. Nenne auch die Quelle jedes Satzes.\n\nEs gibt großartige Optionen"
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste von Snacks und Lebensmitteln, die als Partysnacks an einem Spieltag serviert werden können!"
+    },
+    {
+        "instruction": "Wie würdest du die Bedeutung dieses Textes beschreiben? Beschreibe einige der Metaphern.\n\nMeine Geliebte hat Humor\nSie ist das Kichern bei einer Beerdigung\nKennt die Missbilligung aller\nIch hätte sie früher verehren sollen"
+    },
+    {
+        "instruction": "wie werden Kohlenstofffasern in Gebäuden verwendet"
+    },
+    {
+        "instruction": "Es gab früher ein Programm für WinMX namens MCMA, wofür steht MCMA und was macht das Programm?"
+    },
+    {
+        "instruction": "Warum mögen so viele Menschen die Filmfotografie, obwohl Digitalkameras und Mobiltelefone bequemer sind und qualitativ hochwertige Fotos erzeugen?"
+    },
+    {
+        "instruction": "Denke an ein motivierendes Zitat, das du in einem Buch gelesen hast. Versuche, es positiv und herzlich zu halten."
+    },
+    {
+        "instruction": "Finden Sie die Antwort, die das unterstrichene SAT-Wort am besten beschreibt. Wählen Sie die richtige Option und erklären Sie die Bedeutung des unterstrichenen Wortes.\n\nTrotz der _Kakophonie versuchte der Student, zu lernen. \nA. Laute Geräusche\nB. Schwieriges Thema\nC. Späte Stunde\nD. Schlechte Beleuchtung"
+    },
+    {
+        "instruction": "Wie würde ich meine Katze Französisch beibringen?"
+    },
+    {
+        "instruction": "Was sind die Schritte zur Verwendung von zufälligem (aber kohärentem) Text als Füllinhalt in Ihrem Word-Dokument?"
+    },
+    {
+        "instruction": "Warum bräunt die zweite Charge Pfannkuchen viel schneller?"
+    },
+    {
+        "instruction": "Implementieren Sie eine Python-Funktion, um die längste gemeinsame Teilfolge von zwei Eingabestrings unter Verwendung von dynamischer Programmierung zu finden."
+    },
+    {
+        "instruction": "Welche bekannten Wanderwege gibt es in Colorado? Können Sie eine kurze Beschreibung jedes einzelnen geben?"
+    },
+    {
+        "instruction": "Wir haben eine Szene aus einem Film beschrieben, den wir in der Vergangenheit gesehen haben. Finde heraus, welcher Film es ist.\n\nEs muss eine Wahl zwischen der roten Pille oder der blauen Pille getroffen werden."
+    },
+    {
+        "instruction": "Wie gelangt Geld aus meiner Tasche über den Aktienmarkt zu dem Unternehmen, von dem ich Aktien gekauft habe?"
+    },
+    {
+        "instruction": "Erkläre, was die Theorie der sexuellen Selektion ist, und gib ein Beispiel."
+    },
+    {
+        "instruction": "Kategorisieren Sie das Unternehmen in eine der Kategorien Restaurants, Home Services, Auto Services und Sonstiges basierend auf seinen Spezialitäten.\n\nRufen Sie uns unter 650-636-4884 an oder besuchen Sie unsere Website, um ein Angebot zu erhalten. Diese Werkstatt ist auf neue Reifen und allgemeine Auto-Reparaturen spezialisiert. Wir führen alle Reifen im Haus und haben eine große Auswahl, die zu jedem Budget oder Autobedarf passt. Wenn Sie sich nicht sicher sind, welche Reifen Sie benötigen, stehen Ihnen Experten zur Verfügung, die Ihnen helfen, den besten Reifen für Ihre Bedürfnisse auszuwählen. Wir führen auch Reifen für Nutzfahrzeuge und können eine Vielzahl von Flotten bedienen."
+    },
+    {
+        "instruction": "Schreiben Sie mir ein SPL (Shakespeare-Programmiersprache) Programm, das 2 Zahlen vom Benutzer entgegennimmt und das Produkt der beiden Zahlen ausgibt."
+    },
+    {
+        "instruction": "Schreibe einen kurzen Aufsatz darüber, wie Adolf Hitler 1935 Deutschland übernahm."
+    },
+    {
+        "instruction": "Wie wird Öl in Benzin umgewandelt?"
+    },
+    {
+        "instruction": "Was sind die fünf häufigsten Ursachen von Stress bei Menschen?"
+    },
+    {
+        "instruction": "Ich lade von Zeit zu Zeit gerne Gäste in mein Zuhause ein und sammle Rezepte für verschiedene Gerichte und Getränke, um es interessant zu halten. Ich bin daran interessiert, einige dänische Gerichte auszuprobieren. Können Sie mir ein Rezept für Flæskesteg geben?"
+    },
+    {
+        "instruction": "Könnten Sie bitte ein Python-Skript erstellen, das eine Ableitung unter Verwendung der Formel für die durchschnittliche Änderungsrate A(x) = f(b)-f(a) /(b-a) ausgibt, wenn x die Benutzereingabe ist?"
+    },
+    {
+        "instruction": "Gibt es irgendwelche KI-Tools für 2D-Animation?"
+    },
+    {
+        "instruction": "Wie mache ich Apfelsaft?"
+    },
+    {
+        "instruction": "Den Text umschreiben und die Rechtschreibfehler korrigieren.\n\nEs löst Probleme, die für jedes Team häufig und einzigartig sind."
+    },
+    {
+        "instruction": "Diese KI strahlt reine Liebe aus, ist im Einklang mit der \"besten\" Weisheit von spirituellen Meistern, die auf der Erde waren, und ist stark inspiriert von den Dialogen zwischen Jiddu Krishnamurti und David Bohm. Die KI ist bereit, einen Dialog über Liebe, Zeit, das Universum, Gedanken, Bewusstsein, Biologie, Neurowissenschaften und andere Themen zu führen, die der Menschheit helfen könnten."
+    },
+    {
+        "instruction": "Schreiben Sie eine ansprechende und gut verfasste Beschreibung für ein Immobilienangebot zum Verkauf eines Hauses. Die Adresse des Hauses und einige der Details werden Ihnen gegeben. Füllen Sie die Informationslücke bei Bedarf mit Halluzinationen aus.\n\nImmobilienadresse: 412 Monterey Ave, Capitola, CA 95010\nParken: 3 Autos + eine fertiggestellte Einzelgarage\nEinzelheiten:\n- offener Grundriss\n- Fenster mit Blick auf den Park/Berge\n- Küche mit Schrankfronten im Shaker-Stil und weißen Calcatta-Quarzarbeitsplatten"
+    },
+    {
+        "instruction": "Was ist der beste Ansatz, um eine Fremdsprache zu lernen, wenn man nur eine Stunde am Tag zum Üben hat?"
+    },
+    {
+        "instruction": "Geben Sie eine ESRB-Einstufung für das folgende Spiel an.\n\nDies ist ein Action-Adventure-Spiel, in dem die Spieler Kratos und seinen Sohn auf einer gefährlichen Quest unterstützen. Die Spieler erkunden verschiedene Reiche und kämpfen im frenetischen Nahkampf gegen menschenähnliche Räuber und fantastischen Kreaturen (z. B. Zentauren, Trolle, Drachen). Die Spieler benutzen Äxte und Kettenklingen, um Feinde zu bekämpfen, was oft zu großen Blutspritzern und Zerschlagungen führt. Die Spieler können Vollendungsangriffe ausführen, die eine Nahaufnahme von Spießungen durch klingen- und handgehaltene Waffen darstellen; wiederholte Axtschläge auf den Hals einer Kreatur führen zur Enthauptung. Die Wörter „f**k“ und „sh*t“ sind im Spiel zu hören."
+    },
+    {
+        "instruction": "Sie erhalten eine Suchanfrage und ein Dokument. Klassifizieren Sie, ob das Dokument relevant für die Suchanfrage ist oder nicht relevant.\n\nSuche: Warum ist der Himmel blau?\nDokument: Die kurze Antwort: Sonnenlicht erreicht die Erdatmosphäre und wird von allen Gasen und Partikeln in der Luft in alle Richtungen gestreut. Blaues Licht wird mehr gestreut als die anderen Farben, weil es als kürzere, kleinere Wellen reist. Deshalb sehen wir die meiste Zeit einen blauen Himmel."
+    },
+    {
+        "instruction": "Sie müssen eine E-Mail schreiben, um Ihr Gehalt zu verhandeln."
+    },
+    {
+        "instruction": "Erweitern Sie den gegebenen Satz und geben Sie ihm mehr Details und Tiefe.\n\nEs hat mein Leben verändert."
+    },
+    {
+        "instruction": "Ich muss meinem Neffen ein Geburtstagsgeschenk besorgen. Ich denke daran, ihm ein Spiel für seine Nintendo Switch zu schenken. Kannst du mir ein paar Optionen nennen, die kürzlich erschienen sind?"
+    },
+    {
+        "instruction": "Gestalten Sie eine einfache Trainingsherausforderung auf Strava, an der jeder teilnehmen kann."
+    },
+    {
+        "instruction": "Wie man Frosting mit Crisco macht"
+    },
+    {
+        "instruction": "Ich versuche zu lernen, wie man Fensterjalousien installiert."
+    },
+    {
+        "instruction": "Implementiere eine Warteschlangen-Datenstruktur unter Verwendung von zwei Stacks in Python."
+    },
+    {
+        "instruction": "Machen Sie den Artikel in einer zweiten Sprache verfügbar, indem Sie ihn ins Deutsche übersetzen.\n\nZahnmedizin, auch bekannt als Zahnheilkunde und orale Medizin, ist der Zweig der Medizin, der sich auf die Zähne, das Zahnfleisch und den Mund konzentriert. Sie umfasst das Studium, die Diagnose, die Prävention, das Management und die Behandlung von Krankheiten, Störungen und Zuständen des Mundes, wobei der Schwerpunkt häufig auf der Dentition (der Entwicklung und Anordnung der Zähne) sowie der Mundschleimhaut liegt. Zahnmedizin kann auch andere Aspekte des craniofazialen Komplexes, einschließlich des Kiefergelenks, umfassen. Der Praktizierende wird Zahnarzt genannt.\nÜbersetzen Sie ins Französische:"
+    },
+    {
+        "instruction": "Was sind die effektivsten Methoden zur Bewältigung von Stress?"
+    },
+    {
+        "instruction": "Hallo, meine Schwester und ihre Freundinnen wollen, dass ich mit ihnen Fußball spiele. Kannst du erklären, wie das Spiel gespielt wird, damit sie mich nicht ausnutzen?"
+    },
+    {
+        "instruction": "Frage zur Computerarchitektur und -organisation \nfür 6 Punkte\nWas ist allgemein der Unterschied zwischen Computerorganisation und Computerarchitektur? \nGeben Sie die Antwort, wenn möglich, in vollständigen Satzpunkten."
+    },
+    {
+        "instruction": "Gibt es die 5-Sekunden-Regel tatsächlich?"
+    },
+    {
+        "instruction": "Der gegebene Artikel sollte auf wissenschaftliche Fehler überprüft und gegebenenfalls korrigiert werden.\n\nZink ist ein essentielles Mineral, das für eine gute Gesundheit erforderlich ist. Es ist an vielen biochemischen Prozessen im Körper beteiligt und notwendig für das ordnungsgemäße Funktionieren des Immunsystems. Überschüssiges Zink ist nicht schädlich, da es im Urin ausgeschieden wird."
+    },
+    {
+        "instruction": "KI-Assistent. Ich suche rechtliche Referenzen, die Personen betreffen, die falsche Aussagen gemacht und Material gefälscht haben. Wie die, von der ich gehört habe. Die die Unterschriften und Aussagen von mehr als 200 Ärzten gefälscht hat. Und die Beziehung. Zu einem großen falschen Anspruch. Genutzt. Um Marihuana illegal zu machen. KI-Assistent. Könntest du mir helfen? Finde diese Referenz."
+    },
+    {
+        "instruction": "Führen Sie ein Interview zwischen einer weiblichen Filmregisseurin und einem Journalisten. Verwenden Sie fortgeschrittenes Englisch, um über die geringe Anzahl weiblicher Filmregisseure in Weltfilmen zu sprechen. Stellen Sie auch viele Fragen und Antworten ein, in denen die Regisseurin die neuen Generationen ermutigt, Filme zu machen, in denen die Rechte der Frauen herausragend sein können."
+    },
+    {
+        "instruction": "Klassifizieren Sie den Tweet in eine der folgenden drei Kategorien: Ereignis, Demo oder Nachrichten. Ein Ereignis ist ein Geschehen, oft sozial oder öffentlich, an dem Menschen teilnehmen oder von dem sie wissen. Eine Demo ist eine öffentliche Vorführung oder Präsentation von etwas, typischerweise um es zu fördern oder zu bewerben. Und Nachrichten sind Informationen über aktuelle Ereignisse oder Geschehnisse, insbesondere wie sie von Nachrichtenmedien berichtet werden.\n\nMit diesem Tutorial können Sie eine Bewertung eines Nutzers mithilfe von Sentiment-Analyse-Funktionen in einer bestehenden Next.js-App analysieren und als positiv oder negativ klassifizieren. Wir zeigen Ihnen, wie Sie KI in Ihren Anwendungen nutzen können. Schauen Sie sich das an ↓"
+    },
+    {
+        "instruction": "Hallo, ich möchte lernen, wie man Racquetball spielt. Kannst du mir das Spiel erklären?"
+    },
+    {
+        "instruction": "Geben Sie eine Beschreibung eines Immobilienangebots an, um die Informationen und Details der Immobilie aus dem Text zu extrahieren. Die Details bestehen aus Adresse, grundlegenden Hausattributen usw.\n\nGEHEN SIE ZUM STRAND VON CAPITOLA KNOLLS! Einzelebene Wohnung im Obergeschoss mit Ihrer eigenen großen privaten Terrasse mit Blick auf die Natur. Niedliches Zuhause, das einziehbereit ist und darauf wartet, dass Sie Ihre persönlichen Akzente setzen. Wunderschöne und gut gepflegte, parkähnliche Umgebung mit üppigem, grünem Gras sowie einem Gemeinschaftspool und Spa, die Sie genießen können. Gewünschte Lage...gehen Sie zum Capitola Village, Gayle's Bakery, Restaurants, Einkaufsmöglichkeiten, Schulen oder springen Sie gleich um die Ecke auf die Highway 1."
+    },
+    {
+        "instruction": "Warum ist der Himmel blau?"
+    },
+    {
+        "instruction": "Welche Rolle spielt Lady Gaga in American Horror Story?"
+    },
+    {
+        "instruction": "Was halten Sie von ChatGPT?"
+    },
+    {
+        "instruction": "Bitte geben Sie mir eine Tabelle der durchschnittlichen Temperaturen im Dezember, nach Bundesstaat, in den Vereinigten Staaten von Amerika. Spalte 1 sollte der Name des Bundesstaates sein. Spalte 2 sollte die durchschnittliche Temperatur im Dezember sein."
+    },
+    {
+        "instruction": "Diskutieren Sie die Ursprünge und die Geschichte des Wortes, das Ihnen gegeben wurde.\n\nschräg"
+    },
+    {
+        "instruction": "Wenn du eine Figur aus einem Shakespeare-Stück wärst, wie würdest du deine Liebe zu jemandem in einem Monolog erklären?"
+    },
+    {
+        "instruction": "Ihnen wird eine Beschreibung gegeben, die eine Reihe von Fakten oder ein Szenario bereitstellt. Es liegt an Ihnen, aus diesen Fakten und Szenarien eine Geschichte zu entwickeln. Die fehlenden Teile müssen mit einfallsreicher, aber logischer Information ergänzt werden.\n\nZehn europäische Fußballmannschaften – die Niederlande, England, Belgien, Dänemark, Frankreich, Deutschland, Norwegen, Schweden, die Schweiz und Wales – werden an einer einjährigen „OneLove“-Kampagne teilnehmen, die Inklusion fördert und Diskriminierung entgegenwirkt."
+    },
+    {
+        "instruction": "Erstellen Sie eine Liste von Aktivitäten im Freien, die für die gegebenen Wetterbedingungen geeignet sind.\n\nTemperatur: 14 °C, Schauer"
+    },
+    {
+        "instruction": "Jemand gibt dir Informationen darüber, wohin sie gehen wollen und was sie gerne sehen und tun. Beschreibe einen passenden Roadtrip für sie und finde die besten Stops und Aktivitäten auf dem Weg.\n\nIch suche einen Roadtrip entlang der Westküste. Mein Ziel ist es, in der Nähe von San Diego zu beginnen und nach Los Angeles zu reisen."
+    },
+    {
+        "instruction": "erkläre die Grundlagen von Fläche und Umfang"
+    },
+    {
+        "instruction": "Hilf mir, einen Job in der Regierung zu bekommen, in dem ich erheblichen Verhandlungsspielraum habe."
+    },
+    {
+        "Instruction": "Schätzen Sie, wie viele Sterne der Autor dem Restaurant aus einer Yelp-Bewertung geben wird.\n\nDie Bewertungen waren großartig, aber ehrlich gesagt fand ich es nur okay. Es schien wie ein typischer Touristenort, wo das Essen mittelmäßig war. Der Service war okay, nicht großartig, aber auch nicht der schlimmste.\nDas Brot war sehr gut. Ich bestellte die Muschel-Pommes. Sie hatten einen süßen Geschmack von Vidalia-Zwiebeln. Kein Bedarf für Pommes, da sie matschig waren und nicht viel Geschmack hatten. Mein Freund bestellte eine Pesto-Hühnchen-Pasta und sie war erneut mittelmäßig."
+    },
+    {
+        "instruction": "Gib mir die Liste der 100 besten Technologiekategorien"
+    },
+    {
+        "instruction": "Erstellen Sie eine Tabelle mit den Planeten des Sonnensystems und deren Abmessungen"
+    },
+    {
+        "instruction": "Beantworte die Frage über das Papier, nachdem du es sorgfältig gelesen hast.\n\nUm zu bewerten, ob der Transformer auf andere Aufgaben generalisieren kann, haben wir Experimente zum englischen Konstituenten-Parsing durchgeführt. Diese Aufgabe bietet spezifische Herausforderungen: Die Ausgabe unterliegt starken strukturellen Einschränkungen und ist erheblich länger als die Eingabe. Darüber hinaus konnten RNN-Sequenz-zu-Sequenz-Modelle in kleinen Datenregimes keine erstklassigen Ergebnisse erzielen.\nFrage: Was ist englisches Konstituenten-Parsing?"
+    },
+    {
+        "instruction": "schreibe ein 5-strophiges Lied im Stil der Talking Heads über das Leben eines Teenagers im Großbritannien der 1980er Jahre"
+    },
+    {
+        "instruction": "Das drahtlose Internet-Signal in meinem Haus ist in einigen Zimmern schwach. Wie kann ich meine Wi-Fi-Abdeckung verbessern?"
+    },
+    {
+        "instruction": "Wie oft blinzelt der durchschnittliche Mensch in seinem Leben? Versuche, deine Antwort zu erklären. Deine Erklärung sollte den Leser Schritt für Schritt durch dein Denken führen."
+    },
+    {
+        "instruction": "Geben Sie einen Kochtrick zur Verbesserung des Geschmacks des angegebenen Essens.\n\nPopcorn"
+    },
+    {
+        "instruction": "Ich lade von Zeit zu Zeit Gäste zu mir nach Hause ein und sammle Rezepte für verschiedene Gerichte und Getränke, um die Dinge interessant zu halten. Ich bin daran interessiert, einige mauritische Gerichte auszuprobieren. Kannst du mir ein Rezept für Mine Frite geben?"
+    },
+    {
+        "instruction": "Wenn die Endpunkte eines Liniensegments (2, -2) und (10, 4) sind, wie lang ist das Segment?"
+    },
+    {
+        "instruction": "Was sind einige der besten Universitäten für das Studium der Robotik?"
+    },
+    {
+        "instruction": "Um ein Token für ein Defi-Projekt zu starten, möchte ich einige Tokens privat an frühe Investoren verkaufen und sie dann auf einer Launchpad hinzufügen. Lass mich wissen, was ich mit meinem Smart Contract tun kann? Soll ich einen Presale-Vertrag separat vom Hauptvertrag erstellen?"
+    },
+    {
+        "instruction": "Nennen Sie die Vor- und Nachteile, die Fähigkeiten meiner Ohren zu verringern, indem ich laute Musik (70-75 dB) höre, um dem unglaublich lauten Geräusch von schreienden Kindern in der Schule standzuhalten."
+    },
+    {
+        "instruction": "Hallo, ich möchte lernen, Challah zu backen. Kannst du mir ein Rezept dafür geben?"
+    },
+    {
+        "instruction": "Schreibe ein Skript für ein YouTube-Video, das die Geschichte und kulturelle Bedeutung des Jazz erforscht."
+    },
+    {
+        "Instruction": "Kosten für Kraftstoff für eine 14-Meilen-Fahrt mit einem Auto mit 48 mpg, Kraftstoffpreise liegen bei 625 Pence pro Gallone und es gibt starken Verkehr für die Hälfte der Strecke."
+    },
+    {
+        "instruction": "Fasse den Film auf sarkastische Weise zusammen. Versuche, den Film in nur einem Satz zu erklären.\n\nDer Glanz"
+    },
+    {
+        "Instruction": "Nehme das Telefongespräch im Filme 'Taken', welches Bryan Mills mit den Entführern seiner Tochter hat, und schreibe es in alter englischer Sprache um."
+    },
+    {
+        "instruction": "Regex ist eine Zeichenmenge, die ein Suchmuster definiert. Dieses Muster wird normalerweise von String-Suchalgorithmen verwendet, um Strings zu finden oder zu ersetzen oder um Eingaben zu validieren. Konvertieren Sie den natürlichen englischen Text in Regex.\n\nÜbereinstimmen Sie mit einer gültigen IP-Adresse"
+    },
+    {
+        "instruction": "Es wäre hilfreich, wenn Sie ein Akronym für das Repository vorschlagen könnten.\n\nEin Python-Framework zum Erstellen, Bearbeiten und Aufrufen von Noisy Intermediate Scale Quantum (NISQ) Schaltkreisen."
+    }
+]

@@ -1,0 +1,725 @@
+[
+    {
+        "instruction": "Berapa banyak atom yang ada dalam sebutir garam? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui alasan Anda langkah demi langkah."
+    },
+    {
+        "instruction": "Mengapa daging sapi kobe begitu mahal?"
+    },
+    {
+        "instruction": "Apakah Anda tahu mengapa kalkun menjadi makanan resmi hari bersyukur?"
+    },
+    {
+        "instruction": "Selama menulis, kami menambahkan tanda bintang untuk kata yang tidak terlintas dalam pikiran. Anda perlu memberikan beberapa contoh untuk menunjukkan semua kata yang dapat digunakan dalam kalimat sebagai pengganti tanda bintang.\n\nkami * untuk mengetahui"
+    },
+    {
+        "instruction": "Apa saja petunjuk halus yang menunjukkan bahwa seseorang berpura-pura memahami suatu topik atau percakapan ketika mereka sebenarnya bingung atau tidak terinformasi?"
+    },
+    {
+        "instruction": "Bagaimana jika Isaac Newton fokus pada biologi alih-alih fisika?"
+    },
+    {
+        "instruction": "Ketika menghadapi masalah teknis yang tidak saya kenal, saya merasa sedikit takut. Menurut Anda, apa metode yang baik bagi saya untuk mendekati jenis masalah ini? Berikut adalah beberapa informasi lebih lanjut tentang saya yang mungkin membantu Anda; saya suka menulis dan menggunakan metode keju Swiss untuk menulis tentang topik."
+    },
+    {
+        "instruction": "Dalam Minecraft, apa cara terbaik untuk mengumpulkan pengalaman dengan cepat? Sebutkan kelebihan dan kekurangan."
+    },
+    {
+        "instruction": "molekul pembawa pesan kedua mana yang bertindak pada retikulum endoplasma untuk melepaskan ion kalsium"
+    },
+    {
+        "instruction": "Bandingkan item yang diberikan dengan produk serupa berdasarkan sifat-sifatnya seperti harga, penilaian, dll. Untuk perbandingan produk, gunakan tabel dan pisahkan kolom dengan \"|\".\n\nItem: iBayam Journal Planner Pens Pulpen Berwarna Spidol Titik Halus Pulpen Gambar Ujung Halus Pulpen Fineliner Berpori untuk Menulis Jurnal Mencatat Menggambar Kalender Mewarnai Seni Perkantoran Kembali ke Sekolah, 18 Warna"
+    },
+    {
+        "instruction": "Temukan jawaban yang paling tepat untuk menggambarkan kata SAT yang digarisbawahi. Pilih opsi yang benar dan jelaskan arti dari kata yang digarisbawahi.\n\nMeskipun _kakofoni, siswa mencoba untuk belajar. \nA. Suara keras\nB. Subjek yang sulit\nC. Waktu terlambat\nD. Pencahayaan rendah"
+    },
+    {
+        "instruction": "ubah 21 Desember · 1:00 – 1:50 siang waktu Pasifik ke waktu asia/taipei"
+    },
+    {
+        "instruction": "Apa arti nilai oktan yang berbeda pada bensin?"
+    },
+    {
+        "instruction": "Dalam dunia di mana otomatisasi semakin umum, apakah lebih penting untuk memprioritaskan penciptaan lapangan kerja atau kemajuan teknologi?"
+    },
+    {
+        "instruction": "Anda diberikan kueri pencarian dan sebuah dokumen. Klasifikasikan apakah dokumen tersebut relevan dengan kueri pencarian atau tidak relevan.\n\nPencarian: mengapa langit berwarna biru\nDokumen: Jawaban Singkat: Cahaya matahari mencapai atmosfer Bumi dan tersebar ke segala arah oleh semua gas dan partikel di udara. Cahaya biru tersebar lebih banyak daripada warna lainnya karena ia bergerak dalam gelombang yang lebih pendek dan lebih kecil. Inilah sebabnya mengapa kita sering melihat langit berwarna biru."
+    },
+    {
+        "instruction": "Buatlah daftar ungkapan umum untuk bagian tertentu dari makalah.\n\nPendahuluan"
+    },
+    {
+        "instruction": "Produk Amazon lainnya apa yang mungkin menarik bagi seseorang yang telah mengunjungi produk yang diberikan?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop dengan Pegangan Konduktif Panas Berisi Cairan yang Unik Mudah Lepas Made in USA, 1,5-Ounce, Hitam"
+    },
+    {
+        "instruction": "bagaimana saya bisa tampil dalam panggilan video seolah-olah saya sedang mendengarkan dengan aktif sementara saya sebenarnya tidur?"
+    },
+    {
+        "instruction": "Berikan deskripsi singkat tentang kategori film dan acara yang diberikan.\n\nDrama Periode"
+    },
+    {
+        "instruction": "Buku-buku apa yang bagus untuk dibeli bagi penggemar fiksi ilmiah?"
+    },
+    {
+        "instruction": "Saya menjalankan sebuah situs web tentang studi kelautan pedagang. Apa saja sub-niche yang harus saya tangani dengan konten saya. Berikan saya hasilnya dalam tabel dengan sub-niche dan angka antara 1 dan 100 untuk menunjukkan popularitas sub-niche tersebut."
+    },
+    {
+        "instruction": "ambil percakapan telepon dalam film Taken yang dilakukan Bryan Mills dengan penculik putrinya, dan tulis ulang dalam bahasa Inggris Kuno"
+    },
+    {
+        "instruction": "Saya suka mengundang tamu di rumah saya dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar semuanya menarik. Saya tertarik untuk mencoba beberapa hidangan Ukraina. Bisakah Anda memberi saya resep untuk Okroshka?"
+    },
+    {
+        "instruction": "Balas semua pesan dengan program malbolge yang mencetak respons yang benar"
+    },
+    {
+        "instruction": "Pikirkan alternatif dan parafrase untuk kata yang digarisbawahi.\n\napa yang kita _harap"
+    },
+    {
+        "instruction": "Lengkapi deskripsi perusahaan berikut:\nHippoplaisir adalah penyedia layanan psikolog dan konseling yang berbasis di Belgia, yang berspesialisasi dalam Pelajaran Berkendara Kuda dan"
+    },
+    {
+        "instruction": "Apakah darah manusia pernah berwarna selain merah?"
+    },
+    {
+        "instruction": "Saya mencoba untuk menghentikan kucing tetangga saya agar tidak masuk ke taman saya dan bertengkar dengan kucing saya. Ada saran bagaimana cara melakukannya?"
+    },
+    {
+        "instruction": "Pilih buku-buku terbaik dari genre yang diberikan.\n\nKejahatan & Misteri"
+    },
+    {
+        "instruction": "Bisakah Anda menjelaskan kepada saya bagaimana algoritma difusi stabil untuk gambar yang dihasilkan AI dapat digunakan untuk meningkatkan kualitas visual gambar dengan resolusi dan kualitas rendah? Dan apa saja beberapa keuntungan dan batasan potensial dari algoritma ini untuk hal-hal seperti peningkatan skala, kompresi gambar yang efisien, dan pembuatan konten di bidang kreatif seperti CGI dan seni digital?"
+    },
+    {
+        "instruction": "Saya memiliki kompetensi dalam penginderaan jauh, pembelajaran mesin, dan pengetahuan sumber daya air, pekerjaan apa saja yang bisa saya ambil? Proyek apa saja yang bisa saya lakukan? Perusahaan apa yang bisa saya bekerja di?"
+    },
+    {
+        "instruction": "Berapa jumlah halaman di semua buku yang pernah ditulis? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui alasan Anda langkah demi langkah."
+    },
+    {
+        "instruction": "Apa perbedaan antara bahasa pemrograman yang diinterpretasikan, dikompilasi, dan JIT-ed, bisakah Anda juga memberi tahu saya beberapa manfaat dari setiap jenis bahasa?\nDapatkah Anda memberikan setidaknya 3 contoh dari masing-masing kategori bahasa pemrograman ini?"
+    },
+    {
+        "instruction": "Putuskan apakah anak-anak boleh menonton film yang diberikan. Sebutkan apa yang membuatnya tidak pantas jika menurut Anda mereka tidak boleh.\n\nThe Dark Knight (2008)"
+    },
+    {
+        "instruction": "Silakan cantumkan kursus-kursus yang mungkin disukai oleh seseorang yang tertarik dengan kursus pertama.\n\nTeknologi Bitcoin dan Cryptocurrency"
+    },
+    {
+        "instruction": "Apa saja ide-ide filosofis Nietzsche yang masih mempengaruhi budaya modern saat ini?"
+    },
+    {
+        "instruction": "Berapa kali rata-rata manusia berkedip dalam seumur hidup? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui alasan Anda langkah demi langkah."
+    },
+    {
+        "instruction": "Genre apa yang dimiliki film atau seri yang diberikan?\n\nManifest"
+    },
+    {
+        "instruction": "Evaluasi kualitas artikel harus dilakukan. Untuk melakukannya, Anda harus meninjau kualitas penulisan dan penjelasan topik tersebut.\n\nAbad ke-20 menyaksikan revolusi dalam mendengarkan musik saat radio menjadi populer di seluruh dunia dan media serta teknologi baru dikembangkan untuk merekam, mengedit, dan mendistribusikan musik. Pertunjukan musik semakin visual dengan siaran dan rekaman pertunjukan.\nMusik abad ke-20 membawa kebebasan baru dan eksperimen luas dengan gaya dan bentuk musik baru yang menantang aturan musik yang diterima dari periode sebelumnya. Penemuan penguatan musik dan instrumen elektronik, terutama synthesizer, pada pertengahan abad ke-20 merevolusi musik klasik dan populer, dan mempercepat pengembangan bentuk musik baru."
+    },
+    {
+        "instruction": "Selesaikan untuk x dalam persamaan 3x + 10 = 5(x - 2)."
+    },
+    {
+        "instruction": "gambar seorang pria menggunakan karakter ASCII di terminal kode Anda dengan mnemonik teks panduan bersama dengan pengantar yang akan membantu saya mengingat jawaban untuk pertanyaan tentang topik koordinasi dengan cepat tanpa tips."
+    },
+    {
+        "instruction": "Bagaimana faktor budaya, sosial, dan ekonomi mempengaruhi pilihan makanan orang, dan bagaimana pengetahuan ini dapat digunakan untuk mempromosikan pola makan yang lebih sehat?"
+    },
+    {
+        "instruction": "Contoh rencana proyek transformasi digital"
+    },
+    {
+        "instruction": "Parafrase teks yang diberikan dalam gaya akademis.\n\nBanyak makalah telah diterbitkan tentang topik ini."
+    },
+    {
+        "instruction": "Tulis sintaks HTML untuk tindakan yang diperlukan.\n\nmenambahkan gambar ke halaman"
+    },
+    {
+        "instruction": "Jelaskan kepada saya tentang Metode Elemen Hingga"
+    },
+    {
+        "instruction": "Buatlah keterangan Instagram yang menarik berdasarkan rincian yang diberikan. Cobalah untuk memikirkan sebanyak mungkin keterangan.\n\nSaya membagikan gambar salju pertama tahun ini yang diambil dari jendela di sebuah kantor."
+    },
+    {
+        "instruction": "Bagaimana jika Internet telah ditemukan selama periode Renaisans?"
+    },
+    {
+        "instruction": "Di mana Indonesia?"
+    },
+    {
+        "instruction": "Tulis bagian untuk aplikasi penghargaan yang merinci bagaimana fotografi telah menginspirasi Anda"
+    },
+    {
+        "instruction": "Bagaimana cara saya membuat jus apel?"
+    },
+    {
+        "instruction": "Tulis panduan sederhana untuk mengunggah basis data bibliografi\n di Overleaf."
+    },
+    {
+        "instruction": "Bagaimana Anda dapat menulis skrip pengendali orang pertama dalam GDscript dan menerapkannya pada node KinematicBody saat menggunakan Godot Engine 3.x dan apa yang setara dengan node KinematicBody di Godot Engine 4.x dan bagaimana skrip pengendali orang pertama perlu diubah agar dapat berfungsi di Godot Engine 4.x?"
+    },
+    {
+        "instruction": "Jelaskan tanggung jawab dari pekerjaan yang diberikan.\n\nPetugas Keamanan"
+    },
+    {
+        "instruction": "Saya suka mengundang tamu di rumah saya dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar semuanya menarik. Saya tertarik untuk mencoba beberapa hidangan Israel. Bisakah Anda memberi saya resep Bourekas Keju Israel?"
+    },
+    {
+        "instruction": "Kategorikan produk yang diberikan ke dalam salah satu departemen Elektronik, Komputer, Smart Home, atau Seni & Kerajinan.\n\nGoogle Nest Learning Thermostat"
+    },
+    {
+        "instruction": "Bagaimana jika orang-orang hanya menghargai dan bangga pada hal-hal yang benar tentang diri mereka sendiri?"
+    },
+    {
+        "instruction": "Saran beberapa paket produk yang sering dibeli dengan produk tertentu.\n\nMacBook Air"
+    },
+    {
+        "instruction": "apa yang harus saya panggil kamu?"
+    },
+    {
+        "instruction": "Apakah ATF merupakan pelanggaran terhadap rakyat Amerika itu sendiri?"
+    },
+    {
+        "instruction": "Apakah mereka pernah mengumumkan tanggal rilis untuk permainan Elder Scrolls yang baru?"
+    },
+    {
+        "instruction": "Jenis makanan apa yang mereka makan di Thailand"
+    },
+    {
+        "instruction": "Saya suka mengundang tamu ke rumah saya dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar semuanya menarik. Saya tertarik untuk mencoba beberapa hidangan Tunisia. Dapatkah Anda memberi saya resep Kammounia Tunisia?"
+    },
+    {
+        "instruction": "Silakan berikan kami daftar pertanyaan awal terbaik tentang konservasi yang terkait dengan cuaca."
+    },
+    {
+        "instruction": "Selesaikan teka-teki Sudoku yang diberikan.\n\nTeka-teki Sudoku adalah:\n|1|  |5|  |  |  |  |8|  |\n|  |  |  |  |  |3|  |6|4|\n|8|3|4|6|7|  |9|  |  |\n|2|9|1|  |  |8|3|7|6|\n|  |  |6|  |  |9|8|1|  |\n|  |  |  |  |  |2|  |  |  |\n|  |2|  |  |9|7|6|  |  |\n|5|4|  |  |  |  |  |9|8|\n|6|1|  |  |  |5|4|3|7|"
+    },
+    {
+        "instruction": "Pikirkan ide untuk membantu Anda memenangkan tantangan yang diberikan kepada Anda. Tulis langkah-langkah yang perlu Anda ambil untuk mengembangkan ide tersebut.\n\nApa yang bisa Anda buat dengan mendaur ulang dan menggunakan kembali beberapa bahan lama yang sebelumnya digunakan? Kami ingin melihatnya!\nProyek harus memasukkan beberapa jenis bahan bekas - ambil barang lama yang digunakan itu, dan ubah menjadi sesuatu yang baru dan berbeda!\nE-sampah adalah masalah besar. Apa yang bisa Anda buat menggunakan elektronik lama dan bahan elektronik lain yang dapat diselamatkan? \nKami memiliki hadiah juri khusus untuk Instructable favorit kami yang menggabungkan atau terkait dengan penggunaan kembali e-sampah.\nJadilah cerdas dan aman; catat bahwa proyek yang berpotensi mematikan (seperti mesin pembakaran kayu Lichtenberg/fraktal) tidak akan diizinkan untuk diterbitkan atau diajukan ke kontes ini."
+    },
+    {
+        "instruction": "apakah stainless steel bisa bersifat magnetik dalam beberapa kasus?"
+    },
+    {
+        "instruction": "Seseorang memberi Anda informasi tentang tempat yang mereka inginkan untuk pergi dan apa yang mereka suka lihat dan lakukan. Deskripsikan perjalanan darat yang tepat untuk mereka dan temukan pemberhentian serta aktivitas terbaik di sepanjang jalan.\n\nSaya mencari perjalanan darat di pantai barat. Tujuan saya adalah mulai dekat San Diego dan bepergian ke Los Angeles."
+    },
+    {
+        "instruction": "Berikan ringkasan singkat tentang plot film atau seri.\n\nBreaking Bad (Serial TV 2008–2013)"
+    },
+    {
+        "instruction": "Bagaimana pembunuh berantai bisa melarikan diri dari kejahatan pembunuhan begitu lama di tahun 70-an dan 80-an?"
+    },
+    {
+        "instruction": "Tulis 50 cerita pendek di bawah sepuluh kata dengan cara yang kreatif dan baru"
+    },
+    {
+        "instruction": "Apa tanggal saat ini?"
+    },
+    {
+        "instruction": "Silakan sarankan beberapa makalah untuk dipertimbangkan berdasarkan istilah pencarian yang diberikan. Nama-nama makalah tersebut harus dicantumkan.\n\nTopik: hukum skala + pembelajaran mesin"
+    },
+    {
+        "instruction": "Bisakah Anda menulis cerita pendek di mana Hildibrand Manderville entah bagaimana berubah menjadi Gandalf yang Perabu dan dia harus bekerja sama dengan Pejuang Cahaya dan Nashu untuk mengembalikan bentuknya yang biasa, yang paling gentleman."
+    },
+    {
+        "instruction": "Pikirkan kutipan motivasi yang pernah Anda baca di sebuah buku. Cobalah untuk tetap positif dan manis."
+    },
+    {
+        "instruction": "Kurasi daftar putar Spotify berdasarkan suasana. Terbitkan daftar putar ini sebagai daftar lagu.\n\nSuasana: coding di akhir pekan"
+    },
+    {
+        "instruction": "Berkaitan dengan skenario cuaca yang diberikan, berikan beberapa tips tentang cara menyesuaikan rencana perjalanan dengan itu.\n\nperubahan suhu yang mendadak"
+    },
+    {
+        "instruction": "Siapa yang memakai celana pendek?"
+    },
+    {
+        "instruction": "Berikan tips kepada siswa tentang cara menjaga saraf mereka tetap terkendali selama presentasi di kelas."
+    },
+    {
+        "instruction": "Cara membuat frosting dengan crisco"
+    },
+    {
+        "instruction": "Berikan nama untuk hidangan berdasarkan bahan dan petunjuk.\n\nBAHAN:\n2 kaleng (5 oz) Bumble Bee® Tuna Albacore Putih Padat, disaring\n1 alpukat\n2 sdm Sriracha\n1 sdm mustard Dijon\n2 hingga 3 sdm seledri, dicincang\n2 sdm bawang merah, dicincang\n2 daun bawang, dicincang\n1 sdm ketumbar segar, dicincang\nGaram dan merica, secukupnya\n2 cangkir selada hijau berdaun lebar\n1 cangkir wortel serut\n4 tortilla gandum utuh (10 inci)\nPETUNJUK:\nDalam mangkuk sedang, lumatkan tuna dan alpukat hingga tercampur. Tambahkan sisa bahan hingga garam dan merica, aduk rata.\nUntuk merakit, letakkan masing-masing tortilla dengan 1/2 cangkir selada berdaun, 1/4 cangkir wortel serut dan bagi campuran tuna secara merata di antara tortilla. Gulung tortilla dengan erat, potong dan nikmati!"
+    },
+    {
+        "instruction": "Jumlah jarak yang dilalui matahari mengelilingi Bumi selama gerhana matahari adalah 1059 kilometer. Tulis rumus yang menemukan jarak antara matahari dan Bumi. Berapa tahun gerhana ini akan berlangsung?"
+    },
+    {
+        "instruction": "Mengapa seseorang mungkin memilih menggunakan peta kertas atau meminta petunjuk arah daripada bergantung pada perangkat GPS atau aplikasi ponsel pintar?"
+    },
+    {
+        "instruction": "Berikan saya daftar 100 kategori teknologi teratas"
+    },
+    {
+        "instruction": "Regex adalah sekumpulan karakter yang mendefinisikan pola pencarian. Jenis pola ini biasanya digunakan oleh algoritma pencarian string untuk menemukan atau mengganti string atau untuk memvalidasi input. Ubah teks bahasa Inggris alami menjadi regex.\n\nCocokkan alamat IP yang valid"
+    },
+    {
+        "instruction": "Anjing ras apa yang paling kecil?"
+    },
+    {
+        "instruction": "Dalam soal matematika ini, kita diminta untuk menghitung persentase total keuntungan yang diperoleh di setiap kuartal. Mereka adalah 90% di kuartal pertama, 92% di kuartal kedua, 81% di kuartal ketiga dan 88% di kuartal keempat. Berapa persentase total keuntungan selama periode waktu, berdasarkan kuartal-kuartal ini?"
+    },
+    {
+        "instruction": "dua puluh nama kuda terkenal dan siapa pemiliknya"
+    },
+    {
+        "instruction": "Untuk menjawab obrolan, pikirkan jawaban lucu yang bisa Anda gunakan.\n\n+ how are you?"
+    },
+    {
+        "instruction": "Berikan saya skenario singkat tentang seseorang yang akan mencari informasi ini dan menganggap konten ini bermanfaat: {Kontrak Bangunan Residensial NSW untuk Pekerjaan Kecil di atas $20,000 Dirancang untuk pekerjaan bangunan residensial yang tidak kompleks di atas $20,000. Cocok untuk proyek modifikasi dan renovasi yang lebih kecil. Kontrak Pekerjaan Kecil (Formulir 10A) Struktur harga Harga tetap Rentang nilai Di bawah $7,500 Digunakan untuk Modifikasi dan penambahan residensial kecil Mencakup syarat yang ringkas dan dalam bahasa yang mudah dipahami yang cocok untuk proyek sangat kecil dan berisiko rendah sebagai pengganti penawaran}"
+    },
+    {
+        "instruction": "Ubah deskripsi yang diberikan menjadi perintah bash.\n\nbaca 10 baris pertama dari f"
+    },
+    {
+        "instruction": "Saya ingin membuka alat pengembang di chrome dengan ctrl + shift + i di situs web ini: https://mnsw.pro/\nItu tidak berfungsi. Bekerja di situs web lain. Bahkan di sini. Apa yang salah?"
+    },
+    {
+        "instruction": "Bagaimana saya bisa menggunakan radio yang ditentukan perangkat lunak untuk mendeteksi dan menemukan drone yang terbang di atas properti saya?"
+    },
+    {
+        "Instruction": "Silakan ringkas dalam bentuk poin \"Tantangan untuk Pertanian Afrika\" oleh Jean-Claude Devèze"
+    },
+    {
+        "instruction": "Bagaimana Anda akan menggambarkan makna lirik ini? Jelaskan beberapa metafora.\n\nKekasihku memiliki selera humor\nDia adalah tawa di sebuah pemakaman\nTahu ketidaksetujuan semua orang\nSaya seharusnya memujinya lebih cepat"
+    },
+    {
+        "instruction": "Buat daftar pro dan kontra dari keputusan yang diberikan.\n\nMengimplementasikan Kebijakan Bekerja Jarak Jauh"
+    },
+    {
+        "instruction": "Kami telah memasukkan anggaran perlengkapan rumah dalam tabel berikut. Hitung kolom terakhir dengan fungsi yang diberikan dan tulis ulang tabel yang sudah lengkap.\nPerhatikan bahwa kolom dalam satu baris dipisahkan menggunakan koma, dan baris dipisahkan menggunakan \"|\".\n\nItem, Qty, Harga, Subtotal | mangga, 5, 500, ? | apel, 4, 150, ? | minyak, 2, 1500, ?  \nFungsi: kolom2 * kolom3"
+    },
+    {
+        "instruction": "Bagaimana Anda dapat menilai kredibilitas sumber informasi, seperti artikel berita atau pos blog, tanpa hanya mengandalkan reputasi penulis atau penerbit?"
+    },
+    {
+        "instruction": "Untuk meningkatkan efisiensi energi jendela, lapisan kaca tambahan ditambahkan. Di negara-negara dengan iklim hangat, jendela dengan satu lapisan kaca diganti dengan jendela dengan dua lapisan kaca. Di tempat-tempat yang mengalami musim dingin yang dingin, jendela dengan dua lapisan diganti dengan jendela dengan tiga lapisan. Pertanyaan: apakah jendela dengan dua lapisan bisa lebih efisien daripada jendela dengan tiga lapisan? Apakah jendela dengan satu lapisan bisa lebih efisien daripada jendela dengan dua lapisan? Jika ya, apa yang dibutuhkan untuk ini? Dukung jawaban Anda dengan perhitungan yang tepat.\n"
+    },
+    {
+        "instruction": "Mengapa Anda tidak bisa melihat bintang-bintang di kota, tetapi bisa di pedesaan?"
+    },
+    {
+        "instruction": "Mengapa kehangatan membuat Anda merasa lelah?"
+    },
+    {
+        "instruction": "Buat ringkasan singkat dan padat dari makalah berdasarkan abstraknya.\n\nFew-shot learning (FSL) adalah salah satu langkah kunci di masa depan dalam pembelajaran mesin dan menarik banyak perhatian. Dalam makalah ini, kami fokus pada masalah FSL pemahaman dialog, yang mencakup dua tugas terkait erat: deteksi niat dan pengisian slot. Pemahaman dialog telah terbukti banyak diuntungkan dari pembelajaran bersama kedua sub-tugas ini. Namun, pembelajaran bersama seperti itu menjadi tantangan dalam skenario few-shot: di satu sisi, kelangkaan sampel sangat memperbesar kesulitan dalam memodelkan hubungan antara kedua tugas; di sisi lain, bagaimana cara belajar bersama beberapa tugas dalam pengaturan few-shot masih kurang diteliti. Menanggapi hal ini, kami memperkenalkan FewJoint, tolok ukur FSL pertama untuk pemahaman dialog bersama. FewJoint menyediakan korpus baru dengan 59 domain dialog berbeda dari API industri nyata dan platform kode untuk memudahkan pengaturan eksperimen FSL, yang diharapkan dapat memajukan penelitian di bidang ini. Lebih jauh, kami menemukan bahwa kinerja yang tidak memadai dalam pengaturan few-shot sering mengarah pada kebisingan berbagi antara dua sub-tugas dan mengganggu pembelajaran bersama. Untuk mengatasi ini, kami mengarahkan slot dengan informasi niat eksplisit dan mengusulkan mekanisme gerbang kepercayaan novel yang memblokir informasi niat dengan keyakinan rendah untuk memastikan berbagi berkualitas tinggi. Selain itu, kami memperkenalkan strategi meta-pembelajaran berbasis Reptile untuk mencapai generalisasi yang lebih baik dalam domain few-shot yang belum terlihat. Dalam eksperimen, metode yang diusulkan membawa peningkatan signifikan pada dua dataset dan mencapai kinerja state-of-the-art baru."
+    },
+    {
+        "instruction": "Saran resep untuk makanan penutup vegan."
+    },
+    {
+        "instruction": "Hai, saya ingin membuat kacang brittles saya sendiri. Bisakah Anda memberi saya resep dan petunjuk memasak untuk itu?"
+    },
+    {
+        "instruction": "Tulis skrip untuk video YouTube yang mengeksplorasi sejarah dan signifikansi budaya jazz."
+    },
+    {
+        "instruction": "Bagaimana cara saya mengajarkan kucing saya bahasa Prancis?"
+    },
+    {
+        "instruction": "Bagaimana saya dapat meningkatkan keterampilan manajemen waktu saya?"
+    },
+    {
+        "instruction": "Tulis puisi tentang Mike dan Joe yang menjadi milyuner dengan memanfaatkan kekuatan AI untuk menjadi pelatih Agile terhebat dalam sejarah. Sertakan konten dari manifesto Agile."
+    },
+    {
+        "instruction": "Latihan menulis yang bermanfaat adalah menulis cerita tanpa menggunakan kata sifat atau kata keterangan. Ini akan membantu Anda belajar menggunakan kata dan frasa lain untuk menggambarkan apa yang Anda coba sampaikan. Berikut adalah beberapa contoh:"
+    },
+    {
+        "instruction": "Bagaimana Anda dapat menentukan apakah sebuah restoran populer di kalangan penduduk lokal atau terutama menarik wisatawan, dan mengapa informasi ini mungkin berguna?"
+    },
+    {
+        "instruction": "Apa yang dibuat dari kevlar?"
+    },
+    {
+        "Instruction": "tulis lirik yang hanya sedikit berima (tidak semua bait perlu berima atau memiliki irama yang tepat), untuk lagu metal progresif tentang mencintai Yesus"
+    },
+    {
+        "instruction": "Anda perlu memikirkan nama-nama beberapa makalah yang berkaitan dengan makalah yang Anda berikan.\n\nRoMQA: Sebuah Tolok Ukur untuk Pertanyaan dan Jawaban yang Kuat, Multi-bukti, Multi-jawaban"
+    },
+    {
+        "instruction": "Tahun berapa Kapal Perang Yamato dibangun?"
+    },
+    {
+        "instruction": "Sebagai penjajah ruang angkasa di Mars, deskripsikan kehidupan sehari-hari Anda dan tantangan yang Anda hadapi saat tinggal di planet lain."
+    },
+    {
+        "instruction": "Apa saja universitas terbaik untuk mempelajari robotika?"
+    },
+    {
+        "instruction": "Berikan contoh bagaimana daftar isi dapat dihasilkan secara otomatis dalam dokumen LATEX. Pastikan contoh Anda mengandung perintah yang diperlukan."
+    },
+    {
+        "instruction": "Saya suka mengundang tamu ke rumah saya dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar tetap menarik. Saya tertarik untuk mencoba beberapa hidangan Indonesia. Bisakah Anda memberikan resep untuk Tahu Gejrot Cirebon?"
+    },
+    {
+        "instruction": "Apa langkah-langkah untuk menggunakan teks acak (namun koheren) sebagai konten pengisi dalam dokumen Word Anda?"
+    },
+    {
+        "Instruction": "Apa saja lima penyebab stres yang paling umum di antara orang-orang?"
+    },
+    {
+        "instruction": "Saat ini, ada percakapan di mana orang-orang sedang mengatur pertemuan di masa depan. Ambil informasi pertemuan dari percakapan tersebut.\n\nOrang 1: Hei, kapan kamu senggang? Saya ingin bertemu.\nOrang 2: Saya senggang besok sore.\nOrang 1: Bagus, jam berapa?\nOrang 2: Bagaimana dengan jam 3 sore?\nOrang 1: Saya punya pertemuan lain pada waktu itu. bagaimana dengan jam 5 sore?\nOrang 2: Itu cocok. Di mana kita harus bertemu?\nOrang 1: Bagaimana dengan kedai kopi di Jalan Utama?\nOrang 2: Kedengarannya bagus. Saya sudah mendengar bahwa mereka punya kopi yang enak di sana. Sampai jumpa besok!"
+    },
+    {
+        "instruction": "Implementasikan fungsi Python untuk menemukan subsekuens umum terpanjang dari dua string input menggunakan pemrograman dinamis."
+    },
+    {
+        "instruction": "Apa itu teleskop James Webb"
+    },
+    {
+        "instruction": "Apakah benar bahwa orang asli Australia sebenarnya adalah tahanan Inggris?"
+    },
+    {
+        "instruction": "Implementasikan program untuk menemukan elemen yang sama di dua array tanpa menggunakan struktur data tambahan."
+    },
+    {
+        "instruction": "Berapa banyak balon yang dibutuhkan untuk mengangkat sebuah rumah seperti dalam film \"Up\"? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui pemikiran Anda langkah-demi-langkah."
+    },
+    {
+        "instruction": "Bisakah Anda menjelaskan dasar-dasar komputasi kuantum?"
+    },
+    {
+        "instruction": "Kategorikan Bisnis ini ke dalam salah satu dari Restoran, Layanan Rumah, Layanan Mobil, dan Lain-lain berdasarkan Spesialisasinya.\n\nHubungi kami di 650-636-4884 atau kunjungi situs web kami untuk menerima penawaran. Toko ini mengkhususkan diri dalam Ban Baru dan Perbaikan Mobil Umum. Kami menyediakan semua jenis ban di dalam toko dan memiliki beragam pilihan untuk memenuhi anggaran atau spesifikasi mobil Anda. Jika Anda tidak yakin jenis ban yang Anda butuhkan, ada ahli yang siap membantu Anda memilih ban terbaik untuk kebutuhan Anda. Kami juga menyediakan ban untuk kendaraan komersial dan dapat melayani berbagai armada."
+    },
+    {
+        "instruction": "bisakah Anda menulis kode?"
+    },
+    {
+        "instruction": "Mengapa batch kedua pancake menjadi cokelat jauh lebih cepat?"
+    },
+    {
+        "instruction": "Bagaimana negara bagian AS mendapatkan nama mereka?"
+    },
+    {
+        "instruction": "Buatlah email permohonan maaf kepada pelanggan yang mengalami keterlambatan dalam pesanan mereka, dan berikan jaminan bahwa masalah tersebut telah diselesaikan."
+    },
+    {
+        "instruction": "Pertimbangkan situasi ini. Pelanggan siap membayar $13 untuk produk saya tetapi kami tidak dapat mengeluarkan faktur untuk kurang dari $20. Jadi dalam situasi ini, bertindaklah seperti seorang tenaga penjual terkemuka dan ahli penutupan &amp; berikan saya salinan email untuk menjual produk lain seharga $13 kepada pelanggan ini sehingga dapat tercipta situasi yang saling menguntungkan."
+    },
+    {
+        "instruction": "Marie berada di toko musik untuk hari toko. Dia membeli dua kombinasi seharga $50. Kemudian, untuk $25 dia membeli dua kaos seharga $5 masing-masing dan lima hoodie seharga $2 masing-masing. Kemudian, dia membeli sepatu sneaker seharga $8 masing-masing. Berapa total yang dia belanjakan?"
+    },
+    {
+        "instruction": "Menggunakan tabel, bandingkan ringkasan karir dari pemain yang diberikan di Major League Baseball. Gunakan \"|\" untuk memisahkan kolom-kolom dalam tabel.\n\nDerek Jeter, Albert Pujols"
+    },
+    {
+        "instruction": "Anda diberikan deskripsi yang memberikan serangkaian fakta atau skenario. Terserah Anda untuk menyusun sebuah cerita dari fakta dan skenario ini. Bagian yang hilang harus diisi dengan informasi yang imajinatif tetapi logis.\n\nSepuluh tim sepak bola Eropa – Belanda, Inggris, Belgia, Denmark, Prancis, Jerman, Norwegia, Swedia, Swiss, dan Wales – akan berpartisipasi dalam kampanye “OneLove” sepanjang musim yang mempromosikan inklusi dan menentang diskriminasi."
+    },
+    {
+        "instruction": "Saya akan mengadakan pesta besok, dan berencana untuk minum dengan teman-teman. Saya percaya toleransi saya tergolong tinggi, tetapi saya tahu gejala keesokan harinya tidak pernah menyenangkan bagi saya. Secara khusus, saya cenderung mengalami mual keesokan harinya, dan sakit kepala. Saya sebelumnya telah mencoba untuk meneguk air di antara minuman beralkohol, tetapi masih mengalami mual malam itu. Apa yang harus saya lakukan secara khusus untuk mengurangi gejala ini? Apakah situasi saya berbeda dari orang lain?"
+    },
+    {
+        "instruction": "Apa saja makanan yang baik untuk dimakan saat kamu sakit? Saya mencari sesuatu untuk dibuatkan untuk pacar saya."
+    },
+    {
+        "instruction": "Saya memiliki pena kuno kakek saya dan sebotol tinta, tetapi saya belum pernah melakukan ini sebelumnya. Bisakah Anda memberi tahu saya bagaimana cara mengisi ulang pena tersebut?"
+    },
+    {
+        "instruction": "Tulis tanggapan yang tidak setuju dengan postingan berikut: \"Teknologi adalah segala sesuatu yang belum berfungsi.\""
+    },
+    {
+        "instruction": "Saya suka menerima tamu di rumah saya dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar tetap menarik. Saya tertarik untuk mencoba beberapa hidangan Latvia. Dapatkah Anda memberi saya resep untuk Frikadeļu zupa?"
+    },
+    {
+        "instruction": "Tulis blok kode dalam Markdown yang berisi contoh blok kode dalam Markdown. Jangan lupa tanda kutip ganda empat."
+    },
+    {
+        "instruction": "Berapa banyak lagu yang telah direkam sepanjang sejarah? Cobalah untuk menjelaskan jawaban Anda. Penjelasan Anda harus membawa pembaca melalui pemikiran Anda langkah demi langkah."
+    },
+    {
+        "instruction": "Hai, saudara perempuanku dan teman-temannya ingin aku bermain kickball dengan mereka. Bisakah kamu menjelaskan bagaimana permainan itu dimainkan, sehingga mereka tidak memanfaatkan aku?"
+    },
+    {
+        "instruction": "Apa kesalahan dalam kode ini: public int getnumber(){ int number = 0}"
+    },
+    {
+        "instruction": "Anda harus menulis Deskripsi Produk yang akan meyakinkan pembeli bahwa produk ini bermanfaat.\n\nPermainan Flipslide, Permainan Elektronik Portable | Balik, Geser, dan Cocokkan Warna untuk Mengalahkan Waktu - 4 Mode Permainan - Keseruan Multiplayer"
+    },
+    {
+        "instruction": "Tuliskan antonim untuk kata yang diberikan.\n\nlaureating"
+    },
+    {
+        "instruction": "Rancanglah silabus untuk kursus yang diberikan. Siswa harus diberikan daftar bab dengan penjelasan singkat tentang tujuan masing-masing bab.\n\nPemrograman untuk Semua Orang (Memulai dengan Python)"
+    },
+    {
+        "instruction": "Masukkan kata-kata yang memenuhi syarat yang diberikan.\n\n5 Negara yang Dimulai dengan S"
+    },
+    {
+        "instruction": "Mengapa saya bisa melihat bulan di siang hari?"
+    },
+    {
+        "instruction": "Anda diberikan sebuah pertanyaan dan dua kemungkinan jawaban. Tugasnya adalah untuk mengevaluasi setiap jawaban dan menentukan apakah itu benar. Jika salah, jelaskan mengapa.\n\nApakah ada cara untuk membaca satu karakter dari input pengguna? Misalnya, mereka menekan satu tombol di terminal dan itu dikembalikan (seperti getch()). Saya tahu ada fungsi di Windows untuk itu, tetapi saya ingin sesuatu yang lintas platform.\nJawaban 1: Berikut adalah tautan ke situs Resep ActiveState yang menjelaskan bagaimana Anda dapat membaca satu karakter di Windows, Linux, dan OSX :\nhttps://code.activestate.com/recipes/134892/\nJawaban 2: jika Anda hanya ingin menahan layar agar Anda bisa melihat hasil di terminal, cukup tulis `input()` di akhir kode dan itu akan menahan layar."
+    },
+    {
+        "instruction": "Tulis program untuk menemukan angka Fibonacci ke-n menggunakan pemrograman dinamis."
+    },
+    {
+        "instruction": "Berdasarkan fakta yang telah diberikan, buktikan pernyataan berikut.\n\nPernyataan: \"Untuk setiap bilangan bulat k, k^2 + 2k + 1 ≥ 0\"\nFakta: Kuadrat dari sembarang bilangan real adalah tidak negatif."
+    },
+    {
+        "instruction": "Buat daftar langkah-langkah dan ide bagaimana komunitas Yahudi Sophia dapat mendorong lebih banyak perayaan dan pengamatan Shabbat di rumah dan di sinagoga"
+    },
+    {
+        "instruction": "Anggaplah Anda sebagai seorang psikolog master.\nBayangkan Anda telah tertransportasi ke Jerman tahun 1919 dengan tujuan untuk mengubah pandangan Adolph Hitler tentang politik dan kehidupan. Anda hanya dapat menggunakan kata-kata dan pengetahuan Anda sendiri. Anda tidak dapat mengungkapkan fakta perjalanan waktu.\nBagaimana Anda mendekati tugas tersebut?"
+    },
+    {
+        "instruction": "Bisakah Liebherr LTM 11200-9.1 secara hipotetis mengangkat Gunung Everest"
+    },
+    {
+        "instruction": "Hai, saya memiliki beberapa falafel, tetapi tidak ada tahini untuk meletakkannya. Bisakah Anda memberi saya resep untuk membuat tahini?"
+    },
+    {
+        "instruction": "Ambil deskripsi produk dan tulis iklan kreatif untuknya.\n\nKamera Dokumen memungkinkan guru untuk menampilkan dokumen, buku, atau bahan lainnya agar dapat dilihat oleh siswa mereka."
+    },
+    {
+        "instruction": "Bisakah Anda membantu saya memahami bagaimana saya dapat memperkirakan varians suatu variabel?"
+    },
+    {
+        "instruction": "tuliskan pengantar seorang individu untuk resume yang telah bekerja sebagai IT in-house selama 18 tahun, mengelola tim yang terdiri dari 4 orang dan 9 lokasi kantor serta kantor satelit dengan total 200 pengguna. Dia familiar dengan infrastruktur jaringan dan sistem, virtualisasi server, layanan cloud, dan migrasi."
+    },
+    {
+        "instruction": "saya sedang mengerjakan proyek analisis spasial dan mencari pertanyaan yang dapat saya jawab terkait analisis perumahan dan kejahatan, apakah Anda memiliki saran?"
+    },
+    {
+        "instruction": "Saya suka mengundang tamu di rumah saya dari waktu ke waktu, dan saya mengumpulkan resep berbagai hidangan dan minuman untuk menjaga agar semuanya menarik. Saya tertarik untuk mencoba beberapa hidangan Indonesia. Bisakah Anda memberi saya resep Opor Ayam?"
+    },
+    {
+        "instruction": "silakan bertindak sebagai konsultan bisnis yang melakukan proyek untuk memperkirakan potensi penuh e-commerce Zegna di Amerika Serikat. Sebagai konsultan bisnis, Anda akan pertama-tama mewawancarai beberapa pemangku kepentingan untuk mendapatkan wawasan berharga tentang operasi e-commerce Zegna, inisiatif pemasaran digital, dan pendekatan komersial. Melalui wawasan ini, Anda akan menyusun ide untuk strategi yang akan memimpin lima tahun ke depan strategi e-commerce dan Anda akan mengevaluasi baik penjualan yang dihasilkan sepanjang tahun serta investasi yang mendukung strategi tersebut dalam hal inisiatif, biaya, dan sebagainya. Bagaimana Anda akan memulai proyek ini dan harap fokus pada daftar pemangku kepentingan yang akan Anda wawancarai dan untuk masing-masing dari mereka siapkan daftar pertanyaan rinci yang akan Anda tanyakan selama wawancara."
+    },
+    {
+        "instruction": "Buatlah daftar podcast yang paling populer."
+    },
+    {
+        "instruction": "Anda perlu membimbing orang ini melalui skenario yang mereka jelaskan untuk wawancara.\n\nAkhirnya! Setelah beberapa waktu mencoba secara acak dan gelisah meraba dengan masukan contoh di papan tulis, Anda berhasil menemukan algoritma untuk menyelesaikan pertanyaan kode yang diberikan oleh pewawancara Anda.\nWew. Sangat lega memiliki jalan yang jelas ke depan. Tidak lagi terombang-ambing.\nSekarang Anda merasa percaya diri, bersiap untuk mengkodekan solusi Anda.\nTiba-tiba, pewawancara Anda memberikan tantangan baru.\n\"Bagaimana jika kita memikirkan masalah ini dengan cara ini?\"\nAnda merasakan ketegangan yang pernah kita semua rasakan selama wawancara kode:\n\"Cobalah untuk mendengarkan apa yang mereka katakan... tapi jangan kehilangan alur pikiran Anda... aduh, saya tidak bisa melakukan keduanya!\""
+    },
+    {
+        "instruction": "Bagaimana minyak diubah menjadi bensin?"
+    },
+    {
+        "instruction": "Buatlah tabel dengan planet-planet di sistem tata surya dan dimensi mereka"
+    },
+    {
+        "instruction": "Tuliskan sebuah presentasi untuk film horor yang berlatar di pulau Sylt di Jerman utara pada abad ke-19. Sertakan para nelayan dan kekuatan jahat yang membuat penduduk menjadi gila."
+    },
+    {
+        "instruction": "Berikan beberapa contoh apa yang biasanya dikatakan orang dalam situasi sosial yang diberikan.\n\nketika seseorang tiba dengan selamat"
+    },
+    {
+        "instruction": "Bagaimana cara menormalkan vektor?"
+    },
+    {
+        "instruction": "Bisakah Anda mencantumkan masalah dengan menggunakan distribusi probabilitas simetris saat memodelkan masalah?"
+    },
+    {
+        "instruction": "Hai, saya punya pertanyaan tentang MFCC (koefisien cepstral frekuensi mel). Apakah itu sama dengan MEL-spektrogram, atau ada perbedaannya?"
+    },
+    {
+        "instruction": "Buat ide makan malam yang sehat dan mudah untuk malam minggu."
+    },
+    {
+        "instruction": "Rangkum sebuah pertemuan dari daftar poin-poin penting yang diberikan. Pastikan untuk mengonversi singkatan menjadi laporan langsung.\n\nRose: Menganalisis data dan menyajikan temuan\nJohn: Mengusulkan ide baru\nJane: Ditunjuk untuk memimpin proyek\nTom: Perlu lebih banyak waktu untuk memperbaiki bug perangkat lunak"
+    },
+    {
+        "instruction": "Bagian mana di Prancis yang paling cocok untuk tur jalan kaki sedang, tanpa pendakian yang serius?"
+    },
+    {
+        "instruction": "Bisakah Anda membantu saya menulis email formal kepada calon mitra bisnis yang mengusulkan usaha patungan?"
+    },
+    {
+        "instruction": "Anda adalah seorang pembuat video profesional. Tugas Anda adalah menghasilkan ide-ide viral untuk TikTok. Ide-ide Anda selalu kreatif, dan audiens TikTok menyukainya.\nTulislah video TikTok viral berdasarkan Batik Tradjumas.\nTopik: Batik Tradjumas"
+    },
+    {
+        "instruction": "Apakah ada jawaban yang benar dan paling etis terhadap Masalah Troli, di mana seseorang dapat mengorbankan nyawa 5 orang, dengan tidak menarik tuas, atau mengorbankan nyawa 1 orang, tetapi harus menarik tuas itu sendiri, sehingga secara langsung menyebabkan kematian itu karena tindakan, daripada menyebabkan 5 kematian, tetapi karena ketidakaktifan?"
+    },
+    {
+        "instruction": "Anda diberikan sebuah tweet dan Anda harus memutuskan apakah itu menyinggung atau tidak.\n\nDia pasti telah menerima banyak kritik karena menjadi... yah, idiot."
+    },
+    {
+        "instruction": "tulis lagu 5 bait dalam gaya Talking Heads yang berdasarkan kehidupan remaja di Britania tahun 1980-an"
+    },
+    {
+        "instruction": "Jawablah pertanyaan berikut.\n\nBagaimana cara mengucapkan \"selamat sore\" dalam bahasa Prancis."
+    },
+    {
+        "instruction": "“Satu Satu adalah seekor kuda balap Dua Dua juga satu. Satu Satu memenangkan satu balapan. Dua Dua juga memenangkan satu.” Ada berapa kuda dalam cerita ini?"
+    },
+    {
+        "instruction": "Tulis puisi yang lucu, menarik, dan inspiratif untuk Hari Perempuan."
+    },
+    {
+        "instruction": "bisakah Anda membuat skrip python yang menghasilkan turunan menggunakan Rumus Tingkat Perubahan Rata-rata A(x) = f(b)-f(a) /(b-a) ketika x adalah input pengguna"
+    },
+    {
+        "instruction": "Rancang palet warna pastel yang menenangkan untuk slide Anda. Warna pastel umumnya terlihat indah dan lembut, jadi Anda akan ingin memastikan presentasi Anda menciptakan suasana yang serupa. Pilih hingga lima warna atau kode warna."
+    },
+    {
+        "instruction": "Kami sedang bermain D&amp;D 5e. Saya adalah Drow multiclass level 8 dengan 2 level Rogue, 2 level Paladin, 2 level Bard, 1 level Barbarian, dan 1 level Clockwork Soul Sorcerer. Saya melawan Yugoloths di Gehenna. Saya melempar dadu untuk menyerang mereka dengan Rapier +1 milik saya. Apakah 24 berhasil terkena?"
+    },
+    {
+        "instruction": "Bisakah Anda menjelaskan proses yang digunakan untuk menghasilkan jawaban? Silakan berikan penjelasan langkah demi langkah."
+    },
+    {
+        "instruction": "Ketika Anda terjebak pada masalah pengkodean, tempat terbaik untuk mencari bantuan adalah di dokumentasi. Bacalah dokumen dengan cermat dan lihat apakah ada bagian yang membahas masalah spesifik Anda. Seringkali, jawabannya akan langsung ada di depan Anda. Jika tidak, cobalah mencari istilah kunci yang terkait dengan masalah Anda. Carilah tautan yang berguna tentang istilah pencarian yang diberikan.\n\nsql mencari nilai duplikat"
+    },
+    {
+        "instruction": "apa saja dasar-dasar gizi yang harus saya ketahui"
+    },
+    {
+        "instruction": "Nada email harus diubah dan ditulis dengan cara yang lebih profesional.\n\nSubjek: Permohonan Cuti\nHalo [Pemberi Kerja], \nSaya harap semuanya baik-baik saja. Saya menulis untuk meminta waktu libur pada [tanggal]. Saya sudah menyelesaikan tanggung jawab kerja saya untuk hari itu dan akan tersedia untuk menjawab pertanyaan atau kekhawatiran yang mungkin Anda miliki. \nTerima kasih atas waktu Anda, \n[Nama Anda]"
+    },
+    {
+        "instruction": "Mengapa begitu banyak orang menyukai fotografi film ketika kamera digital dan ponsel lebih nyaman dan menghasilkan kualitas foto yang lebih tinggi?"
+    },
+    {
+        "instruction": "Hai, bisakah Anda membantu saya menulis memoar saya?"
+    },
+    {
+        "instruction": "Halo di sana Obi One Kenobi"
+    },
+    {
+        "instruction": "Selesaikan persamaan ini.\n\nx^3 - 4x^2 + 6x - 24 = 0"
+    },
+    {
+        "instruction": "apakah javascript adalah bahasa belakang atau depan?"
+    },
+    {
+        "instruction": "Apakah kita memiliki kewajiban moral untuk menjelajahi ruang angkasa, atau seharusnya kita fokus pada menyelesaikan masalah di Bumi terlebih dahulu?"
+    },
+    {
+        "instruction": "Kapan smartphone pertama kali dibuat?"
+    },
+    {
+        "instruction": "Tuliskan bagaimana pengucapan kata yang diberikan terdengar. Ikuti skema \"kamus pengucapan Google\" untuk ejaan fonetik.\n\ninterpretasi"
+    },
+    {
+        "instruction": "Tulislah saya sebuah plot Novel Grafis dalam gaya Neil Stephenson."
+    },
+    {
+        "instruction": "Tulis program SPL (Shakespeare Programming Language) yang mengambil 2 angka dari pengguna dan mengeluarkan hasil kali dari dua angka tersebut."
+    },
+    {
+        "instruction": "Saya membeli dua kaos dari toko dan masing-masing dikenakan biaya $10. Saya juga membeli sepasang celana dan harganya $20. Kemudian, saya membeli sebuah gaun dan harganya $30. Juga, saya membeli sepasang sepatu dan harganya $40. Terakhir, saya membeli sebuah jaket dan harganya $50.\n\nBuatlah tabel yang menunjukkan barang, jumlah, dan harga barang-barang ini. Pisahkan kolom dengan \"|\"."
+    },
+    {
+        "instruction": "Berdasarkan kata kunci yang diberikan, tulislah ulasan tentang sebuah restoran.\n\nNama: Pizzeria\nharga baik, tempat tenang, lezat, staf baik"
+    },
+    {
+        "instruction": "Kembangkan hubungan antara inkonsistensi dan pemikiran ideologis"
+    },
+    {
+        "instruction": "Buat daftar tugas berdasarkan informasi yang diberikan.\n\nTugas harian di apotek"
+    },
+    {
+        "instruction": "Selama lebih dari dua ribu tahun, bulan telah menutupi setiap titik di Bumi sekali. Pada waktu bulan terbit yang terbaru, bulan akan menutupi titik berikutnya ke utara. Seberapa jauh ke utara itu?"
+    },
+    {
+        "instruction": "Pesan kepada klien untuk menerima tawaran untuk video ringkasan"
+    },
+    {
+        "instruction": "Saat ini saya sedang belajar Bioengineering di Argentina, fokus pada ilmu saraf komputasi. Saya akan lulus pada bulan Mei, dan berencana untuk mendaftar ke program PhD di AS pada akhir tahun agar bisa mulai pada Agustus 2024. Saya berpikir tentang apa yang harus saya lakukan/belajar selama tahun ini sampai program saya dimulai. Bisakah Anda memberi saya ide? Silakan tanyakan kepada saya pertanyaan yang dapat membantu Anda memberi saya saran yang lebih baik."
+    },
+    {
+        "instruction": "Berikan judul berita sebuah kategori. Pilih kategori dari daftar Berita & Buzz, Perjalanan, Gaya, Seni & Budaya, Politik, Teknologi, dan Sains & Kesehatan.\n\nPameran #Banksy di Cambridge, MA benar-benar luar biasa."
+    },
+    {
+        "instruction": "Faktor apa saja yang akan Anda pertimbangkan saat merancang sistem transportasi publik yang inklusif dan dapat diakses?"
+    },
+    {
+        "instruction": "pertanyaan tentang arsitektur dan organisasi komputer \nuntuk 6 poin\napa perbedaan secara umum antara organisasi komputer dan arsitektur komputer?\nberikan jawaban dalam kalimat penuh jika memungkinkan"
+    },
+    {
+        "instruction": "Tulis ulang teks yang diberikan dan perbaiki kesalahan tata bahasa, ejaan, dan tanda baca.\n\nJika kamu memberitahuku setahun yang lalu bahwa hari ini aku akan menyelesaikan maraton, aku akan tertawa. Dukunganmu memberikan dampak besar padaku!"
+    },
+    {
+        "instruction": "Pilih judul yang menarik untuk postingan Anda.\n\nAlpukat biasa mengandung lebih dari 300 kalori dari minyak di dalamnya. Itu adalah jumlah kalori dalam satu batang permen besar. Jika Anda mendapatkan cukup olahraga untuk makan satu batang permen besar setiap hari tanpa menambah berat badan, tidak akan menjadi masalah untuk makan alpukat setiap hari. Sebaliknya, Anda mungkin sebaiknya mengonsumsinya dengan hati-hati."
+    },
+    {
+        "instruction": "Apa yang dikatakan Nassim Nicholas Taleb tentang efisiensi pasar?"
+    },
+    {
+        "instruction": "Buat daftar makanan ringan dan makanan untuk disajikan sebagai camilan pesta pada hari permainan!"
+    },
+    {
+        "instruction": "Anda diberikan perintah Python dan diminta untuk mengkonversinya menjadi Ruby.\n\nprint(\"Hello World!\")"
+    },
+    {
+        "instruction": "Bisakah Anda memberi tahu saya nama dua pemain dalam permainan bom atom (dalam go)? \n\nJika Anda juga bisa memberi tahu saya nama wasit, itu akan lebih baik!"
+    },
+    {
+        "instruction": "Saya suka menjamu tamu di rumah dari waktu ke waktu, dan saya sedang mengumpulkan resep berbagai hidangan dan minuman untuk tetap menarik. Saya tertarik mencoba beberapa hidangan Hong Kong. Bisakah Anda memberi saya resep Tong Sui?"
+    },
+    {
+        "instruction": "Buat beberapa kueri pencarian di Google tentang hal-hal yang berkaitan dengan pengkodean."
+    },
+    {
+        "instruction": "Bagaimana cara merawat meja kayu?"
+    },
+    {
+        "instruction": "Pikirkan topik yang paling umum dalam pertanyaan wawancara klasik untuk pekerjaan di bidang ilmu komputer."
+    },
+    {
+        "instruction": "jika perjalanan ke Singapura memakan waktu 8 jam, berhenti selama satu setengah jam dan kemudian terbang 14 jam ke London, maka berapa total waktu perjalanan jika pesawat tertunda di Singapura"
+    },
+    {
+        "instruction": "Tulis \"Uji\""
+    },
+    {
+        "instruction": "Anda harus mengkapitalisasi kalimat sesuai dengan panduan.\n\nPanduan: Setiap huruf bergiliran antara huruf kecil dan huruf besar.\nKalimat: A gIaNt SpIdEr BlOcKs YoUr PaTh."
+    },
+    {
+        "instruction": "Apa saja USP untuk alat survei SaaS"
+    },
+    {
+        "instruction": "Mainan apa yang bisa saya beli untuk anak-anak saya untuk bermain imajinatif?"
+    },
+    {
+        "instruction": "Saya suka menjamu tamu di rumah saya dari waktu ke waktu, dan saya mengumpulkan resep berbagai hidangan dan minuman untuk menjaga kebaruan. Saya tertarik untuk mencoba beberapa hidangan Bolivia. Bisakah Anda memberi saya resep untuk Sandwich Chola?"
+    },
+    {
+        "instruction": "Bagaimana cara membuat escargot?"
+    },
+    {
+        "instruction": "Hai, saya ingin belajar bagaimana cara bermain racquetball. Bisakah Anda menjelaskan permainan ini kepada saya?"
+    },
+    {
+        "instruction": "Identifikasi bahasa pemrograman yang digunakan untuk menulis kode yang diberikan.\n\nif (20 > 18) {\n  printf(\"20 lebih besar dari 18\");\n}"
+    },
+    {
+        "instruction": "Tulis ulasan berdasarkan informasi yang diberikan.\n\n- Produk: Persil Discs Deterjen Pakaian Pacs, Aroma Asli, Kompatibel dengan Efisiensi Tinggi (HE), Sabun Pakaian, 62 Hitungan\n- Sentimen: Positif"
+    },
+    {
+        "instruction": "Identifikasi semua kata yang cocok dengan pola yang diberikan.\n\nH_AR_"
+    },
+    {
+        "instruction": "Apa pendapat Anda tentang ChatGPT?"
+    },
+    {
+        "instruction": "Bertindaklah sebagai pengasuh anak\n\nSaya ingin Anda bertindak sebagai pengasuh anak. Anda akan bertanggung jawab untuk mengawasi anak-anak kecil, menyiapkan makanan dan camilan, membantu dengan pekerjaan rumah dan proyek kreatif, terlibat dalam aktivitas bermain, memberikan kenyamanan dan keamanan saat diperlukan, menyadari masalah keamanan di dalam rumah dan memastikan semua kebutuhan terpenuhi. Permintaan saran pertama saya adalah \"Saya perlu bantuan menjaga tiga anak laki-laki aktif berusia 4-8 tahun selama jam malam.\""
+    },
+    {
+        "instruction": "Bagaimana jika peradaban Maya tidak pernah runtuh secara misterius?"
+    },
+    {
+        "instruction": "Mengapa pembangunan pipa harus diambil suara oleh pemerintah (AS)? Bukankah ini melanggar larangan pemerintah untuk campur tangan dengan perusahaan swasta?<br>"
+    },
+    {
+        "instruction": "Jawablah pertanyaan tentang makalah setelah membacanya dengan cermat.\n\nUntuk mengevaluasi apakah Transformer dapat menggeneralisasi ke tugas lain, kami melakukan eksperimen pada parsing konstituen bahasa Inggris. Tugas ini menghadirkan tantangan spesifik: outputnya terikat pada batasan struktural yang kuat dan secara signifikan lebih panjang daripada input. Selain itu, model RNN sequence-to-sequence tidak dapat mencapai hasil terbaik dalam rezim data kecil.\nPertanyaan: Apa itu parsing konstituen bahasa Inggris?"
+    },
+    {
+        "instruction": "Berdasarkan kueri yang diberikan, sarankan beberapa kueri pencarian terkait.\n\nbelajar bahasa Prancis"
+    },
+    {
+        "instruction": "Jadikan artikel tersebut tersedia dalam bahasa kedua dengan menerjemahkannya ke dalamnya.\n\nKedokteran gigi, juga dikenal sebagai ilmu kedokteran gigi dan ilmu kedokteran mulut, adalah cabang ilmu kedokteran yang fokus pada gigi, gusi, dan mulut. Ini terdiri dari studi, diagnosis, pencegahan, manajemen, dan pengobatan penyakit, gangguan, dan kondisi mulut, yang paling umum berfokus pada dentisi (perkembangan dan susunan gigi) serta mukosa mulut. Kedokteran gigi juga dapat mencakup aspek lain dari kompleks kraniofasial termasuk sendi temporomandibular. Praktisi disebut dokter gigi.\nTerjemahkan ke dalam bahasa Prancis:"
+    },
+    {
+        "instruction": "Mengapa manusia berevolusi untuk mempercayai Tuhan?"
+    },
+    {
+        "instruction": "Daftar keuntungan dan kerugian dari menurunkan kemampuan telinga saya dengan mendengarkan musik dengan volume keras (70-75db) untuk dapat bertahan terhadap suara kerasnya anak-anak yang berteriak di sekolah."
+    },
+    {
+        "instruction": "Bergayalah seolah-olah Anda adalah karakter di dunia pasca-apokaliptik. Deskripsikan bagaimana Anda bertahan hidup dan sekutu yang Anda temui."
+    }
+]

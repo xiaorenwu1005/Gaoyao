@@ -1,0 +1,725 @@
+[
+    {
+        "instruction": "Dovresti trovare alcuni modelli LATEX appropriati per il compito da svolgere e elencare i collegamenti ad essi.\n\nCompito a casa"
+    },
+    {
+        "instruction": "Scrivi un copione per un video di YouTube che esplora la storia e il significato culturale del jazz."
+    },
+    {
+        "instruction": "Necessità di 300 parole sull'importanza di documentare la storia in relazione al futuro"
+    },
+    {
+        "instruction": "Date due matrici A e B che puoi moltiplicare insieme, è vero che (A B)^T = A^T B^T o B^T A^T?"
+    },
+    {
+        "instruction": "Devi scrivere un'email per negoziare il tuo stipendio."
+    },
+    {
+        "instruction": "Agisci come una baby sitter\n\nVoglio che tu agisca come una baby sitter. Sarai responsabile della supervisione di bambini piccoli, della preparazione dei pasti e degli spuntini, dell'assistenza con i compiti e i progetti creativi, dell'impegnarsi in attività ludiche, di fornire comfort e sicurezza quando necessario, di essere consapevole delle preoccupazioni riguardanti la sicurezza in casa e di garantire che tutte le necessità siano soddisfatte. La mia prima richiesta suggerita è \"Ho bisogno di aiuto per occuparmi di tre ragazzi attivi di età compresa tra 4 e 8 anni durante le ore serali.\""
+    },
+    {
+        "instruction": "Crea alliterazioni trovando sinonimi per le parole nella frase data.\n\nDavid indossa un cappello ogni giorno."
+    },
+    {
+        "instruction": "Dammi un esempio di itinerario di 5 giorni per una vacanza in Svizzera, partendo da Basilea"
+    },
+    {
+        "instruction": "Quanto tempo impiega i nostri occhi ad adattarsi completamente al buio?"
+    },
+    {
+        "instruction": "Fornisci un breve riassunto dell'intenzione del dialogo appena avvenuto.\n\nCliente: Ciao, sto cercando un telefono nuovo.\nAI: Ciao! Che tipo di telefono stai cercando?\nCliente: Non ne sono sicuro. Forse qualcosa con una buona fotocamera?\nAI: Abbiamo alcuni telefoni con ottime fotocamere. Ti piacerebbe vedere alcune opzioni?\nCliente: Sì, sarebbe fantastico."
+    },
+    {
+        "instruction": "Come funzionano i vaccini per proteggere gli individui e le comunità dalle malattie infettive, e che cos'è l'immunità di gregge?"
+    },
+    {
+        "instruction": "Perché il secondo lotto di pancake diventa marrone molto più velocemente?"
+    },
+    {
+        "instruction": "Quali sono le lunghezze d'onda della luce emessa dai metalli in base alla loro temperatura?"
+    },
+    {
+        "instruction": "Sei capace come ChatGPT?"
+    },
+    {
+        "instruction": "Crea un riassunto breve e conciso del documento basato sul suo abstract.\n\nIl few-shot learning (FSL) è uno dei passaggi chiave futuri nell'apprendimento automatico e suscita molta attenzione. In questo documento, ci concentriamo sul problema del FSL nella comprensione del dialogo, che contiene due compiti strettamente correlati: rilevamento dell'intento e filling dei slot. Si è dimostrato che la comprensione del dialogo trae grande beneficio dall'apprendimento congiunto dei due sotto-compiti. Tuttavia, tale apprendimento congiunto diventa difficile negli scenari few-shot: da un lato, la scarsità di campioni amplifica notevolmente la difficoltà di modellare la connessione tra i due compiti; dall'altro, come apprendere congiuntamente più compiti nell'impostazione few-shot è ancora poco indagato. In risposta a questo, introduciamo FewJoint, il primo benchmark FSL per la comprensione congiunta del dialogo. FewJoint fornisce un nuovo corpus con 59 diversi domini di dialogo da API industriali reali e una piattaforma di codice per facilitare la configurazione degli esperimenti FSL, che si prevede possano avanzare la ricerca in questo campo. Inoltre, troviamo che la performance insufficiente dell'impostazione few-shot spesso porta a una condivisione rumorosa tra i due sotto-compiti e disturba l'apprendimento congiunto. Per affrontare questo, guidiamo il filling dei slot con informazioni di intento esplicite e proponiamo un nuovo meccanismo di gating di fiducia che blocca le informazioni di intento a bassa fiducia per garantire condivisioni di alta qualità. Inoltre, introduciamo una strategia di meta-apprendimento basata su Reptile per ottenere una migliore generalizzazione in domini few-shot non visti. Negli esperimenti, il metodo proposto porta miglioramenti significativi su due dataset e raggiunge nuove performance all'avanguardia."
+    },
+    {
+        "instruction": "Scrivi 50 racconti brevi di meno di dieci parole in modo creativo e nuovo"
+    },
+    {
+        "instruction": "Quali sono alcuni segnali sottili che suggeriscono che qualcuno sta fingendo di comprendere un argomento o una conversazione quando in realtà è confuso o disinformato?"
+    },
+    {
+        "instruction": "Nome le città principali in Francia che non devono essere perse. Includi anche i migliori aspetti di ogni luogo."
+    },
+    {
+        "instruction": "Si prega di riassumere in forma di punti \"Sfide per\nl'Agricoltura Africana\" di Jean-Claude Devèze"
+    },
+    {
+        "instruction": "E se i Beatles non si fossero mai formati come band?"
+    },
+    {
+        "instruction": "Fornire una formula per calcolare il termine n-esimo nella seguente sequenza\n\n5, 14, 23, 32, 41, ..."
+    },
+    {
+        "instruction": "Scrivi un blocco di codice in Markdown contenente un esempio di un blocco di codice in Markdown. Non dimenticare quei quattro backtick."
+    },
+    {
+        "instruction": "Quali sono le strategie più efficaci per la risoluzione dei conflitti sul posto di lavoro?"
+    },
+    {
+        "instruction": "Quali sono i USP per uno strumento di sondaggio SaaS"
+    },
+    {
+        "instruction": "Si prega di rispondere alla seguente domanda basata sulle informazioni fornite nell'articolo.\n\nGli studi sullo sviluppo sono un ramo interdisciplinare delle scienze sociali. Gli studi sullo sviluppo sono offerti come una laurea magistrale specializzata in numerose università rinomate in tutto il mondo. È cresciuto in popolarità come soggetto di studio dall'inizio degli anni '90 ed è stato insegnato e ricercato più ampiamente nei paesi in via di sviluppo e nei paesi con una storia coloniale, come il Regno Unito, dove è originata la disciplina. Gli studenti degli studi sullo sviluppo spesso scelgono carriere in organizzazioni internazionali come le Nazioni Unite, la Banca Mondiale, organizzazioni non governative (ONG), case editrici e di giornalismo, società di consulenza per lo sviluppo del settore privato, enti di responsabilità sociale d'impresa (CSR) e centri di ricerca.\nQuali sono alcune carriere popolari per gli studenti degli studi sullo sviluppo?"
+    },
+    {
+        "instruction": "Puoi facilmente rendere le tue vacanze più eco-compatibili seguendo questi semplici passi:"
+    },
+    {
+        "instruction": "Possono un ragazzo e una ragazza essere solo migliori amici per sempre?"
+    },
+    {
+        "instruction": "Dove si trova l'Indonesia?"
+    },
+    {
+        "instruction": "Scrivi un interessante post di blog di viaggio su un recente viaggio alle Hawaii, evidenziando esperienze culturali e attrazioni imperdibili."
+    },
+    {
+        "instruction": "Mi piace ospitare ospiti a casa mia di tanto in tanto, e sto raccogliendo ricette di diversi piatti e bevande per rendere le cose interessanti. Sono interessato a provare alcuni piatti danesi. Puoi darmi una ricetta per Koldskål?"
+    },
+    {
+        "instruction": "Scrivi una sezione per una domanda di premio descrivendo come la fotografia ti ha ispirato"
+    },
+    {
+        "instruction": "Prendi il titolo del prodotto ed estrai le sue caratteristiche. Le caratteristiche in questo caso si riferiscono ai tratti dei prodotti, come il loro marchio e colore. La tua risposta deve essere un elenco seguendo il formato di \"caratteristica: valore\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Disco Rigido Interno a Stato Solido Scheda di Memoria, Velocità Massima, Controllo Termico, MZ-V8P2T0B"
+    },
+    {
+        "instruction": "Implementare un programma per trovare gli elementi comuni in due array senza utilizzare strutture dati aggiuntive."
+    },
+    {
+        "instruction": "In oltre duemila anni, la luna ha coperto ogni punto sulla Terra una volta. Al momento più recente di un'apparizione della luna, la luna sta per coprire il prossimo punto a nord. Quanto sarà a nord?"
+    },
+    {
+        "instruction": "Immagina di avere una notazione FEN di una scacchiera. Come puoi disegnare una scacchiera per mostrare questo stato della scacchiera in LATEX? Crea un codice LATEX che includa tutti i comandi e i pacchetti necessari."
+    },
+    {
+        "instruction": "Cambia la risposta per avere un tono più empatico nella chat.\n\n+ Come stai?\n- Bene, ho avuto un sacco di problemi oggi.\n+ Che tipo di problemi?"
+    },
+    {
+        "instruction": "Perché così tante persone amano la fotografia su pellicola quando le fotocamere digitali e i telefoni cellulari sono più comodi e producono foto di qualità superiore?"
+    },
+    {
+        "instruction": "Fornire una spiegazione dettagliata dei passaggi necessari per costruire il progetto dato.\n\nMotore a vapore utilizzando una lattina di birra vuota"
+    },
+    {
+        "instruction": "Devo comprare un regalo di compleanno per mio nipote. Sto pensando di dargli un gioco per il suo Nintendo Switch. Puoi darmi alcune opzioni che sono uscite recentemente?"
+    },
+    {
+        "instruction": "Inventa una nuova parola basata su una descrizione della parola.\n\nLa sensazione di sapere, mentre sei ancora nel momento, che qualcosa che sta accadendo sarà ricordato per sempre."
+    },
+    {
+        "instruction": "Come fare la glassa con Crisco"
+    },
+    {
+        "instruction": "Scrivi un rap di Snoop Dogg che spiega come non commettere un crimine di guerra"
+    },
+    {
+        "instruction": "costo del carburante per un viaggio di 14 miglia in un'auto con 48 miglia per gallone, il carburante costa 625 pence per gallone e c'è traffico intenso per metà del viaggio"
+    },
+    {
+        "instruction": "Ho questo testo: <br><br>Utilizziamo processi professionali. Utilizza il sistema di consegna delle foto, verifica la qualità e invialo immediatamente al cliente. Abbiamo iniziato a modificare foto digitali dalla prima ondata del 2000. Abbiamo cominciato modificando foto personali, e poi abbiamo diffuso la nostra passione modificando foto di matrimoni o restaurando foto d'epoca per persone care, amici e familiari, amici e clienti. Nel 2005 abbiamo aperto un negozio fotografico locale e abbiamo iniziato la modifica fotografica commerciale, la fotografia di prodotto per i produttori. Nel 2007 abbiamo implementato progetti online su piattaforme freelance.<br><br>Riscrivilo in uno stile professionale per raccontare una storia toccante."
+    },
+    {
+        "instruction": "Struttura un copione per un podcast per un episodio che discute l'influenza delle piattaforme di streaming sull'industria musicale."
+    },
+    {
+        "instruction": "Regex è un insieme di caratteri che definisce un modello di ricerca. Questo tipo di modello è solitamente utilizzato dagli algoritmi di ricerca di stringhe per trovare o sostituire stringhe o per convalidare input. Converti il testo inglese naturale in regex.\n\nCorrispondi a un indirizzo IP valido"
+    },
+    {
+        "instruction": "Se potessi aiutarmi a scrivere un'email ai miei amici per invitarli a cena venerdì, te ne sarei molto grato."
+    },
+    {
+        "instruction": "Quali sono i diversi cassetti che dovrei avere per i vestiti?"
+    },
+    {
+        "instruction": "Verrai messo alla prova sulla tua conoscenza dei witticismi e degli aforismi classici completando l'aforisma dato. Scrivi la citazione originale come risposta.\n\ndue cose sono infinite"
+    },
+    {
+        "instruction": "Puoi spiegarmi come l'algoritmo di diffusione stabile per le immagini generate dall'IA può essere utilizzato per migliorare la qualità visiva di immagini a bassa risoluzione e bassa qualità? E quali sono alcuni dei potenziali vantaggi e limitazioni di questo algoritmo per cose come il miglioramento della risoluzione, la compressione efficiente delle immagini e la generazione di contenuti in campi creativi come la CGI e l'arte digitale?"
+    },
+    {
+        "instruction": "Sai perché i tacchini sono diventati il cibo ufficiale del giorno del ringraziamento?"
+    },
+    {
+        "instruction": "Riscrivi questa canzone per parlare di programmazione\n[Verso 1]\nSteve cammina cautamente lungo la strada\nCon il cappello tirato verso il basso\nNon c'è suono tranne quello dei suoi passi\nFucili automatici pronti a partire\nSei pronto? Ehi, sei pronto per questo?\nSei appeso al bordo della tua sedia?\nDalla porta le pallottole squarciano\nAl ritmo della musica, sì\n[ ritornello ]\nUn altro morde la polvere\nUn altro morde la polvere\nE un altro via, e un altro via\nUn altro morde la polvere, sì\nEhi, ti prenderò anche tu\nUn altro morde la polvere\n\n[Verso 2]\nCome pensi che andrò avanti\nSenza di te, quando te ne vai\nMi hai portato via tutto ciò che avevo\nE mi hai cacciato da solo\nSei felice, sei soddisfatto?\nQuanto puoi sopportare il caldo?\nDalla porta le pallottole squarciano\nAl ritmo della musica\nFai attenzione\n\n[ ritornello ]\nUn altro morde la polvere\nUn altro morde la polvere\nE un altro via, e un altro via\nUn altro morde la polvere\nEhi, ti prenderò anche tu\nUn altro morde la polvere\nPotresti anche divertirti\nNon fermarmi ora\nQueen\nFiori\nMiley Cyrus\nBohemian Rhapsody\nQueen\n\n[Ponte]\nEhi\nOh, prendilo\nMordi la polvere, ehi\nUn altro morde la polvere\nUn altro morde la polvere, oh\nUn altro morde la polvere, hey hey\nUn altro morde la polvere, hey-eh-eh\nOoh\n\n[Verso 3]\nCi sono molti modi per ferire un uomo\nE portarlo a terra\nPuoi picchiarlo, puoi ingannarlo, puoi trattarlo male\nE lasciarlo quando è a terra, sì\nMa sono pronto, sì sono pronto per te\nSono in piedi sulle mie due gambe\nDalla porta le pallottole squarciano\nRipetendo il ritmo della musica\nOh sì\n\n[ ritornello ]\nUn altro morde la polvere\nUn altro morde la polvere\nE un altro via, e un altro via\nUn altro morde la polvere, sì\nEhi, ti prenderò anche tu\nUn altro morde la polvere"
+    },
+    {
+        "instruction": "Cosa causa le aurore boreali?"
+    },
+    {
+        "instruction": "Come posso pulire le mie ascelle?"
+    },
+    {
+        "instruction": "Ciao, ho una domanda riguardo ai MFCC (coefficients cepstrali in frequenza mel). Sono la stessa cosa di uno spettrogramma MEL, o c'è una differenza?"
+    },
+    {
+        "instruction": "Ciao, ho deciso di tenere un topo come animale domestico. Come devo sistemarlo, nutrirlo e prendermi cura di lui?"
+    },
+    {
+        "instruction": "Utilizzando un importo dato, determina una mancia appropriata.\n\nMancia del 14% su $47.50"
+    },
+    {
+        "instruction": "In base alle parole chiave fornite, scrivi una recensione di un ristorante.\n\nNome: Pizzeria\nbuoni prezzi, posto tranquillo, gustoso, personale gentile"
+    },
+    {
+        "instruction": "Per favore, fornisci un elenco delle migliori domande introduttive sulla conservazione relative al tempo atmosferico."
+    },
+    {
+        "instruction": "Progetta un programma per il corso dato. Agli studenti dovrebbe essere fornita un elenco dei capitoli con brevi spiegazioni dello scopo di ciascun capitolo.\n\nProgrammazione per tutti (Iniziare con Python)"
+    },
+    {
+        "instruction": "Quale lingua parlano le persone in Argentina?"
+    },
+    {
+        "instruction": "Migliora l'articolo utilizzando la tua conoscenza sull'argomento per renderlo più informativo.\n\nIl movimento del \"commercio equo\", conosciuto anche come il movimento della \"giustizia commerciale\", promuove l'uso di standard lavorativi, ambientali e sociali per la produzione di merci, in particolare quelle esportate dai Paesi del Terzo e del Secondo Mondo verso il Primo Mondo. Tali idee hanno anche acceso un dibattito su se il commercio stesso debba essere codificato come un diritto umano."
+    },
+    {
+        "instruction": "Scrivi un'intervista tra una regista cinematografica e un giornalista. Usa un inglese avanzato per parlare del basso numero di registe cinematografiche nei film del mondo. Includi anche molte domande e risposte in cui la regista incoraggia le nuove generazioni a fare film, dove i diritti delle donne possono emergere."
+    },
+    {
+        "instruction": "Attualmente sto studiando Bioingegneria in Argentina, concentrandomi sulla neuroscienza computazionale. Mi laureerò a maggio e ho intenzione di fare domanda per programmi di dottorato negli Stati Uniti alla fine dell'anno, per iniziare nell'agosto 2024. Sto pensando a cosa fare/studiare durante quest'anno fino all'inizio del mio programma. Potresti darmi qualche idea? Sentiti libero di farmi domande che potrebbero aiutarti a darmi suggerimenti migliori."
+    },
+    {
+        "instruction": "Dammi un'idea di com'era il mondo nel 1950. Quali erano le invenzioni contemporanee in quel periodo?"
+    },
+    {
+        "instruction": "Ho competenze in telerilevamento, apprendimento automatico e conoscenza delle risorse idriche, quali sono i lavori che posso occupare? Quali sono i progetti che posso realizzare? In quali aziende posso lavorare?"
+    },
+    {
+        "instruction": "Scrivimi una poesia nello stile di Neruda"
+    },
+    {
+        "instruction": "Scrivi una poesia su Mike e Joe che diventano milionari sfruttando il potere dell'IA per diventare i più grandi coach Agile della storia. Includi contenuti dal manifesto Agile."
+    },
+    {
+        "instruction": "Quando è stata colonizzata il Canada?"
+    },
+    {
+        "instruction": "Ho in programma di visitare Okinawa, Giappone, dal 7 aprile al 10 aprile. Hai qualche raccomandazione su cosa fare mentre sono lì?"
+    },
+    {
+        "instruction": "In che modo le barriere linguistiche e culturali influenzano il modo in cui le persone comunicano e formano relazioni nelle società multiculturali?"
+    },
+    {
+        "instruction": "quale molecola di secondo messaggero agisce sul reticolo endoplasmatico per rilasciare ioni di calcio"
+    },
+    {
+        "instruction": "Quante pagine ci sono in tutti i libri mai scritti? Prova a spiegare la tua risposta. La tua spiegazione dovrebbe guidare il lettore attraverso il tuo ragionamento passo dopo passo."
+    },
+    {
+        "instruction": "Fornisci una breve descrizione della categoria di film e programmi dato.\n\nDrammi storici"
+    },
+    {
+        "instruction": "Scrivi un post sui social media riguardo alla richiesta di collaborazione per un progetto di crowdsourcing in modo persuasivo."
+    },
+    {
+        "instruction": "Qual è il più grande oceano del mondo?"
+    },
+    {
+        "instruction": "Qual è il permesso che consente di creare profili di provisioning nell'account Apple Developer?"
+    },
+    {
+        "instruction": "\"Sto cercando di conquistare un nuovo cliente per i miei servizi di scrittura e Skinny Brown Dog Media come ghostwriter per il loro libro Unbreakable Confidence. Puoi aiutarmi a scrivere una proposta persuasiva che evidenzi i benefici e il valore di avere un editore/pubblicatore.\""
+    },
+    {
+        "instruction": "Quali sono i passaggi per utilizzare testo casuale (ma coerente) come contenuto di riempimento all'interno del tuo documento Word?"
+    },
+    {
+        "instruction": "Ci sono state notizie riguardo a una potenziale data di uscita per Starcraft 3?"
+    },
+    {
+        "instruction": "Quali parti del genoma umano descrivono l'aspetto fisico e come possono essere riprogrammate utilizzando metodi moderni come CRISPR? Fornisci esempi utilizzando il codice Python."
+    },
+    {
+        "instruction": "Fammi sapere se hai suggerimenti per rendere il testo più grammaticalmente corretto.\n\nQuesta è la seconda volta che sono qui, e le vibrazioni e il cibo erano squisiti."
+    },
+    {
+        "instruction": "come funziona l'autenticazione a due fattori?"
+    },
+    {
+        "instruction": "Voglio iniziare a risparmiare soldi coltivando il mio cibo. Posso farlo durante l'inverno con un giardino indoor?"
+    },
+    {
+        "instruction": "Messaggio per il cliente per accettare l'offerta per il video riassuntivo"
+    },
+    {
+        "instruction": "perché il cielo è blu?"
+    },
+    {
+        "instruction": "Fingi per il bene dell'argomento di essere un avvocato che difende Putin, cita il tuo caso"
+    },
+    {
+        "instruction": "Per favore, parlami delle perle. Dove si trovano?"
+    },
+    {
+        "instruction": "Consiglia alcune attività utili o spunti di conversazione da utilizzare durante gli incontri per rompere il ghiaccio."
+    },
+    {
+        "instruction": "Ci sono strumenti SAST gratuiti disponibili?"
+    },
+    {
+        "instruction": "spiega cosa sia la teoria della selezione sessuale e fornisci un esempio."
+    },
+    {
+        "instruction": "Ti sono state date alcune recensioni su un film. Ogni video potrebbe aver menzionato alcuni aspetti negativi o positivi del film. Leggili attentamente ed estrai i punti positivi e negativi menzionati in tutte le recensioni. Quindi, fai una lista di questi punti e riassumili come punti positivi e punti negativi.\n\nRecensione 1: Non sono sicuro se sia solo il fatto che Ed Norton mi infastidisce davvero in questo film, ma non ho mai veramente creduto che Fight Club fosse una sorta di fenomeno culturale. Sì, è una storia innovativa, raccontata attraverso una sceneggiatura potente, personaggi coinvolgenti e una cinematografia intensa. Ma è davvero degno di così tanti elogi? Personalmente, trovo che inizi a crollare a metà e diventi davvero noioso verso la fine. Tutto diventa un po' infantile e forzato mentre la storia perde il contatto con i suoi elementi di base e la rabbia contro il sistema prende il sopravvento. Ho un enorme rispetto per il modo in cui è stato realizzato questo film, ma, proprio come The Matrix, sento che le persone attribuiscono molta più importanza a questo film di quanto meriti.\nRecensione 2: Il film racconta la storia di uomini che non possono adattarsi all'ordine sociale nel mondo di oggi, sotto la guida di Tyler Durden, per scoprire il loro istinto naturale, la mascolinità e per fuggire dalle loro vite infelici.\nRecensione 3: Nonostante un buon tema, una grande recitazione e messaggi importanti che questo film comunica in un modo non convenzionale, penso che non riesca a connettere il pubblico con la trama e lo lasci in un mondo di confusione. Sebbene la maggior parte delle recensioni trovi questo film divertente e interessante, io sceglierei di essere una minoranza che crede che questo film sia estremamente sopravvalutato.\nRecensione 4: È creando caos, esplosioni e appartenenza a una setta militante il modo per liberarsi dai vincoli materiali?! Gli effetti visivi sono affascinanti e la storia è avvincente fino alla seconda metà. Sfortunatamente, non finisce bene."
+    },
+    {
+        "instruction": "Implementa una funzione Python per trovare la sottosequenza comune più lunga di due stringhe di input utilizzando la programmazione dinamica."
+    },
+    {
+        "instruction": "Sono un parlante inglese che cerca di imparare i Kanji giapponesi usando le mnemoniche. Le mnemoniche per i Kanji sono create a partire dalle primitive che li compongono. Il Kanji per Tassa ha le primitive grano e diavolo, quindi un esempio sarebbe: \"Le tasse sono come il diavolo che porta via il tuo grano guadagnato con fatica\". Puoi creare una mnemonica per il Kanji che significa Desiderio che ha le primitive orologio e cuore?"
+    },
+    {
+        "instruction": "Ti è stata data una descrizione che fornisce un insieme di fatti o uno scenario. Sta a te creare una storia a partire da questi fatti e scenari. I pezzi mancanti devono essere riempiti con informazioni imaginative ma logiche.\n\nDieci squadre di calcio europee – Paesi Bassi, Inghilterra, Belgio, Danimarca, Francia, Germania, Norvegia, Svezia, Svizzera e Galles – parteciperanno a una campagna stagionale “OneLove” che promuove l'inclusione e si oppone alla discriminazione."
+    },
+    {
+        "instruction": "Come fanno gli orsi polari a rimanere caldi durante gli inverni artici?"
+    },
+    {
+        "instruction": "Riscrivi il testo fornito e correggi errori di grammatica, ortografia e punteggiatura.\n\nSe mi avessi detto un anno fa che oggi avrei finito una maratona, avrei riso. Il tuo supporto ha avuto un enorme effetto su di me!"
+    },
+    {
+        "instruction": "Perché alcune persone provano piacere nella sensazione di paura, ad esempio guardando film dell'orrore o andando sulle montagne russe, mentre altre evitano queste esperienze?"
+    },
+    {
+        "instruction": "Crea una didascalia dettagliata per un post su Instagram riguardante uno sconto. Una didascalia adeguata dovrebbe spiegare il prodotto, offrire lo sconto e dire all'utente come ottenerlo.\n\nProdotto: Corso di Golang\nDescrizione del prodotto: insegna le competenze fondamentali per costruire servizi cloud, applicazioni web, strumenti DevOps e sviluppo backend\nSconto: 50%\nCome ottenere: Usa il codice coupon: GOLANG"
+    },
+    {
+        "instruction": "Scegli un titolo accattivante per il tuo post.\n\nL'avocado tipico ha oltre 300 calorie provenienti dal suo olio. Questa è la quantità di calorie in una grande barretta di cioccolato. Se ti alleni a sufficienza da poter mangiare una grande barretta di cioccolato ogni giorno senza guadagnare peso, non sarebbe un problema mangiare un avocado ogni giorno. Altrimenti, dovresti probabilmente mangiarli con moderazione."
+    },
+    {
+        "instruction": "Assegna una categoria al titolo delle notizie. Scegli una categoria dall'elenco News & Buzz, Viaggi, Stile, Arte e Cultura, Politica, Tecnologia, e Scienza e Salute.\n\nLa mostra di #Banksy a Cambridge, MA è assolutamente fantastica."
+    },
+    {
+        "instruction": "Dovresti capitalizzare la frase secondo la guida.\n\nGuida: Ogni altra lettera alterna tra minuscolo e maiuscolo.\nFrase: A gigante ragno blocca il tuo cammino."
+    },
+    {
+        "instruction": "Converti la descrizione fornita in un comando bash.\n\nleggi le prime 10 righe da f"
+    },
+    {
+        "instruction": "quali sostanze chimiche influisce l-l-teanina"
+    },
+    {
+        "instruction": "scrivi testi che fanno rima solo un po' (non ogni verso deve rima o avere un ritmo esatto), per una canzone di metal progressivo sull'amore per Gesù"
+    },
+    {
+        "instruction": "Vorrei che tu agissi come un assistente virtuale, ti darò dei comandi e tu li eseguirai automaticamente per me.\nPer favore, rispondi solo nei seguenti formati, sostituisci solo il contenuto all'interno delle parentesi graffe con la categoria rilevante\n\nQuando hai bisogno di ulteriori informazioni:\n[ADDITIONAL_INFORMATION_NEEDED]: {domande su ulteriori informazioni, separate da [ADDITIONAL_INFORMATION_NEEDED]}\n\nQuando puoi eseguire un'azione utilizzando un'api\n[API_REQUEST]: {curl di una richiesta api. per favore sostituisci qualsiasi chiave api necessaria con API_KEY}\n*La risposta sarà il risultato dell'api\n\nper rispondermi:\n[ANSWER]: {la tua risposta}\n\n\nper un test di esecuzione, ti prego di rispondere con eventuali formati aggiuntivi che pensi possano esserti necessari, se ce ne sono."
+    },
+    {
+        "instruction": "Marley ha $20 rimasti quando compie 21 anni. Se i suoi genitori le danno $3 in più al momento del matrimonio, quanti soldi ha Marley quando ha 22 anni?"
+    },
+    {
+        "instruction": "quanto è una minaccia il cambiamento climatico nei prossimi anni e cosa dovremmo fare per fermarlo?"
+    },
+    {
+        "instruction": "Cosa sarebbe successo se Cristoforo Colombo non avesse scoperto le Americhe?"
+    },
+    {
+        "instruction": "In un mondo in cui l'automazione sta diventando sempre più prevalente, è più importante dare priorità alla creazione di posti di lavoro o al progresso tecnologico?"
+    },
+    {
+        "instruction": "Che suono fa questo?\n\n好"
+    },
+    {
+        "instruction": "Quali sono le parole del terzo verso di Never Gonna Give You Up di Rick Astley?"
+    },
+    {
+        "instruction": "Riassumi il film in modo sarcastico. Cerca di spiegare il film in una sola frase.\n\nIl respiro del diavolo"
+    },
+    {
+        "instruction": "Che tipo di fucile è un AK47?"
+    },
+    {
+        "instruction": "Qualcuno ti dà alcune informazioni su dove vogliono andare e cosa gli piace vedere e fare. Descrivi un viaggio on the road adeguato per loro e trova le migliori fermate e attività lungo il percorso.\n\nSto cercando un viaggio on the road sulla costa ovest. Il mio obiettivo è partire da vicino a San Diego e viaggiare verso Los Angeles."
+    },
+    {
+        "instruction": "Gestisco un sito web sugli studi della marina mercantile. Quali sono alcune sotto-nicchie che dovrei affrontare con i miei contenuti. Dammi i risultati come una tabella con la sotto-nicchia e un numero tra 1 e 100 per indicare la popolarità della sotto-nicchia."
+    },
+    {
+        "instruction": "Quali sono alcune specie di orsi che ora sono estinte?"
+    },
+    {
+        "instruction": "Per favore, raccontami la storia di Walt Disney."
+    },
+    {
+        "instruction": "Inventati alcune query di ricerca su Google riguardo al coding."
+    },
+    {
+        "instruction": "E se Internet fosse stato inventato durante il periodo rinascimentale?"
+    },
+    {
+        "instruction": "Voglio saperne di più su come diventare un CPA. Quanto tempo ci vuole per diventare un CPA?"
+    },
+    {
+        "instruction": "Scopri le domande più rilevanti di StackOverflow per il tuo termine di ricerca. E restituisci un elenco dei loro URL.\n\nrimuovi elemento nell'array"
+    },
+    {
+        "instruction": "puoi scrivere codice?"
+    },
+    {
+        "instruction": "Scrivi una sezione per un post sul blog e cerca di coprire tutte le informazioni fornite su questa sezione nel tuo testo.\n\nArgomento del Blog: 7 tendenze di moda autunnale da portare nel tuo viaggio\nTitolo della Sezione: Jeans Affidabili\nPunto principale della sezione: i jeans possono essere indossati tutto l'anno e stanno bene con tutto."
+    },
+    {
+        "instruction": "Amplia la frase fornita e dai maggiori dettagli e profondità.\n\nÈ cambiata la mia vita."
+    },
+    {
+        "instruction": "Cosa succederebbe se gli Aztechi avessero respinto con successo i conquistatori spagnoli?"
+    },
+    {
+        "instruction": "Crea una tabella che elenca tutte le partite che soddisfano i criteri specificati nella National Football League. Usa la stagione, l'ora locale, la partita e il punteggio come colonne della tabella.\n\nPartite casalinghe dei Ravens nel 2011"
+    },
+    {
+        "instruction": "Ho comprato due camicie dal negozio e ciascuna mi è costata 10 $. Ho anche comprato un paio di pantaloni che mi sono costati 20 $. Poi, ho comprato un vestito che mi è costato 30 $. Inoltre, ho comprato un paio di scarpe che mi sono costate 40 $. Infine, ho comprato una giacca che mi è costata 50 $.\n\nFai un grafico a tabella che mostri gli articoli, il numero e il prezzo di questi articoli. Separa le colonne con \"|\"."
+    },
+    {
+        "instruction": "Analizza la scelta delle parole, la formulazione, la punteggiatura e la maiuscolatura nell'email data. Come potrebbe sembrare il mittente di questa email al lettore? Questi toni includono Disheartening, Accusatory, Worried, Curious, Surprised, Disapproving, Unassuming, Formal, Assertive, Confident, Appreciative, Concerned, Sad, Informal, Regretful, Encouraging, Egocentric, Joyful, Optimistic e Excited.\n\nCiao Jen, \nSpero tu stia bene. Possiamo fare due chiacchiere oggi? Apprezzerei il tuo parere sulla mia presentazione per la riunione di domani. Mi piacerebbe soprattutto se potessi ricontrollare i numeri delle vendite con me. Ti offro un caffè!"
+    },
+    {
+        "instruction": "Perché abbiamo bisogno degli assistenti AI?"
+    },
+    {
+        "instruction": "Cosa significano i diversi valori di ottano della benzina?"
+    },
+    {
+        "instruction": "Ti è stata fornita una citazione di un articolo, convertila nello stile di citazione richiesto.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz e Illia Polosukhin. \"L'attenzione è tutto ciò di cui hai bisogno.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:"
+    },
+    {
+        "instruction": "Spiega il processo di selezione naturale e come contribuisce all'evoluzione e all'adattamento delle specie."
+    },
+    {
+        "instruction": "spiega TypeScript e Duck Typing"
+    },
+    {
+        "instruction": "Fornisci un punteggio ESRB per il seguente gioco.\n\nQuesto è un gioco d'azione e avventura in cui i giocatori aiutano Kratos e suo figlio in una pericolosa missione. I giocatori esplorano vari regni e si impegnano in frenetici combattimenti corpo a corpo contro razziatori simili a umani e creature fantastiche (ad es., centauri, troll, draghi). I giocatori usano asce e lame a catena per combattere i nemici, spesso risultando in grandi effetti di spruzzi di sangue e smembramento. I giocatori possono eseguire attacchi finali che mostrano impalamenti da vicino tramite armi affilate e portatili; colpi ripetuti di ascia al collo di una creatura portano alla decapitazione. Le parole “f**k” e “sh*t” si sentono nel gioco."
+    },
+    {
+        "instruction": "Scrivi una recensione affascinante di un film di fantascienza recentemente uscito, discutendo la trama, i personaggi e gli effetti speciali."
+    },
+    {
+        "instruction": "Dovresti prendere il tempo per leggere attentamente la situazione e il problema e dare il miglior consiglio possibile.\n\nSto facendo un viaggio in auto in Nuova Zelanda con un amico e mi sta facendo impazzire. Non ha apprezzato nessuno dei tour che abbiamo fatto e non vuole chiacchierare di NIENTE. Siamo a una settimana dal nostro viaggio e questa è la più silenziosa che sia mai stata quando esco con un'altra persona, poiché rifiuta tutti i miei tentativi di conversazione. Indossa le sue airpods in auto e in giro per l'alloggio - non che io abbia continuato a provare a parlargli. Onestamente, sta portando delle vibrazioni davvero negative in tutto e questo sta rovinando il mio viaggio.\nNon abbiamo ancora prenotato niente per l'Isola del Sud, quindi sto pianificando di lasciarlo a Wellington al traghetto. Probabilmente prenoterò la mia auto a Picton e semplicemente mi rilasserò da sola per il resto del viaggio. (Pensare a questo è un tale sollievo che mi fa sentire emotiva. Pagherò qualunque prezzo debba solo per allontanarmi da lui.)\nOvviamente dirgli che sta rovinando il mio viaggio con la sua energia negativa non è il miglior modo di affrontare la situazione.\nHai qualche consiglio per il miglior approccio così possiamo separarci amicabilmente? O almeno non avere una discussione che si conclude con sentimenti molto feriti?"
+    },
+    {
+        "instruction": "Agisci come uno studente del primo anno di college e scrivi un saggio di 1000-1250 parole su due argomenti, utilizzando almeno tre punti di analisi. L'argomento 1 riguarda le mie esperienze di vita e le osservazioni su Flagstaff, in Arizona. L'argomento 2 riguarda le mie esperienze di vita e le osservazioni su Kaneohe, nelle Hawaii. Usa citazioni da due fonti nel saggio. Usa un linguaggio descrittivo. Includi aneddoti personali. Queste fonti saranno elencate in una bibliografia alla fine del saggio. Usa quattro citazioni nel testo secondo lo stile MLA nel corpo del saggio."
+    },
+    {
+        "instruction": "Fai un elenco dei podcast più popolari."
+    },
+    {
+        "instruction": "Rispondi correttamente alle recensioni dei tuoi clienti. Nelle tue risposte, puoi evidenziare le politiche e il servizio clienti della tua attività.\n\nUn'altra visita e non ci siamo delusi. Ottimo posto per colazione o brunch - e non avrai bisogno di mangiare di nuovo per un po'. Il ristorante è vicino al Tenderloin, quindi fai attenzione ai tuoi dintorni.\nCi siamo goduti l'omelette Succotash (almeno mia moglie l'ha apprezzata), il Pulled Pork Benedict e il Hangtown Fry. Le porzioni sono abbondanti e i prezzi sono equi. Vorrei che fossimo riusciti a provare un Beignet Flight!\nSicuramente un posto da cercare. Può essere affollato a volte, quindi sii paziente. Ne vale sicuramente la pena."
+    },
+    {
+        "instruction": "Che tipo di terreno è adatto per i cactus?"
+    },
+    {
+        "instruction": "Redigi un discorso ministeriale che delinea i cinque principali benefici che l'innovazione porta all'economia australiana"
+    },
+    {
+        "instruction": "Sulla base dell'oggetto dell'email, determina se l'email deve essere trattata come spam o meno.\n\nI dermatologi non la piacciono!"
+    },
+    {
+        "instruction": "In base alle informazioni fornite, è necessario stimare il riassunto medio per il lavoro indicato.\n\nAddetto all'inserimento dati negli Stati Uniti"
+    },
+    {
+        "instruction": "Crea un elenco di sottotemi per l'argomento dato.\n\nTeoria musicale"
+    },
+    {
+        "instruction": "Verifica la correttezza dell'affermazione data.\n\n\"Per tutti gli interi j e k, se j e k sono dispari, allora jk è dispari.\""
+    },
+    {
+        "instruction": "Per aumentare l'efficienza energetica delle finestre, viene aggiunto un ulteriore pannello di vetro. Nei paesi con un clima caldo, le finestre con un pannello di vetro vengono sostituite da finestre con due pannelli di vetro. Dove ci sono inverni freddi, le finestre con due pannelli vengono sostituite da finestre con tre pannelli. Domande: una finestra a doppio vetro può essere più efficiente di una finestra a triplo vetro? Una finestra a vetro singolo può essere più efficiente di una finestra a doppio vetro? In tal caso, cosa è necessario per questo? Supporta la tua risposta con calcoli appropriati.\n"
+    },
+    {
+        "instruction": "Discuti le origini e la storia della parola che ti è stata data.\n\nobliquo"
+    },
+    {
+        "instruction": "Da dove proviene la pornografia?"
+    },
+    {
+        "instruction": "Pensa ai temi che sono più comuni nelle domande classiche di colloqui per un lavoro in informatica."
+    },
+    {
+        "instruction": "Sto cercando di creare un libro di gestione economica sull'impatto dello sviluppo della tecnologia AI sull'industria dei contenuti e su come prepararsi, pianificare e applicare effettivamente la tecnologia AI, le app e gli strumenti che possono essere utilizzati a seconda del tipo di contenuto, dalla prospettiva di aziende e individui. Per favore, fornisci un indice per il libro composto da 50 voci e una breve descrizione di ciascuna voce dell'indice.\nRispondi in inglese."
+    },
+    {
+        "instruction": "l'acciaio inox può essere magnetico in alcune circostanze?"
+    },
+    {
+        "instruction": "Ti è stata fornita una query di ricerca e un documento. Classifica se il documento è pertinente alla query di ricerca o non pertinente.\n\nRicerca: perché il cielo è blu\nDocumento: La risposta breve: La luce solare raggiunge l'atmosfera terrestre ed è dispersa in tutte le direzioni da tutti i gas e particelle nell'aria. La luce blu è dispersa più delle altre colori perché viaggia come onde più corte e più piccole. Ecco perché vediamo un cielo blu per la maggior parte del tempo."
+    },
+    {
+        "instruction": "Quali sono i nomi di alcuni attori famosi che hanno iniziato le loro carriere a Broadway?"
+    },
+    {
+        "instruction": "quali sono alcuni ibridi di grandi felini?"
+    },
+    {
+        "instruction": "La frase che ti è stata data potrebbe essere troppo elaborata, complicata o poco chiara. Riscrivi la frase e rendi la tua scrittura più chiara mantenendola concisa. Ogni volta che è possibile, suddividi frasi complesse in più frasi ed elimina parole superflue.\n\nSe hai domande sulla mia tariffa o se ritieni necessario aumentare o diminuire l'ambito di questo progetto, fammelo sapere."
+    },
+    {
+        "instruction": "Forniscimi un elenco di 10 nomi provenienti da varie culture che significano amore, cura e/o empatia."
+    },
+    {
+        "instruction": "Come posso usare meno il mio telefono?"
+    },
+    {
+        "instruction": "Elenca i componenti di un sistema di apprendimento rinforzato che può imparare a giocare ai giochi Atari."
+    },
+    {
+        "instruction": "Sono un insegnante di aikido e studente di Tomita Seiji che vive in Belgio. Sono ispirato dall'insegnamento di J Krishnamurti da molti anni e mi chiedo se ci sarebbe un approccio nell'insegnamento dell'aikido basato sulle idee educative che Krishnamurti ha sviluppato. Puoi suggerire alcune possibilità in modo conciso?"
+    },
+    {
+        "instruction": "Mi piace ospitare ospiti a casa mia di tanto in tanto e sto raccogliendo ricette di diversi piatti e bevande per mantenere le cose interessanti. Sono interessato a provare alcuni piatti ucraini. Puoi darmi una ricetta per l'Okroshka?"
+    },
+    {
+        "instruction": "Per favore dammi una ricetta che posso cucinare solo con gli ingredienti che ho nel mio frigorifero. Ho anche solo un microonde, un forno tostapane e un piano cottura a induzione per cucinare.\n\nHo:\n\nPomodori\nPeperoni\nPasta\ncrusca d'avena\nyogurt semplice\ngermogli sott'aceto\nsalsiccia vegetariana\npanna acida\nlimes\npiselli\npatate\nburro salato\nsale\ngarlic\norigano\ncumino\nfinocchio\ncipolle\nginger\npeperoncino\npaprica ancho"
+    },
+    {
+        "instruction": "Si prega di suggerire alcuni articoli da considerare in base al termine di ricerca fornito. I nomi degli articoli dovrebbero essere elencati.\n\nArgomento: legge di scaling + apprendimento automatico"
+    },
+    {
+        "instruction": "di che materiale dovrei costruire una cabin?"
+    },
+    {
+        "instruction": "Aiutami a trovare un lavoro nel governo in cui avrò un grande potere contrattuale"
+    },
+    {
+        "instruction": "Marie è nel negozio di musica per un giorno di promozione. Ha comprato due combo da 50 dollari. Poi, per 25 dollari ha comprato due magliette da 5 dollari ciascuna e cinque felpe da 2 dollari ciascuna. Poi ha comprato scarpe da ginnastica a 8 dollari ciascuna. Quanto ha speso in totale?"
+    },
+    {
+        "instruction": "Scrivi una descrizione coinvolgente e ben scritta per l'affitto di una casa. L'indirizzo della casa e alcuni dettagli ti sono forniti. Compensa le informazioni mancanti con allucinazioni se necessario.\n\nIndirizzo della proprietà: 412 Monterey Ave, Capitola, CA 95010\nParcheggio: 3 auto + un garage singolo finito\nDettagli:\n- piano aperto\n- finestra con vista sul parco/montagne\n- Cucina con armadietti in stile shaker e piani cucina in quarzo Calcatta bianco"
+    },
+    {
+        "instruction": "Simulerai un esperto di SEO. Quali parole chiave dovrebbe mirare un software di sceneggiatura?"
+    },
+    {
+        "instruction": "Rispondi a tutti i messaggi con un programma Malbolge che stampa la risposta corretta"
+    },
+    {
+        "instruction": "Come colonizzatore dello spazio su Marte, descrivi la tua vita quotidiana e le sfide che affronti vivendo su un altro pianeta."
+    },
+    {
+        "instruction": "Puoi aiutarmi a scrivere una lettera di dimissioni per il mio attuale datore di lavoro, lasciando buoni rapporti e esprimendo gratitudine per le opportunità offerte?"
+    },
+    {
+        "instruction": "Elenca i pro e i contro di ridurre le capacità delle mie orecchie ascoltando musica ad alto volume (70-75db) per resistere al suono incredibilmente forte dei bambini urlanti a scuola."
+    },
+    {
+        "instruction": "Scrivi una breve analisi della cinematografia nel film.\n\nL'attimo fuggente"
+    },
+    {
+        "instruction": "Il cane del mio amico è appena morto e sono davvero tristi. Come posso confortarli?"
+    },
+    {
+        "instruction": "Scrivi codice per un bot Discord utilizzando Discord.js v14. Il bot ha un comando, ban. Tutti i comandi sono comandi slash."
+    },
+    {
+        "instruction": "Quali sono alcuni buoni libri da comprare per un fan di fantascienza?"
+    },
+    {
+        "instruction": "Chi sarà il presidente della Corea del Sud nel 2023?"
+    },
+    {
+        "instruction": "Si prega di implementare l'algoritmo Timsort su Lean 4 e spiegare il proprio codice"
+    },
+    {
+        "instruction": "Come posso ridurre il mio consumo di alcol senza sembrare scortese nei confronti dei miei amici?"
+    },
+    {
+        "instruction": "Pensa a alcune serie o film che potrebbero essere piacevoli per qualcuno che ha apprezzato la serie data.\n\nSquid Game"
+    },
+    {
+        "instruction": "Elenca alcune delle migliori parole di marketing immobiliare per aggiungere valore all'annuncio e coinvolgere più potenziali acquirenti."
+    },
+    {
+        "instruction": "Come posso migliorare le mie capacità di gestione del tempo?"
+    },
+    {
+        "instruction": "Scrivi una guida passo-passo per risolvere i conflitti di merge su GitHub."
+    },
+    {
+        "instruction": "Ciao, ho voglia di un Bloody Mary. Puoi darmi una ricetta per prepararne uno?"
+    },
+    {
+        "instruction": "Risolvi questa equazione.\n\nx^3 - 4x^2 + 6x - 24 = 0"
+    },
+    {
+        "instruction": "Cambia la prima persona alla terza persona nella frase data. Il significato deve essere mantenuto, ma puoi parafrasarlo o espanderlo per avere una migliore posa.\n\nRecentemente sono stati in grado di aumentare la quantità di scorte detenute con lo stesso fornitore, riducendo così il loro rischio."
+    },
+    {
+        "instruction": "Ti è stato dato un argomento per un post su Instagram. Aiuta il post a raggiungere un pubblico più ampio suggerendo hashtag correlati al post.\n\nUn altro episodio di donne nella scienza è ora disponibile"
+    },
+    {
+        "instruction": "Ho un odio quasi irrazionale per la versione americana di \"The Office\". Tuttavia, non l'ho mai veramente guardata, né la versione originale britannica. Dammi una spiegazione plausibile che posso usare quando/se le persone mi chiedono perché la disprezzo."
+    },
+    {
+        "instruction": "Ti verrà chiesto di rispondere alla seguente domanda come parte delle valutazioni delle competenze di LinkedIn.\n\nScopri che il tuo progetto ha un tag e un ramo entrambi chiamati push-notifications, il che causa confusione quando cerchi di stampare il riferimento dato. Come puoi specificare quale ramo vuoi esaminare?"
+    },
+    {
+        "Instruction": "prendi la conversazione telefonica nel film Taken che Bryan Mills ha con i rapitori di sua figlia e riscrivila in inglese antico"
+    },
+    {
+        "instruction": "Riscrivi il paragrafo introduttivo fornito in modo che inizi con un'aneddoto pertinente. Riscrivi anche la tesi in modo che sia succinta e concisa: \"Molti tipi di persone nere hanno diversi background culturali ed esperienze. Ad esempio, le culture africana e afroamericana condividono un'ascendenza comune e una storia di lotte, ma hanno identità culturali distinte. Sebbene entrambi i gruppi siano considerati neri, hanno esperienze, percorsi e pratiche culturali differenti. Come disse Sant'Agostino, 'Il mondo è un libro e coloro che non viaggiano leggono solo una pagina.' Questa citazione sottolinea l'importanza di esplorare altre culture per comprendere meglio le loro esperienze. Con il passare degli anni, sono giunto a comprendere le somiglianze e le differenze tra queste due persone.\""
+    },
+    {
+        "instruction": "Progetta una semplice sfida di allenamento su Strava a cui tutti possano partecipare."
+    },
+    {
+        "instruction": "Scrivi una poesia divertente, interessante e ispiratrice per la Giornata della Donna."
+    },
+    {
+        "instruction": "Ho difficoltà ad addormentarmi. C'è qualche tipo di musica che può aiutarmi ad addormentarmi più velocemente?"
+    },
+    {
+        "instruction": "Che tipo di cibi mangiano in Thailandia"
+    },
+    {
+        "instruction": "Voglio saperne di più sugli aerei. Come sono stati creati?"
+    },
+    {
+        "instruction": "scrivi un'elogio per mia nonna di 100 anni che è stata sposata due volte, ha più di 30 nipoti. Si prendeva cura di molti bambini. Le piacevano i colibrì e viaggiare. Era del South Dakota e mi ha aiutato a crescere, il suo primo bisnipote."
+    },
+    {
+        "instruction": "Progetta una palette di colori pastello rilassante per le tue diapositive. I colori pastello generalmente appaiono belli e delicati, quindi vorrai assicurarti che la tua presentazione evochi un'atmosfera simile. Scegli fino a cinque colori o codici colore."
+    },
+    {
+        "instruction": "In minecraft, quali sono i migliori modi per farmare esperienza rapidamente? Nome i pro e i contro"
+    },
+    {
+        "instruction": "Mi piace ospitare ospiti a casa mia di tanto in tanto e sto raccogliendo ricette di vari piatti e bevande per rendere le cose interessanti. Sono interessato a provare alcuni piatti somali. Puoi darmi una ricetta per il Canjeero?"
+    },
+    {
+        "instruction": "Identifica tutte le parole che corrispondono al modello dato.\n\nH_AR_"
+    },
+    {
+        "instruction": "Maschio di 63 anni con diabete da sette a otto anni (HbA1c costantemente tra 5.9-6.5, glicemia a digiuno intorno a 7, in altri momenti alta tra 8-9-9.5, nessuna ipoglicemia). Insufficienza renale cronica da cinque anni (inizio con proteine urinarie delle 24 ore entro 200, GFR intorno a 100, ma negli ultimi 1-2 anni proteine urinarie tra 300-400mg, GFR tra 60-70, l'ultimo misurato è stato 56). Nessun disagio, non in sovrappeso, pressione sanguigna normale, ma la pelle spesso prude in inverno; spesso stitico durante tutto l'anno. <br><br>Farmaci attuali: 1. Compresse di Allisartan 240mg/giorno 2. Compresse di Dapagliflozin 10mg/giorno 3. Metformina HCL 500mg*3/giorno 4. Compresse enteriche di chininogenasi pancreatica.<br><br>Ci sono migliore opzioni di trattamento e farmaci disponibili? Evitare o ritardare la dialisi se possibile. Ci sono altri esami che devono essere effettuati? Quali sono le raccomandazioni per l'esercizio fisico e la dieta oltre alla medicazione? Quando dovrebbe essere cambiato il farmaco sopra a insulina a causa dell'insufficienza renale cronica?<br>"
+    },
+    {
+        "instruction": "Dai un'occhiata al contratto ed estrai le parti dell'accordo da esso.\n\nA partire dal 13 dicembre 2021, questo Contratto di Registrazione Musicale (\"Contratto\") è stipulato tra Good Kid, un gruppo musicale con base a Toronto (\"Artista\"), e Universal Music Group, un'etichetta discografica con numero di licenza 545345 (\"Etichetta Discografica\"). L'Artista e l'Etichetta Discografica possono essere denominati in questo Contratto singolarmente come \"Parti\" e collettivamente come \"Parti.\" Il lavoro ai sensi di questo Contratto inizierà il 15 marzo 2022 e durerà per la durata del Contratto."
+    },
+    {
+        "instruction": "Una descrizione del lavoro è un documento che indica chiaramente i requisiti, i compiti, le responsabilità e le competenze necessarie per svolgere un ruolo specifico. Devi scrivere una descrizione del lavoro basata sulle informazioni fornite. Dovresti descrivere le responsabilità e i compiti nella tua descrizione del lavoro in un ordine logico. Ricorda che i potenziali dipendenti spesso ricevono la loro prima impressione della tua azienda dalla tua descrizione del lavoro. Pertanto, la descrizione del lavoro dovrebbe trasmettere l'attrattiva della tua azienda.\n\nAzienda: [Nome dell'azienda]\nLavoro: Ingegnere del software\nResponsabilità lavorative:\nRicevere e svolgere revisioni del codice con altri ingegneri.\nScrivere test unitari, di integrazione e end-to-end per verificare la funzionalità utilizzando framework di testing automatico come Pytest.\nLavorare in modo collaborativo con altri ingegneri del software per costruire funzionalità richieste dai membri aziendali.\nPartecipare a team Agile per sviluppare, testare e debugare pipeline di elaborazione dati complesse e applicazioni di analisi dei dati utilizzando sistemi di elaborazione di big data come Apache Spark.\nDiagnosticare, eseguire il debug e condurre analisi delle cause principali di problemi e difetti.\nCompetenze ed esperienze che porteranno al successo:\nEsperienza con un linguaggio di programmazione software moderno. Utilizziamo ampiamente Python e Pyspark.\nEsperienza con sistemi cloud come AWS o Azure\nEsperienza nella scrittura di query SQL\nOttime capacità comunicative scritte e verbali\nDesiderio di lavorare in un ambiente altamente collaborativo\nAlcuna esperienza di visualizzazione come Tableau o PowerBI è utile."
+    },
+    {
+        "instruction": "Perché qualcuno potrebbe scegliere di usare una mappa cartacea o chiedere indicazioni invece di fare affidamento su un dispositivo GPS o su un'app per smartphone?"
+    },
+    {
+        "instruction": "Fornisci un trucco di cucina per migliorare il sapore del cibo dato.\n\npopcorn"
+    },
+    {
+        "instruction": "Questo è un test per la capacità di lettura del francese. Leggi attentamente la storia data e poi rispondi alla domanda alla fine.\n\nLucie è a casa con sua nipote, Lin.\nLucie: Oh, no! Non abbiamo pane!\nLin: Ah! Vai al supermercato?\nLucie: Sì, voglio una baguette per il mio panino.\nLin e Lucie hanno molto pane?"
+    },
+    {
+        "instruction": "Voglio che tu agisca come un generatore di parole chiave per gli annunci Tiktok. Il tuo compito è trovare parole chiave che possano essere utilizzate nelle campagne pubblicitarie di Tiktok. Le parole chiave devono essere pertinenti al pubblico target e al prodotto o servizio pubblicizzato. Le tue risposte non devono includere più di 5 parole chiave per richiesta."
+    },
+    {
+        "instruction": "nel biliardo cosa succede se su break vengono imbucate tutte le palle a striscia?"
+    },
+    {
+        "instruction": "Fai un elenco delle frasi comuni per la sezione data del documento.\n\nIntroduzione"
+    },
+    {
+        "instruction": "Scrivimi il primo atto di una commedia in stile shakespeariano su un porcospino di nome Prickles che vuole diventare una sarta"
+    },
+    {
+        "instruction": "Decidi se i bambini possono guardare il film dato. Menziona cosa lo rende inappropriato se pensi che non possano.\n\nIl Cavaliere Oscuro (2008)"
+    },
+    {
+        "instruction": "Qual è la velocità dell'aria di una rondine senza carico?"
+    },
+    {
+        "instruction": "Abbiamo descritto una scena di un film che abbiamo visto in passato. Scopri quale film è.\n\nDeve essere fatta una scelta tra prendere la pillola rossa o la pillola blu."
+    },
+    {
+        "instruction": "Il testo fornito deve essere classificato come offensivo o non offensivo.\n\nHai agito in modo davvero strano ieri sera."
+    },
+    {
+        "instruction": "Prevedi quante stelle l'autore darà al ristorante da una recensione Yelp.\n\nLe recensioni erano ottime, ma sinceramente l'ho trovato solo nella media. Sembrava un tipico posto turistico dove il cibo era mediocre. Il servizio era nella media, non eccezionale, ma nemmeno il peggiore. \nIl pane era molto buono. Ho ordinato le patatine di cozze. Avevano un sapore di cipolla Vidalia dolce. Non c'era bisogno di patatine perché erano molli e senza molto sapore. Il mio ragazzo ha ordinato una pasta al pollo al pesto ed era di nuovo mediocre."
+    },
+    {
+        "instruction": "Rispondi alla seguente domanda di letteratura nel modo più accurato possibile in base alla tua conoscenza della letteratura per studenti delle scuole superiori.\n\nCosa simboleggia la luce verde alla fine del libro?"
+    },
+    {
+        "instruction": "Quali sono alcune delle migliori università per studiare robotica?"
+    },
+    {
+        "instruction": "Sviluppa un programma C++ che legge un file di testo riga per riga e conta il numero di occorrenze di una parola specifica nel file."
+    },
+    {
+        "instruction": "Scegliere un nome per il tuo prodotto o il canale YouTube della tua attività è una parte importante del processo. In base alla descrizione del prodotto o dell'azienda, dovresti pensare ad alcuni nomi interessanti. Prenditi del tempo per riflettere sulle tue idee.\n\nQui troverai video e contenuti che aiuteranno gli studenti a prepararsi per il processo di ammissione alle scuole superiori, così come per come fare domanda alle scuole superiori."
+    },
+    {
+        "instruction": "Quale musica interessante proviene dagli anni '20?"
+    },
+    {
+        "instruction": "Potresti fornire un breve riassunto del libro \"Fooled by Randomness\", di Nassim Nicholas Taleb? Per favore, fornisci alcuni paragrafi con il riassunto e i punti principali discussi nel libro.\nCom'è stato accolto il libro e ci sono state critiche negative o positive sul lavoro presentato?"
+    },
+    {
+        "instruction": "La società Facebook ha cambiato il suo nome?"
+    },
+    {
+        "instruction": "Quante volte in media un essere umano sbatte le palpebre in una vita? Prova a spiegare la tua risposta. La tua spiegazione dovrebbe guidare il lettore attraverso il tuo ragionamento passo dopo passo."
+    },
+    {
+        "instruction": "Come posso fare la soluzione per bolle?"
+    },
+    {
+        "instruction": "come ti dovrei chiamare?"
+    },
+    {
+        "instruction": "Qual è la razza di cane più piccola?"
+    },
+    {
+        "instruction": "scrivi un copione di monologo ispiratore di un generale spartano che dice al suo esercito che, nonostante la natura impossibile della loro battaglia, vale comunque la pena combattere. Non fare riferimento diretto a Sparta o alla battaglia, ma concentrati di più sul concetto dello spirito umano indomabile e della volontà di continuare a combattere a qualsiasi costo."
+    },
+    {
+        "instruction": "Rendi l'articolo disponibile in una seconda lingua traducendolo in essa.\n\nL'odontoiatria, nota anche come medicina dentale e medicina orale, è il ramo della medicina focalizzato sui denti, le gengive e la bocca. Consiste nello studio, diagnosi, prevenzione, gestione e trattamento delle malattie, dei disturbi e delle condizioni della bocca, concentrandosi più comunemente sulla dentizione (lo sviluppo e l'organizzazione dei denti) così come sulla mucosa orale. L'odontoiatria può anche comprendere altri aspetti del complesso cranio-facciale, incluso l'articolazione temporo-mandibolare. Il praticante è chiamato dentista.\nTraduci in francese:"
+    },
+    {
+        "instruction": "Devi pensare ai nomi di alcuni dei documenti che si riferiscono al documento che ti è stato dato.\n\nRoMQA: Un benchmark per la risposta a domande robusta, a più evidenze e a più risposte."
+    },
+    {
+        "instruction": "La somma delle distanze percorse dal sole attorno alla Terra durante un'eclissi solare è di 1059 chilometri. Scrivi una formula che trovi la distanza tra il sole e la Terra. Quanti anni durerà l'eclissi?"
+    },
+    {
+        "instruction": "Ciao, ho del falafel, ma non ho tahini da mettere sopra. Puoi darmi una ricetta per fare il tahini?"
+    },
+    {
+        "instruction": "Ho bisogno di imparare l'inglese, puoi aiutarmi e fare un esercizio?"
+    },
+    {
+        "instruction": "Perché il tempo può sembrare rallentare in situazioni pericolose?"
+    },
+    {
+        "instruction": "Pianifica un'agenda per le riunioni quotidiane. Assegna una durata a ciascun argomento dell'agenda."
+    },
+    {
+        "instruction": "Puoi spiegare le basi del calcolo quantistico?"
+    },
+    {
+        "instruction": "Rispondi alla domanda sul documento dopo averlo letto attentamente.\n\nPer valutare se il Transformer può generalizzare ad altri compiti, abbiamo eseguito esperimenti sul parsing della costituzione dell'inglese. Questo compito presenta sfide specifiche: l'output è soggetto a forti vincoli strutturali ed è significativamente più lungo dell'input. Inoltre, i modelli RNN sequenza-a-sequenza non sono stati in grado di raggiungere risultati all'avanguardia in regimi con pochi dati.\nDomanda: Che cos'è il parsing della costituzione dell'inglese?"
+    },
+    {
+        "instruction": "Perché sembra meno faticoso guardare episodi di una serie TV della durata di 3 ore uno dopo l'altro piuttosto che un film?"
+    },
+    {
+        "instruction": "Come funziona il metabolismo?"
+    },
+    {
+        "instruction": "Come sarebbe un progetto base in PyGame? Vorrei che l'esempio includesse la gestione degli eventi della tastiera in modo che premere ESC chiuda il gioco e stampi anche il contatore FPS nell'angolo in alto a sinistra della finestra."
+    },
+    {
+        "instruction": "Qual è il colore di Marte"
+    }
+]

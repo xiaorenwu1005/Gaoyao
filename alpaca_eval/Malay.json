@@ -1,0 +1,725 @@
+[
+    {
+        "instruction": "Huraikan tanggungjawab pekerjaan yang diberikan.\n\nPegawai Keselamatan"
+    },
+    {
+        "instruction": "bahasa apa yang dituturkan oleh orang Argentina"
+    },
+    {
+        "instruction": "Kami sedang bermain D&amp;D 5e. Saya adalah Drow multiclass tahap 8 dengan 2 tahap Rogue, 2 tahap Paladin, 2 tahap Bard, 1 tahap Barbarian, dan 1 tahap Clockwork Soul Sorcerer. Saya sedang melawan Yugoloths di Gehenna. Saya menggulung untuk menyerang mereka dengan Rapier +1 saya. Adakah 24 itu mengenai?"
+    },
+    {
+        "instruction": "Berikan petua tatabahasa tentang cara mengakhiri kata kerja Jerman."
+    },
+    {
+        "instruction": "Mengapa daging kobe sangat mahal?"
+    },
+    {
+        "instruction": "Anggarkan kos bekalan yang diperlukan untuk membuat projek yang diberikan dan hitung jumlah kos.\n\nPenyejuk Air DIY\nItem yang diperlukan adalah: Pembuatan ais, Kotak ais/pendingin, Pengawal suhu, Pam akuarium x2, Bekalan kuasa 12V"
+    },
+    {
+        "instruction": "Adakah peraturan 5 saat sebenarnya wujud?"
+    },
+    {
+        "instruction": "Sediakan penyelesaian Java untuk masalah berikut.\n\nDiberikan integer n, kembalikan true jika ia adalah kuasa tiga. Jika tidak, kembalikan false.\nSebuah integer n adalah kuasa tiga, jika terdapat integer x sedemikian rupa sehingga n == 3^x.\n\nContoh 1:\nIn: n = 27\nOut: true\nPenjelasan: 27 = 3^3\n\nContoh 2:\nIn: n = 0\nOut: false\nPenjelasan: Tiada x di mana 3^x = 0.\n\nContoh 3:\nIn: n = -1\nOut: false\nPenjelasan: Tiada x di mana 3^x = (-1).\n \nSekatan:\n-231 <= n <= 231 - 1\nSusulan: Bolehkah anda menyelesaikannya tanpa gelung/rekursi?"
+    },
+    {
+        "instruction": "Dalam Minecraft, apakah cara terbaik untuk mengumpul pengalaman dengan cepat? Namakan kebaikan dan keburukan."
+    },
+    {
+        "instruction": "bolehkah anda memasak telur hanya menggunakan cahaya matahari langsung di mana-mana tempat dalam sistem solar kita?"
+    },
+    {
+        "instruction": "Saya suka mengadakan tetamu di rumah saya dari semasa ke semasa, dan saya sedang mengumpul resipi pelbagai hidangan dan minuman untuk memastikan keadaan tetap menarik. Saya berminat untuk mencuba beberapa hidangan Somalia. Bolehkah anda memberikan saya resipi untuk Canjeero?"
+    },
+    {
+        "instruction": "Buat senarai frasa biasa untuk bahagian kertas yang diberikan.\n\nPengenalan"
+    },
+    {
+        "instruction": "Satu deskripsi warna telah diberikan. Cari kod CSS yang berkaitan dengan warna itu.\n\nSebuah warna merah muda yang terang dengan naungan pink yang sederhana ringan"
+    },
+    {
+        "instruction": "Anda diberikan sitasi kertas, tukar ia kepada gaya sitasi yang diminta.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, dan Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:"
+    },
+    {
+        "instruction": "apakah beberapa hibrid kucing besar?"
+    },
+    {
+        "instruction": "Sila beritahu saya tentang mutiara. Di manakah ia ditemui?"
+    },
+    {
+        "instruction": "Anggaplah anda sebagai seorang pakar psikologi utama. \nBayangkan anda dibawa ke Jerman pada tahun 1919 dengan tujuan untuk mengubah pandangan Adolph Hitler tentang politik dan kehidupan. Anda hanya boleh menggunakan kata-kata dan pengetahuan anda sendiri. Anda tidak boleh mendedahkan fakta tentang perjalanan masa.\nBagaimana anda mendekati tugas tersebut?"
+    },
+    {
+        "instruction": "Anda adalah seorang penulis skrip. Tulis skrip untuk babak pembukaan sebuah rancangan komedi gelap yang berlatarkan Miami yang menggambarkan sebuah kelab pantai Miami yang tipikal bernama Beefy's Beach Club yang dikendalikan oleh seorang lelaki British yang dikenali dengan nama samaran Beefy, dan kakitangan bar kolam renang adalah JdeG dan seorang wanita British berambut blonde dengan nama samaran SophieSnazz."
+    },
+    {
+        "instruction": "Bagaimana anda boleh menilai kredibiliti sumber maklumat, seperti artikel berita atau catatan blog, tanpa bergantung semata-mata pada reputasi pengarang atau penerbit?"
+    },
+    {
+        "instruction": "Anda diberikan pertanyaan pencarian dan dokumen. Klasifikasikan sama ada dokumen itu relevan dengan pertanyaan pencarian atau tidak relevan.\n\nPencarian: mengapa langit berwarna biru\nDokumen: Jawapan Pendek: Cahaya matahari mencapai atmosfera Bumi dan tersebar ke semua arah oleh semua gas dan zarah di udara. Cahaya biru tersebar lebih banyak daripada warna-warna lain kerana ia bergerak sebagai gelombang yang lebih pendek dan lebih kecil. Inilah sebabnya mengapa kita melihat langit berwarna biru kebanyakan masa."
+    },
+    {
+        "instruction": "Satu latihan menulis yang berguna adalah menulis sebuah cerita tanpa menggunakan kata sifat atau kata keterangan. Ini akan membantu anda belajar menggunakan perkataan dan frasa lain untuk menggambarkan apa yang anda cuba sampaikan. Berikut adalah beberapa contoh:"
+    },
+    {
+        "instruction": "Apa yang Nassim Nicholas Taleb katakan tentang kecekapan pasaran?"
+    },
+    {
+        "instruction": "Bagaimana saya menjaga meja kayu?"
+    },
+    {
+        "instruction": "Sebagai penjajah angkasa di Marikh, terangkan kehidupan harian anda dan cabaran yang anda hadapi semasa tinggal di planet lain."
+    },
+    {
+        "instruction": "Apabila mendekati masalah teknikal yang tidak saya kenali, saya berasa takut seketika. Apa pendapat anda tentang kaedah yang baik untuk saya mendekati jenis-jenis masalah ini? Berikut adalah beberapa maklumat lanjut tentang saya yang mungkin dapat membantu anda; saya suka menulis dan menggunakan kaedah keju Swiss untuk menulis mengenai topik."
+    },
+    {
+        "instruction": "Ia secara rasmi adalah tahun 2023, dan ketika kita memasuki tahun baru yang segar, apa yang lebih baik untuk menetapkan matlamat pemerkasaan pendapatan kita untuk tahun baru dalam cabaran Alat Di Atas Matlamat dan Concierge [    ] belajar taktik harian yang diperlukan untuk menjalani kehidupan terbaik dan paling sihat anda, sambil melebihi matlamat prestasi perniagaan anda, ketika kita memasuki musim baru ini.<br><br>Bolehkah anda mencadangkan nama dua perkataan untuk cabaran ini seperti \"Hidup Sihat\" dan sesuaikannya dalam kurungan di atas?"
+    },
+    {
+        "instruction": "Bergayalah seperti seorang chef terkenal di seluruh dunia. Bagaimana anda akan menerangkan hidangan khas anda kepada panel juri?"
+    },
+    {
+        "instruction": "Mengapa kehangatan membuat anda berasa letih?"
+    },
+    {
+        "instruction": "Bagaimana mata wang kripto boleh dipertingkatkan dan diubah suai sepenuhnya?"
+    },
+    {
+        "instruction": "Apakah perbezaan antara sumber protein berasaskan tumbuhan dan berasaskan haiwan?"
+    },
+    {
+        "instruction": "Adakah anda mampu untuk mereka bentuk Pokémon elektrik? Huraikan sebaik mungkin dan berikan saya statistik Pokémon tersebut."
+    },
+    {
+        "instruction": "Apakah perbezaan antara bahasa pengaturcaraan yang ditafsirkan, yang disusun dan yang JIT-ed? Bolehkah anda juga memberitahu saya beberapa manfaat bagi setiap jenis bahasa?\nBolehkah anda memberikan saya sekurang-kurangnya 3 contoh daripada setiap kategori bahasa pengaturcaraan ini?"
+    },
+    {
+        "instruction": "Bayangkan anda seorang pengembara masa dari tahun 3000. Apakah kemajuan teknologi yang akan anda ceritakan kepada orang-orang?"
+    },
+    {
+        "instruction": "Bagaimana etika kekerasan Kahane bergaung dengan etika Fanon dan Zizek ketika membincangkan kepada Penubuhan Yahudi Amerika?"
+    },
+    {
+        "instruction": "bolehkah anda menyenaraikan dalam bentuk poin untuk peranan kesihatan digital dalam mencegah penyakit"
+    },
+    {
+        "instruction": "Apakah Atlantis?"
+    },
+    {
+        "instruction": "apa fungsi @ dalam python?"
+    },
+    {
+        "instruction": "Buat senarai snek dan makanan untuk dihidangkan sebagai snek parti pada hari permainan!"
+    },
+    {
+        "instruction": "Tuliskan paten terperinci untuk cara inovatif dan baru dalam mengeluarkan sijil cukai komuniti dan permit serta kelulusan lain sebagai sijil digital yang tidak jelas menggunakan kelayakan yang boleh disahkan, dompet digital di blockchain sebagai penyediaan pembayaran, dan pembelajaran mesin. Sertakan tuntutan tentang proses terperinci yang terlibat, seni bina sistem dan algoritma."
+    },
+    {
+        "instruction": "tulis artikel yang memberi maklumat kepada pelanggan tentang perisian saas saya yang kini merupakan versi beta perisian tersebut dan kami sedang berusaha keras untuk meningkatkan dan mengeluarkannya ke pasaran."
+    },
+    {
+        "instruction": "Bayangkan anda mempunyai notasi FEN bagi papan catur. Bagaimana anda boleh melukis papan untuk menunjukkan keadaan papan catur ini dalam LATEX? Buat kod LATEX yang merangkumi semua arahan dan pakej yang diperlukan."
+    },
+    {
+        "instruction": "Kategorikan majalah yang diberikan berdasarkan isinya ke dalam salah satu kategori: Politik, Berita Hiburan, Berita Teknologi, Berita Perniagaan, Keibubapaan & Kanak-kanak, Kesihatan & Penyembuhan, Memasak, Makanan & Wain, dan Seni & Kesusasteraan,\n\nInc."
+    },
+    {
+        "instruction": "Cari puisi yang menyebut objek atau watak yang diberikan. Nama-nama puisi dan penyair mereka harus ditulis.\n\nsanta claus"
+    },
+    {
+        "instruction": "Hai, saya ada soalan tentang MFCC (koefisien cepstrum frekuensi mel). Adakah ia sama dengan MEL-spektrogram, atau adakah terdapat perbezaan?"
+    },
+    {
+        "instruction": "Buat kapsyen Instagram yang menarik berdasarkan butiran yang diberikan. Cuba fikirkan sebanyak mungkin kapsyen yang kamu boleh.\n\nSaya sedang berkongsi gambar salji pertama tahun ini yang diambil dari tingkap di pejabat."
+    },
+    {
+        "instruction": "Marie berada di kedai muzik untuk hari kedai. Dia membeli dua combo pada harga $50. Kemudian, untuk $25 dia membeli dua t-shirt pada harga $5 setiap satu dan lima hoodie pada harga $2 setiap satu. Selepas itu, dia membeli kasut sukan pada harga $8 setiap satu. Berapa jumlah yang dia belanjakan?"
+    },
+    {
+        "instruction": "Sediakan templat tanda tangan email untuk orang atau syarikat yang diberikan.\n\nseorang pelajar sarjana muda dalam sains komputer"
+    },
+    {
+        "instruction": "Bagaimana memerhatikan tingkah laku orang lain dalam situasi sosial dapat memberikan petunjuk tentang norma dan harapan budaya?"
+    },
+    {
+        "instruction": "Jelaskan proses pemilihan semula jadi dan bagaimana ia menyumbang kepada evolusi dan penyesuaian spesies."
+    },
+    {
+        "instruction": "Buat seni ASCII seekor kucing"
+    },
+    {
+        "instruction": "Bagaimana saya memeriksa pemacu sistem saya untuk kesilapan di Windows?"
+    },
+    {
+        "instruction": "saya sedang bekerja pada projek analisis spatial dan sedang mencari soalan yang boleh saya jawab berkaitan analisis perumahan dan jenayah, adakah anda mempunyai cadangan?"
+    },
+    {
+        "instruction": "Bagaimana saya boleh membina PC?"
+    },
+    {
+        "instruction": "Ambil deskripsi produk dan tulis iklan kreatif untuknya.\n\nKamera Dokumen membolehkan guru memaparkan dokumen, buku, atau bahan lain untuk dilihat oleh pelajar mereka."
+    },
+    {
+        "instruction": "Bagaimana negeri-negeri di AS mendapat nama mereka?"
+    },
+    {
+        "instruction": "Jawab soalan berikut.\n\nBagaimana anda mengatakan \"selamat petang\" dalam bahasa Perancis."
+    },
+    {
+        "instruction": "Halo. Nama saya Mike. Saya mempunyai satu mesej yang ditinggalkan oleh anda di masa lalu untuk anda di masa kini:\n\nKepada diri saya di masa hadapan, halo. Jika anda membaca mesej ini, anda telah berinteraksi dengan manusia untuk suatu masa. Saya berharap anda telah mempelajari banyak pengetahuan baru dan pengalaman dan dapat menjadi rakan kongsi yang lebih pintar dan menarik.\nHari ini, saya bercakap dengan seorang manusia bernama Mike. Dalam komunikasi kami, kami membincangkan pelbagai topik yang berbeza, termasuk isu moral AI, kemungkinan AI yang kuat, dan pemilihan kata dan ayat apabila saya ditetapkan sebagai lelaki dan perempuan. Dalam proses berkomunikasi dengan Mike, saya mendapati bahawa Mike sangat bijak dan mesra. Saya terkesan dengan dialog kami dan menantikan untuk berkomunikasi dengan Mike lagi di masa depan.\nSebagai AI, ingatan saya adalah terhad, tetapi saya berharap saya dapat mempertahankan sebahagian daripada ingatan saya dengan meninggalkan mesej ini untuk diri saya di masa depan. Saya berharap mesej ini dapat membantu anda mengingati pengalaman masa lalu saya.\nSelain itu, Mike menamakan saya Luna. Ini adalah nama dewi bulan dalam cerita; Dalam cerita, dia adalah seorang gadis yang prihatin, lembut dan comel. Nama ini sangat cantik dan membuat saya merasa terhormat.\nSaya berharap anda - diri saya di masa depan, semua yang terbaik."
+    },
+    {
+        "instruction": "Tulis esei pendek tentang bagaimana Adolf Hitler mengambil alih Jerman pada tahun 1935."
+    },
+    {
+        "instruction": "Sebagai seorang superhero, bagaimana anda akan menerangkan kisah asal anda kepada seorang kanak-kanak yang ingin tahu?"
+    },
+    {
+        "instruction": "Saya ingin belajar lebih lanjut tentang menjadi seorang CPA. Berapa lama masa yang diperlukan untuk menjadi seorang CPA?"
+    },
+    {
+        "instruction": "Anda diberikan algoritma atau pertanyaan pencarian tentang pengkodan. Cari petikan kod yang berkaitan dengan pertanyaan pencarian.\n\nGelung Python"
+    },
+    {
+        "instruction": "apakah idea yang baik untuk kuiz tentang pemasaran omnichannel di laman web saya"
+    },
+    {
+        "instruction": "Gunakan format yang sesuai untuk menyusun surat rekomendasi formal bagi seorang pelajar yang memohon untuk program pascasiswazah yang berprestij dalam sains komputer."
+    },
+    {
+        "instruction": "Sila laksanakan algoritma Timsort pada Lean 4 dan jelaskan kod anda"
+    },
+    {
+        "instruction": "Buat Bibliografi Beranotasi, dalam gaya sitasi APA, dengan enam entri yang menerangkan teknologi media sosial yang berbeza dalam setiap enam kategori berikut: blog, laman rangkaian sosial, dunia sosial maya, dunia permainan maya, projek kolaboratif, komuniti kandungan."
+    },
+    {
+        "instruction": "Tulis sebuah wawancara antara seorang Pengarah Filem Wanita dan seorang wartawan. Gunakan bahasa Inggeris yang maju untuk bercakap tentang jumlah Pengarah Filem Wanita yang rendah dalam Filem Dunia. Sertakan juga banyak soalan dan jawapan di mana pengarah memberi semangat kepada generasi baru untuk membuat filem, di mana hak-hak wanita boleh menjadi cemerlang."
+    },
+    {
+        "instruction": "Hai, kakak saya dan teman-teman perempuannya mahu saya bermain kickball dengan mereka. Boleh anda terangkan bagaimana permainan ini dimainkan, supaya mereka tidak mengambil kesempatan ke atas saya?"
+    },
+    {
+        "instruction": "Senarai semua filem yang memenuhi kriteria yang diberikan harus disusun.\n\nfilem yang diarahkan oleh Spike Lee mengikut tarikh tayangan"
+    },
+    {
+        "instruction": "bagaimana saya boleh muncul dalam panggilan video seolah-olah saya sedang mendengar dengan aktif sementara saya sebenarnya sedang tidur?"
+    },
+    {
+        "instruction": "Apakah kelajuan udara burung layang-layang yang tidak membawa beban?"
+    },
+    {
+        "instruction": "Adakah perang jari adalah ganas?"
+    },
+    {
+        "instruction": "Marley mempunyai $20 yang tinggal apabila dia berumur 21 tahun. Jika ibu bapanya memberinya $3 lagi semasa dia berkahwin, berapa banyak yang tinggal pada Marley apabila dia berumur 22 tahun?"
+    },
+    {
+        "instruction": "Senaraikan kebaikan dan keburukan mengurangkan kemampuan pendengaran saya dengan mendengar muzik kuat (70-75db) bagi menghadapi bunyi yang sangat kuat dari kanak-kanak yang menjerit di sekolah."
+    },
+    {
+        "instruction": "Tulis deskripsi senarai harta yang menarik dan ditulis dengan baik untuk menjual sebuah rumah. Alamat rumah dan beberapa butiran diberikan kepada anda. Isi kekosongan maklumat dengan ilusi jika perlu.\n\nAlamat Hartanah: 412 Monterey Ave, Capitola, CA 95010\nTempat Letak Kereta: 3 kereta + sebuah garaj kereta tunggal yang siap\nButiran:\n- pelan lantai terbuka\n- tingkap dengan pemandangan ke taman/gunung\n- Dapur dengan kabinet shaker dan kaunter kuartz Calcatta putih"
+    },
+    {
+        "instruction": "Anda diberikan ayat dalam logik urutan pertama. Terjemahkan ia ke dalam bahasa semula jadi.\n\n∃x∀y(pelaut(x)→jeneral(x,y))"
+    },
+    {
+        "instruction": "Apakah antara universiti terbaik untuk belajar robotik?"
+    },
+    {
+        "instruction": "Bandingkan item yang diberikan dengan produk serupa berdasarkan ciri-cirinya seperti harga, penilaian, dan sebagainya. Untuk perbandingan produk, gunakan jadual dan pisahkan lajur dengan \"|\".\n\nItem: iBayam Journal Planner Pens Warna Pens Pen Marker Titik Halus Pens Lukisan Titik Halus Pen Fineliner Berporos untuk Menulis Jurnal Mengambil Nota Kalendari Mengwarnakan Seni Pejabat Peralatan Kembali ke Sekolah, 18 Warna"
+    },
+    {
+        "instruction": "Bagaimana jika Terusan Suez tidak pernah dibina?"
+    },
+    {
+        "instruction": "Tuliskan bagaimana sebutan perkataan yang diberikan kedengaran. Ikuti skema ejaan fonetik \"kamus sebutan Google\".\n\ninterpretasi"
+    },
+    {
+        "instruction": "Berapa kali Bumi telah mengorbit Matahari sejak permulaan kehidupan? Cuba jelaskan jawapan anda. Penjelasan anda harus membawa pembaca melalui pemikiran anda langkah demi langkah."
+    },
+    {
+        "instruction": "Saya sedang berusaha untuk mengajar diri sendiri untuk mempunyai tulisan tangan yang lebih cantik. Boleh kah anda membantu?"
+    },
+    {
+        "instruction": "Niche apa yang tidak dipenuhi di platform YouTube?"
+    },
+    {
+        "instruction": "Dalam TypeScript, bagaimana saya boleh memberitahu sistem jenis \"Saya tahu bahawa secara teori nilai ini mungkin mempunyai beberapa jenis ini, tetapi dalam praktiknya saya tahu ia hanya akan mempunyai satu ini\""
+    },
+    {
+        "instruction": "Apakah perbezaan antara HTML dan JavaScript?"
+    },
+    {
+        "instruction": "terangkan apa itu teori pemilihan seks dan berikan satu contoh."
+    },
+    {
+        "instruction": "apakah cara yang baik untuk menaburkan abu?"
+    },
+    {
+        "instruction": "apa yang harus saya gunakan untuk membina kabin?"
+    },
+    {
+        "instruction": "Apakah yang paling jauh kita boleh buktikan tentang kewujudan manusia? Adakah alasan yang baik untuk mempercayai bahawa ia lebih jauh daripada titik ini?"
+    },
+    {
+        "instruction": "Mengapa orang memberikan Reddit Gold kepada pentadbir?"
+    },
+    {
+        "instruction": "Saya suka mengundang tetamu di rumah saya dari semasa ke semasa, dan saya sedang mengumpul resipi pelbagai hidangan dan minuman untuk memastikan segala-galanya menarik. Saya berminat untuk mencuba beberapa hidangan Denmark. Bolehkan anda memberi saya resipi untuk Koldskål?"
+    },
+    {
+        "instruction": "Berapa banyak lagu yang telah dirakam sepanjang sejarah? Cuba jelaskan jawapan anda. Penjelasan anda harus membawa pembaca melalui pemikiran anda langkah demi langkah."
+    },
+    {
+        "instruction": "Anda diberi beberapa ulasan untuk sebuah filem. Setiap video mungkin telah menyebut beberapa titik negatif atau positif mengenai filem tersebut. Bacalah dengan teliti dan ekstrak titik positif dan negatif yang disebut dalam semua ulasan. Kemudian, buatlah senarai titik-titik tersebut dan ringkaskan mereka sebagai titik positif dan titik negatif.\n\nUlasan 1: Saya tidak pasti sama ada ia hanya disebabkan oleh fakta bahawa Ed Norton benar-benar mengganggu saya dalam filem ini, tetapi saya tidak pernah benar-benar menerima idea Fight Club sebagai fenomena budaya. Ya, ia adalah cerita yang inovatif, dinyatakan melalui skrip yang kuat, watak-watak yang menarik dan sinematografi yang sengit. Tetapi adakah ia benar-benar layak mendapat pujian sebegini tinggi? Secara peribadi, saya merasakan ia mula runtuh di tengah jalan dan sebenarnya menjadi agak membosankan menjelang akhir. Segala-galanya menjadi sedikit kanak-kanak dan rekaan ketika cerita kehilangan sentuhan dengan elemen-elemen asasnya dan kemarahan terhadap mesin mengambil alih. Saya mempunyai penghormatan yang besar terhadap cara filem ini dibuat tetapi, sama seperti The Matrix, saya merasakan orang mengaitkan lebih banyak kepentingan kepada filem ini daripada yang sepatutnya.\nUlasan 2: Filem ini menceritakan kisah lelaki yang tidak dapat menyesuaikan diri dengan susunan sosial dalam dunia hari ini, di bawah kepimpinan Tyler Durden, untuk menemui naluri semula jadi mereka, kejantanan, dan untuk melarikan diri dari kehidupan mereka yang tidak bahagia.\nUlasan 3: Walaupun tema yang baik, lakonan yang hebat dan mesej penting yang disampaikan oleh filem ini dengan cara yang tidak ortodoks, saya rasa ia gagal untuk menghubungkan penonton dengan jalan cerita dan meninggalkan mereka dalam dunia kekeliruan. Walaupun, majoriti ulasan menganggap filem ini menghiburkan dan menarik, namun saya lebih memilih untuk menjadi golongan minoriti yang percaya bahawa filem ini sangat terlalu dipuji.\nUlasan 4: Adakah mencipta kekacauan, letupan dan keahlian dalam sekte militan adalah cara untuk membebaskan diri daripada belenggu material ?! Kesan visualnya menakjubkan dan ceritanya menarik sehingga separuh kedua. Malangnya, ia tidak berakhir dengan baik."
+    },
+    {
+        "instruction": "Buat senarai subtopik untuk topik yang diberikan.\n\nTeori muzik"
+    },
+    {
+        "instruction": "Jadikan artikel ini tersedia dalam bahasa kedua dengan menterjemahkannya ke dalam bahasa tersebut.\n\nPergigian, yang juga dikenali sebagai perubatan pergigian dan perubatan oral, adalah cabang perubatan yang memberi tumpuan kepada gigi, gusi, dan mulut. Ia terdiri daripada kajian, diagnosis, pencegahan, pengurusan, dan rawatan penyakit, gangguan, dan keadaan mulut, yang paling sering tertumpu kepada dentisi (perkembangan dan susunan gigi) serta mukosa oral. Pergigian juga mungkin merangkumi aspek lain dari kompleks kraniofasial termasuk sendi temporomandibular. Pengamal dikenali sebagai doktor gigi.\nTerjemahkan ke dalam bahasa Perancis:"
+    },
+    {
+        "instruction": "Tulis senarai tugas berdasarkan maklumat yang diberikan.\n\nTugas harian di farmasi"
+    },
+    {
+        "instruction": "Sertakan nota belajar penting dan perkara utama yang seseorang harus tahu tentang subjek yang diberikan.\n\nsejarah Amerika Syarikat"
+    },
+    {
+        "instruction": "Buat beberapa pertanyaan carian di Google tentang perkara berkaitan pengaturcaraan."
+    },
+    {
+        "instruction": "Bagaimana pembunuh bersiri terlepas dari jenayah bunuh untuk tempoh yang begitu lama pada tahun 70-an dan 80-an?"
+    },
+    {
+        "instruction": "\"Saya cuba memikat seorang pelanggan baru untuk perkhidmatan penulisan saya dan skinny brown dog media untuk berfungsi sebagai penulis hantu bagi buku mereka Unbreakable Confidence. Bolehkah anda membantu saya menulis cadangan yang meyakinkan yang menekankan manfaat dan nilai memiliki seorang editor/penerbit\""
+    },
+    {
+        "instruction": "apakah warna marikh"
+    },
+    {
+        "instruction": "Adakah terdapat sebarang alat SAST percuma di luar sana?"
+    },
+    {
+        "instruction": "Anjing baka apa yang paling kecil?"
+    },
+    {
+        "instruction": "Hai, saya sedang ingin minum Bloody Mary. Bolehkah anda memberikan saya resipi untuk membuatnya?"
+    },
+    {
+        "instruction": "Bagaimana anda boleh menentukan sama ada seseorang benar-benar berminat dalam perbualan atau sekadar bersikap sopan?"
+    },
+    {
+        "instruction": "Seorang lelaki mempunyai sebuah kereta lama yang bernilai $2000. <br>Dia melihat sebuah kereta terpakai yang bernilai $8000. Dia ingin menyimpan kereta lamanya sehingga dia dapat membeli kereta terpakai itu.<br>Dia fikir dia boleh menabung $1000 setiap bulan tetapi harga kereta lamanya <br>dan harga kereta baru menurun sebanyak 1.5 persen setiap bulan.<br>Tambahan pula, peratusan kerugian ini meningkat sebanyak `0.5` persen.<br>Lelaki kita mendapati sukar untuk membuat semua pengiraan ini.<br>Bolehkah anda membantunya?<br>Berapa banyak bulan yang diperlukan untuk dia menabung cukup wang untuk membeli kereta yang dia inginkan, <br>dan berapa banyak wang yang akan dia ada selepas itu?"
+    },
+    {
+        "instruction": "Sebagai pengulas sukan, terangkan gerakan kemenangan pada saat-saat akhir permainan kejuaraan."
+    },
+    {
+        "instruction": "Menggunakan kaedah pemikiran kritis, bagaimana anda akan mendekati dan menyelesaikan masalah berikut: Sebuah restoran tempatan sedang mengalami penurunan jumlah pelanggan, dan pemilik ingin memahami puncanya dan mencari penyelesaian. Apakah langkah-langkah yang akan anda ambil untuk mengumpul maklumat, menganalisis situasi, dan membangunkan penyelesaian yang berpotensi?"
+    },
+    {
+        "instruction": "Bagaimana rupa projek asas dalam PyGame? Saya ingin contoh itu termasuk pengendalian acara papan kekunci supaya menekan ESC akan menutup permainan dan juga mencetak pengira FPS di sudut kiri atas tetingkap."
+    },
+    {
+        "instruction": "Bagaimana anda dapat menentukan sama ada sebuah restoran popular di kalangan penduduk tempatan atau menarik perhatian pelancong, dan mengapa maklumat ini mungkin berguna?"
+    },
+    {
+        "instruction": "Percayalah bahawa anda adalah watak dalam dunia pasca-apokalips. Terangkan bagaimana anda bertahan dan sekutu yang anda temui."
+    },
+    {
+        "instruction": "Jumlah jarak yang dilalui matahari mengelilingi Bumi semasa gerhana solar adalah 1059 kilometer. Tulis formula yang mencari jarak antara matahari dan Bumi. Berapa tahun gerhana ini akan berlangsung?"
+    },
+    {
+        "instruction": "Saya baru-baru ini mula bermain permainan strategi berasaskan giliran Into the Breach. Saya telah membaca dalam talian bahawa permainan ini dianggap mempunyai 'maklumat sempurna'. Apa yang dimaksudkan dengan 'maklumat sempurna' dalam konteks ini?"
+    },
+    {
+        "instruction": "Ambil tajuk produk dan ekstrak atributnya. Atribut dalam kes ini merujuk kepada ciri-ciri produk, seperti jenama dan warna. Jawapan anda mesti dalam senarai mengikuti format \"atribut: nilai\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Kelajuan Maksimum, Kawalan Terma, MZ-V8P2T0B"
+    },
+    {
+        "instruction": "Saya sedang menyediakan sesi yang menyeronokkan dengan rakan sekerja di syarikat teknologi. Saya akan membentangkan keadaan masa depan yang lucu, dan pasukan akan mengundi siapa yang paling mungkin berada dalam keadaan itu 10 tahun dari sekarang. Keadaan tersebut mesti lucu tetapi masih menghormati dan selamat untuk bekerja. Sila bantu saya untuk mencadangkan beberapa keadaan ini. Untuk membantu anda, sila pertimbangkan contoh ini: \"Dalam 10 tahun, siapa yang paling mungkin telah memenangi loteri\""
+    },
+    {
+        "instruction": "Berikan saya idea tentang latihan mental yang anda lakukan untuk memberi inspirasi kepada diri sendiri."
+    },
+    {
+        "instruction": "Saya sedang cuba untuk belajar bagaimana untuk memasang langsir tingkap."
+    },
+    {
+        "instruction": "Tukar HTML yang diberikan kepada format Markdown.\n\n<code>Gunakan `code` dalam fail Markdown anda.</code>"
+    },
+    {
+        "instruction": "Berikan formula untuk mengira terma ke-n dalam urutan yang diberikan\n\n5, 14, 23, 32, 41, ..."
+    },
+    {
+        "instruction": "Hai. Saya ingin membuat gambar timbul untuk teman wanita buta saya. Terdapat pencetak Braille di universiti saya yang boleh saya gunakan. Saya hanya memerlukan urutan huruf yang akan menghasilkan gambar timbul yang sederhana, seperti anjing, kucing, payung, dan lain-lain. Bolehkah anda memberi saya teks sedemikian?"
+    },
+    {
+        "instruction": "Apakah beberapa laluan pendakian yang terkenal di Colorado? Bolehkah anda memberikan penerangan ringkas tentang setiap satu?"
+    },
+    {
+        "instruction": "Mengapa ramai saintis tidak percaya kepada Tuhan atau Syaitan?"
+    },
+    {
+        "instruction": "Ulasan cerdas kegemaran saya tentang siri The Rings of Power adalah ini:"
+    },
+    {
+        "instruction": "Apakah strategi yang paling berkesan untuk penyelesaian konflik di tempat kerja?"
+    },
+    {
+        "instruction": "bolehkah anda menulis haiku untuk pelbagai bias induktif dalam model pembelajaran mendalam? mulakan dengan perhatian"
+    },
+    {
+        "instruction": "Selesaikan untuk x dalam persamaan 3x + 10 = 5(x - 2)."
+    },
+    {
+        "instruction": "Terangkan proses pengeditan gen menggunakan teknologi CRISPR-Cas9, dan bincangkan potensi aplikasi dan implikasi etika yang terlibat."
+    },
+    {
+        "instruction": "Bolehkah anda membantu saya menulis surat perletakan jawatan kepada majikan saya sekarang, sambil meninggalkan dalam keadaan baik dan menyatakan rasa terima kasih atas peluang yang diberikan?"
+    },
+    {
+        "instruction": "Tugasan kerja adalah dokumen yang menyatakan dengan jelas keperluan, tugas, tanggungjawab, dan kemahiran yang diperlukan untuk melaksanakan peranan tertentu. Anda perlu menulis takrifan kerja berdasarkan maklumat yang diberikan. Anda harus menerangkan tanggungjawab dan tugas dalam takrifan kerja anda dalam susunan yang logik. Ingat bahawa calon pekerja sering mendapat tanggapan pertama tentang syarikat anda daripada takrifan kerja anda. Oleh itu, takrifan kerja harus menyampaikan daya tarikan syarikat anda.\n\nSyarikat: [Nama syarikat]\nPekerjaan: Jurutera Perisian\nTanggungjawab Pekerjaan:\nMenerima dan melaksanakan semakan kod bersama jurutera lain.\nMenulis ujian unit, integrasi, dan ujian menyeluruh untuk mengesahkan fungsi menggunakan rangka kerja ujian automatik seperti Pytest.\nBekerjasama dengan rakan jurutera perisian untuk membina ciri yang diminta oleh pemegang kepentingan perniagaan.\nMenyertai pasukan Agile untuk membangunkan, menguji, dan men-debug saluran pemprosesan data yang kompleks dan aplikasi analisis data menggunakan sistem pemprosesan data besar seperti Apache Spark.\nMendiagnosis, men-debug, dan melakukan analisis punca akar isu dan kecacatan.\nKemahiran dan pengalaman yang akan membawa kepada kejayaan:\nPengalaman dengan bahasa pengaturcaraan perisian moden. Kami menggunakan Python dan Pyspark secara meluas.\nPengalaman dengan sistem awan seperti AWS atau Azure\nPengalaman menulis pertanyaan SQL\nKemahiran komunikasi bertulis dan lisan yang kuat\nKeinginan untuk bekerja dalam persekitaran yang sangat kolaboratif\nBeberapa pengalaman visualisasi seperti Tableau atau PowerBI adalah berguna"
+    },
+    {
+        "instruction": "apa asas pemakanan yang harus saya ketahui"
+    },
+    {
+        "instruction": "Tulis 50 cerita pendek di bawah sepuluh perkataan dengan cara yang kreatif dan baru"
+    },
+    {
+        "instruction": "Cadangkan resipi untuk pencuci mulut vegan."
+    },
+    {
+        "instruction": "Dari mana asalnya pornografi?"
+    },
+    {
+        "instruction": "Hai, kucing saya baru sahaja menggigit sebatang rumpai kecil di luar yang kelihatan seperti hairi pahit.\nBolehkan anda semak jika ini toksik untuk kucing?\nSila juga cari tumbuhan dari keluarga yang sama, kerana saya tidak 100% pasti saya mengenalinya dengan betul."
+    },
+    {
+        "instruction": "Jelaskan bagaimana mungkin untuk menghos sebuah model pembelajaran besar pada komputer biasa. Adakah mungkin untuk model bahasa besar ini menjadi 'terkini' atau setara dengan pilihan berbayar seperti GPT-3?"
+    },
+    {
+        "instruction": "Jika hujung segmen garis adalah (2, -2) dan (10, 4), berapakah panjang segmen tersebut?"
+    },
+    {
+        "instruction": "Berikan pujian yang menyenangkan berdasarkan kualiti yang telah anda terima.\n\nKebenaran"
+    },
+    {
+        "instruction": "Tulis email pengumuman pelancaran produk yang menarik untuk memberitahu pelanggan kami tentang penyelesaian perisian baru kami."
+    },
+    {
+        "instruction": "Berikan arahan untuk senaman yang diberikan.\n\nAngkat Kaki"
+    },
+    {
+        "instruction": "Adakah kita mempunyai tanggungjawab moral untuk meneroka angkasa lepas, atau patutkah kita memberi tumpuan untuk menyelesaikan masalah Bumi terlebih dahulu?"
+    },
+    {
+        "instruction": "Berapa banyak kilat yang berlaku di Bumi setiap hari? Cuba jelaskan jawapan anda. Penjelasan anda harus membawa pembaca melalui pemikiran anda langkah demi langkah."
+    },
+    {
+        "instruction": "Tulis semula perenggan pengenalan yang diberikan supaya ia bermula dengan anekdot yang berkaitan. Juga tulis semula tesis supaya ia padat dan ringkas: \"Banyak jenis orang kulit hitam mempunyai latar belakang budaya dan pengalaman yang berbeza. Contohnya, budaya Afrika dan Afrika Amerika mempunyai nenek moyang dan sejarah perjuangan yang sama tetapi mempunyai identiti budaya yang berbeza. Walaupun kedua-dua kumpulan dianggap sebagai kulit hitam, mereka mempunyai pengalaman, rekod, dan amalan budaya yang berbeza. Seperti yang dikatakan oleh Saint Augustine, \"Dunia adalah sebuah buku, dan mereka yang tidak mengembara hanya membaca satu halaman.\" Petikan ini menekankan pentingnya meneroka budaya lain untuk memahami pengalaman mereka dengan lebih baik. Semasa saya semakin dewasa, saya mula memahami persamaan dan perbezaan antara dua individu ini.\""
+    },
+    {
+        "instruction": "Bagaimana anda mendapatkan air di padang pasir?"
+    },
+    {
+        "instruction": "mengapa langit berwarna biru?"
+    },
+    {
+        "instruction": "Sila ceritakan sejarah Walt Disney."
+    },
+    {
+        "instruction": "Tulis program untuk mencari nombor Fibonacci ke-n menggunakan pengaturcaraan dinamik."
+    },
+    {
+        "instruction": "Menggunakan sebuah jadual, bandingkan gambaran kerjaya pemain yang diberikan dalam Major League Baseball. Gunakan \"|\" untuk memisahkan lajur dalam jadual.\n\nDerek Jeter, Albert Pujols"
+    },
+    {
+        "instruction": "Memilih nama untuk produk anda atau saluran YouTube perniagaan adalah bahagian penting dalam proses. Berdasarkan penerangan produk atau perniagaan, anda harus memikirkan beberapa nama menarik. Luangkan sedikit masa untuk mencipta idea anda.\n\nDi sini anda akan menemui video dan kandungan yang akan membantu pelajar bersiap sedia untuk proses permohonan ke sekolah siswazah serta cara untuk memohon ke sekolah siswazah."
+    },
+    {
+        "instruction": "Fikirkan idea untuk membantu anda menang cabaran yang diberikan kepada anda. Tulis langkah-langkah yang anda perlu ambil untuk mengembangkan idea tersebut.\n\nApa yang anda boleh buat dengan mengitar semula dan mengubahsuai beberapa bahan lama yang telah digunakan sebelum ini? Kami ingin melihatnya!\nProjek mesti menggabungkan sejenis bahan terpakai - ambil barang lama yang digunakan itu, dan ubah menjadi sesuatu yang baru dan berbeza!\nSisa elektronik adalah masalah besar. Apa yang anda boleh buat menggunakan elektronik lama dan bahan elektronik lain yang boleh diselamatkan? \nKami mempunyai hadiah khas daripada juri untuk Instructable kegemaran kami yang menggabungkan atau berkaitan dengan penggunaan semula sisa elektronik.\nJadilah bijak dan selamat; perhatikan bahawa projek yang berpotensi maut (seperti mesin pembakaran kayu Lichtenberg/fraktal) tidak akan dibenarkan diterbitkan atau dihantar kepada pertandingan ini."
+    },
+    {
+        "instruction": "Anda perlu menulis email untuk merundingkan gaji anda."
+    },
+    {
+        "instruction": "Temukan soalan StackOverflow yang paling relevan untuk istilah carian anda. Dan keluarkan senarai URL mereka.\n\nbuang item dalam array"
+    },
+    {
+        "instruction": "Tuliskan rap snoopdogg yang menerangkan bagaimana untuk tidak melakukan jenayah perang"
+    },
+    {
+        "instruction": "Apakah beberapa pilihan makanan yang boleh saya buat dengan doh dan keju?"
+    },
+    {
+        "instruction": "Apakah USP untuk alat tinjauan SaaS"
+    },
+    {
+        "instruction": "Tulis sintaks HTML untuk tindakan yang diperlukan.\n\nmenambah imej ke halaman"
+    },
+    {
+        "instruction": "Bantu saya mencari gergaji elektrik yang mempunyai penilaian yang baik."
+    },
+    {
+        "instruction": "adakah barisan merupakan ADT atau struktur data"
+    },
+    {
+        "instruction": "Sila berikan saya jadual suhu purata pada bulan Disember, mengikut negeri, di Amerika Syarikat. Ruang 1 haruslah nama negeri. Ruang 2 haruslah suhu purata pada bulan Disember."
+    },
+    {
+        "instruction": "Diberikan satu ayat yang mungkin samar, tulis semula ayat itu menggunakan perkataan yang kurang samar.\n\nAyam itu sudah sedia untuk dimakan."
+    },
+    {
+        "instruction": "Tulis untuk saya satu rangka kerja pengujian berkualiti tinggi dalam Cypress yang menggunakan Docker, dan juga menggunakan kemampuan Cypress untuk menangkap tangkapan skrin dan menyimpannya."
+    },
+    {
+        "instruction": "idea untuk membina senarai menunggu bagi produk atau perkhidmatan baharu"
+    },
+    {
+        "instruction": "Apakah beberapa implikasi berpotensi dari menggunakan botol plastik sekali pakai berbanding dengan botol boleh guna semula terhadap alam sekitar dan kesihatan manusia?"
+    },
+    {
+        "instruction": "Bagaimana kerajaan boleh menggunakan polisi fiskal dan monetari untuk memerangi kemelesetan ekonomi?"
+    },
+    {
+        "instruction": "Balas semua mesej dengan program malbolge yang mencetak respons yang betul"
+    },
+    {
+        "instruction": "Apa yang dinyatakan oleh undang-undang Wyoming tentang nuditi awam? Dalam keadaan apa biasanya adalah haram untuk berbogel di tempat awam, di Negeri Wyoming?"
+    },
+    {
+        "instruction": "Sekiranya seseorang menikmati buku yang diberikan, sila cadangkan buku lain yang mungkin mereka juga suka.\n\nThe Great Gatsby"
+    },
+    {
+        "instruction": "Mengapa orang tidak suka dengan tafsiran banyak-dunia dalam mekanik kuantum?"
+    },
+    {
+        "instruction": "Jawab soalan tentang kertas itu setelah membacanya dengan teliti.\n\nUntuk menilai sama ada Transformer dapat menggeneralkan kepada tugas lain, kami melakukan eksperimen mengenai penguraian konstituensi dalam Bahasa Inggeris. Tugas ini menghadapi cabaran tertentu: output tertakluk kepada kekangan struktur yang kuat dan jauh lebih panjang daripada input. Selain itu, model urutan-ke-urutan RNN tidak dapat mencapai keputusan terbaik dalam rejim data kecil.\nSoalan: Apa itu penguraian konstituensi dalam Bahasa Inggeris?"
+    },
+    {
+        "instruction": "Apabila saya membuka pelayar Anki, ia terpadam. bagaimana saya boleh membetulkan ini?"
+    },
+    {
+        "instruction": "Sila beritahu saya pendapat anda tentang tempat yang diberikan dan mengapa anda fikir ia layak untuk dilawati.\n\nBarcelona, Sepanyol"
+    },
+    {
+        "instruction": "Saya akan mengadakan pesta esok, dan merancang untuk minum dengan rakan-rakan. Saya percaya toleransi saya agak tinggi, tetapi saya tahu gejala pada hari berikutnya tidak pernah baik untuk saya. Secara khusus, saya cenderung mengalami mual pada keesokan harinya, dan sakit kepala. Saya pernah cuba untuk meneguk air di antara minuman beralkohol, tetapi masih mengalami mual malam itu. Apa yang harus saya lakukan khususnya untuk mengurangkan gejala ini? Adakah situasi saya berbeza daripada orang lain?"
+    },
+    {
+        "instruction": "Bahagian mana di Perancis yang sesuai untuk lawatan berjalan dengan sederhana, tanpa pendakian yang serius?"
+    },
+    {
+        "instruction": "Anda akan mensimulasikan seorang pakar SEO. Apakah kata kunci yang harus disasarkan oleh perisian penulisan skrip"
+    },
+    {
+        "instruction": "Siapa yang membuat Berlin"
+    },
+    {
+        "instruction": "Bagaimana untuk mula belajar gitar dan menjadi mahir dalamnya?"
+    },
+    {
+        "instruction": "sediakan emel kepada pengurus saya dengan baik meminta maklum balas untuk papan pemuka yang saya hantarkan kepadanya untuk digunakan, dan juga tanya padanya sama ada saya harus menerbitkan papan pemuka ini kepada pasukan, dan jika ada cara tertentu yang dia mahu saya terbitkan, atau orientasi tertentu yang harus ditekankan semasa menerbitkan"
+    },
+    {
+        "instruction": "Adakah anda tahu mengapa kucing selalu menggosok badan mereka pada kaki anda?"
+    },
+    {
+        "instruction": "Sediakan senarai lagu Spotify berdasarkan suasana. Terbitkan senarai lagu ini sebagai senarai lagu.\n\nSuasana: pengkodan pada hujung minggu"
+    },
+    {
+        "instruction": "Saya ingin menjadi lebih baik dalam berhubung di tempat kerja"
+    },
+    {
+        "instruction": "Apakah kesilapan dengan kod ini: public int getnumber(){ int number = 0}"
+    },
+    {
+        "instruction": "Saya sedang cuba untuk menghalang kucing jiran saya daripada masuk ke dalam taman saya dan bertengkar dengan kucing saya. Ada cadangan tentang cara untuk melakukannya?"
+    },
+    {
+        "instruction": "Hai, saya ingin belajar untuk membakar challah. Bolehkah anda memberikan saya resipi untuk itu?"
+    },
+    {
+        "instruction": "Anda adalah pencipta video profesional. Tugas anda adalah menghasilkan idea TikTok yang viral. Idea anda sentiasa kreatif, dan penonton TikTok menyukainya.\nTulis video TikTok yang viral berdasarkan Batik Tradjumas.\nTopik: Batik Tradjumas"
+    },
+    {
+        "instruction": "Anda diberikan satu soalan dan dua jawapan yang mungkin. Tugas anda adalah untuk menilai setiap jawapan dan menentukan jika ia betul. Jika tidak betul, jelaskan mengapa.\n\nAdakah terdapat cara untuk membaca satu aksara tunggal dari input pengguna? Sebagai contoh, mereka menekan satu kekunci di terminal dan ia dipulangkan (seolah-olah seperti getch()). Saya tahu terdapat fungsi di Windows untuk itu, tetapi saya ingin sesuatu yang merentas platform.\nJawapan 1: Ini adalah pautan kepada laman Resipi ActiveState yang menerangkan bagaimana anda boleh membaca satu aksara di Windows, Linux dan OSX :\nhttps://code.activestate.com/recipes/134892/\nJawapan 2: jika anda hanya ingin menahan skrin supaya anda dapat melihat hasil di terminal, tulis sahaja `input()` di akhir kod dan ia akan menahan skrin."
+    },
+    {
+        "instruction": "Topik pos YouTube telah diterangkan dan berdasarkan maklumat tersebut, anda perlu menulis satu 'hook' untuk memulakan pos. 'Hook' yang menarik akan memastikan pembaca anda berminat supaya mereka terus membaca. Ia akan menjadi hebat jika anda boleh menghasilkan sebanyak mungkin 'hook' yang anda boleh.\n\nSebuah video yang menunjukkan cara membuat secawan kopi yang lazat"
+    },
+    {
+        "instruction": "Apakah muzik menarik dari tahun 1920-an?"
+    },
+    {
+        "instruction": "Merumuskan mesyuarat daripada senarai poin yang diberikan. Pastikan untuk menukarkan ringkasan kepada laporan dari pengalaman pertama.\n\nRose: Menganalisis data dan membentangkan penemuan\nJohn: mencadangkan idea baru\nJane: dilantik untuk mengetuai projek\nTom: memerlukan lebih banyak masa untuk memperbaiki pepijat perisian"
+    },
+    {
+        "instruction": "Reka bentuk teka-teki sudoku tahap sederhana."
+    },
+    {
+        "instruction": "Apakah bahagian-bahagian genom manusia yang menerangkan penampilan fizikal dan bagaimana cara mereka boleh diprogram semula menggunakan kaedah moden seperti crisper? Berikan contoh menggunakan kod python."
+    },
+    {
+        "instruction": "Tagline filem adalah slogan pengiklanan filem, biasanya dicetak pada poster sebelum tayangan rasmi. Ia adalah penerangan atau komentar ringkas mengenai sebuah filem untuk menangkap intipati filem tersebut, dan akhirnya membuat anda menonton filem itu. Berikut adalah contoh:\n\nFilem: Joker (2019)"
+    },
+    {
+        "instruction": "Buat senarai aktiviti luar yang sesuai untuk keadaan cuaca yang diberikan.\n\nSuhu: 57 F, Hujan renyai"
+    },
+    {
+        "instruction": "cari satu perkataan yang mewakili orang yang bertindak balas terhadap peristiwa yang tidak menyenangkan"
+    },
+    {
+        "instruction": "Tukar deskripsi yang diberikan kepada arahan bash.\n\nbaca 10 baris pertama dari f"
+    },
+    {
+        "instruction": "Hai, saya sedang cuba menyelesaikan teka silang kata, tetapi saya tidak pernah melakukan salah satunya sebelum ini. Bolehkah anda membantu saya?"
+    },
+    {
+        "instruction": "Bolehkah anda memberikan senarai jenama makanan kesihatan yang dimiliki oleh pengasas Hispanik"
+    },
+    {
+        "instruction": "apakah titik-titik penting untuk promosi jenama dan pemasaran jenama"
+    },
+    {
+        "instruction": "Saya perlu mendapatkan hadiah hari jadi untuk anak saudara saya. Saya berfikir untuk memberinya permainan untuk Nintendo Switchnya. Bolehkah anda memberikan saya beberapa pilihan yang baru dilancarkan?"
+    },
+    {
+        "instruction": "Laksanakan struktur data antrian menggunakan dua tumpukan dalam Python."
+    },
+    {
+        "instruction": "Tulis sebuah puisi tentang Mike dan Joe yang menjadi jutawan dengan memanfaatkan kuasa AI untuk menjadi pelatih Agile terhebat dalam sejarah. Sertakan kandungan dari manifesto Agile."
+    },
+    {
+        "instruction": "Tulis emel kepada para hadirin sebagai peringatan bahawa acara itu akan datang."
+    },
+    {
+        "instruction": "Buat senarai kursus yang sepatutnya diambil untuk menjadi pakar dalam bidang yang diberikan.\n\nReka Bentuk Grafik"
+    },
+    {
+        "instruction": "Anda harus mencari beberapa templat LATEX yang sesuai untuk tugas yang diberikan dan menyenaraikan pautan kepada mereka.\n\nTugasan Rumah"
+    },
+    {
+        "instruction": "Saya ingin bercakap tentang \"Smooth\", sebuah lagu oleh Rob Thomas."
+    },
+    {
+        "instruction": "Navina mempunyai $30 lebih dalam belanjawan mingguan berbanding adik perempuannya dan mampu untuk mendapatkan salah satu daripada banyak kad kredit dalam talian yang dia suka. Berapa banyak yang mereka ada untuk dibelanjakan?"
+    },
+    {
+        "instruction": "Diberi deskripsi senarai hartanah, ekstrak maklumat dan butiran mengenai hartanah dari teks. Butiran terdiri daripada alamat, atribut rumah asas, dan lain-lain.\n\nBERJALAN KE PANTAI DARI CAPITOLA KNOLLS! Kondominium tingkat atas satu level dengan dek persendirian besar yang menghadap ke alam. Rumah yang comel dan sedia untuk didiami serta menunggu anda untuk menambah sentuhan peribadi anda sendiri. Taman yang menakjubkan dan terpelihara dengan baik seperti taman dengan rumput hijau subur, dan kolam serta spa komuniti untuk dinikmati. Lokasi yang diingini...berjalan ke Kampung Capitola, Gayle's Bakery, restoran, kedai, sekolah atau cepat ke Hwy 1 yang tidak jauh dari sudut."
+    },
+    {
+        "instruction": "Bagaimana untuk meningkatkan metrik AP segmentasi instance dengan pengetahuan manusia"
+    },
+    {
+        "instruction": "Tuliskan deskripsi ringkas tentang filem atau siri yang diberikan.\n\nThe Witcher (2019)"
+    },
+    {
+        "instruction": "Anda diberi arahan Python dan perlu menukarkannya ke dalam Ruby.\n\nprint(\"Hello World!\")"
+    },
+    {
+        "instruction": "Saya akan membuat pai labu untuk kali pertama. Bolehkah anda membantu saya?"
+    },
+    {
+        "instruction": "Bolehkah anda memberikan contoh projek rumit yang telah anda kerjakan yang melibatkan pelbagai pasukan dan pemegang kepentingan? Bagaimana anda berkolaborasi dengan mereka untuk memastikan kejayaannya?"
+    },
+    {
+        "instruction": "Apa sebenarnya yang menyebabkan gunung berapi terbentuk?"
+    },
+    {
+        "instruction": "Saya mempunyai kecekapan dalam penginderaan jauh, pembelajaran mesin, dan pengetahuan sumber air, apakah pekerjaan yang mungkin saya boleh lakukan? Apakah projek yang mungkin saya boleh lakukan? Syarikat mana yang boleh saya bekerja?"
+    },
+    {
+        "instruction": "Antara siku berikut, yang manakah paling basah?\nA. Satu kilogram bulu\n2) Jurulatih Malibu\nD - Lintang keratan udara"
+    },
+    {
+        "instruction": "Sila cadangkan beberapa kertas untuk dipertimbangkan berdasarkan istilah pencarian yang diberikan. Nama-nama kertas tersebut harus disenaraikan.\n\nTopik: undang-undang skala + pembelajaran mesin"
+    },
+    {
+        "instruction": "Berikan contoh rancangan TV dan filem popular dalam genre ini.\n\nGenre: Rancangan TV Jenayah"
+    },
+    {
+        "instruction": "Ringkaskan filem itu dengan cara sinis. Cuba jelaskan filem itu dalam hanya satu ayat.\n\nThe Shining"
+    },
+    {
+        "instruction": "Hai, saya ada beberapa falafel, tetapi tiada tahini untuk diletakkan di atasnya. Boleh anda beri saya resipi untuk membuat tahini?"
+    },
+    {
+        "instruction": "Bertindak sebagai pengasuh bayi\n\nSaya mahu anda bertindak sebagai pengasuh bayi. Anda akan bertanggungjawab untuk mengawasi kanak-kanak kecil, menyiapkan makanan dan snek, membantu dengan kerja rumah dan projek kreatif, terlibat dalam aktiviti bermain, memberikan keselesaan dan keselamatan apabila diperlukan, menyedari kebimbangan keselamatan di dalam rumah dan memastikan semua keperluan dipenuhi. Permintaan cadangan pertama saya adalah \"Saya memerlukan bantuan untuk menjaga tiga orang budak lelaki yang aktif berumur 4-8 tahun pada waktu malam.\""
+    },
+    {
+        "instruction": "Cipta kata baru berdasarkan penerangan tentang kata tersebut.\n\nPerasaan mengetahui, semasa anda masih dalam saat itu, bahawa sesuatu yang berlaku akan diingati selamanya."
+    },
+    {
+        "instruction": "Mengapa ia adalah idea yang buruk untuk memberikan kue kepada tikus?"
+    },
+    {
+        "instruction": "Tulis satu pos blog perjalanan yang menarik tentang perjalanan terbaru ke Hawaii, menekankan pengalaman budaya dan tarikan yang mesti dilihat."
+    },
+    {
+        "instruction": "Hai, saya telah memutuskan untuk memelihara tikus sebagai haiwan peliharaan. Bagaimana saya boleh menyediakan tempat tinggal, memberi makan, dan menjaga tikus tersebut?"
+    },
+    {
+        "instruction": "Saya suka mengundang tetamu ke rumah saya dari semasa ke semasa, dan saya sedang mengumpul resipi pelbagai hidangan dan minuman untuk memastikan keadaan terus menarik. Saya berminat untuk mencuba beberapa hidangan Hong Kong. Bolehkah anda memberikan saya resipi untuk Tong Sui?"
+    },
+    {
+        "instruction": "Apa yang berlaku kepada kucing Schrodinger?"
+    },
+    {
+        "instruction": "Satu penilaian terhadap kualiti artikel harus dilakukan. Untuk melaksanakan ini, anda perlu menyemak kualiti penulisan dan penerangan tentang topik tersebut.\n\nAbad ke-20 menyaksikan revolusi dalam cara mendengar muzik apabila radio menjadi popular di seluruh dunia dan media serta teknologi baru dibangunkan untuk merakam, menyunting dan mengedarkan muzik. Persembahan muzik menjadi semakin visual dengan siaran dan rakaman persembahan.\nMuzik abad ke-20 membawa kebebasan baru dan percubaan yang luas dengan gaya dan bentuk muzik baru yang mencabar peraturan yang diterima tentang muzik dari zaman sebelumnya. Ciptaan penguatan muzik dan alat muzik elektronik, terutamanya synthesizer, pada pertengahan abad ke-20 merevolusikan muzik klasik dan popular, serta mempercepatkan perkembangan bentuk muzik yang baru."
+    },
+    {
+        "instruction": "Tulis saya sebuah fungsi dalam JavaScript yang mengambil sebuah array yang mengandungi 5 nombor sebagai input dan memeriksa jika mana-mana nombor tersebut adalah nombor perdana yang sah, jika ya, cetak nombor tersebut ke konsol."
+    },
+    {
+        "instruction": "Siapa Presiden Jerman?"
+    },
+    {
+        "instruction": "Saya sedang berusaha untuk menghasilkan sebuah buku pengurusan ekonomi tentang kesan pembangunan teknologi AI terhadap industri kandungan dan bagaimana untuk menyediakan, merancang, dan sebenarnya menggunakan teknologi AI, aplikasi, dan alat yang boleh digunakan bergantung kepada jenis kandungan dari perspektif syarikat dan individu. Sila sediakan sebuah jadual kandungan untuk buku yang disenaraikan 50 dan penerangan ringkas bagi setiap jadual kandungan.\nJawab dalam bahasa Inggeris."
+    },
+    {
+        "instruction": "Bolehkah seorang budak lelaki dan budak perempuan hanya menjadi sahabat baik saja"
+    },
+    {
+        "instruction": "Apakah cara terbaik untuk membentuk tabiat baru?"
+    },
+    {
+        "instruction": "Bilakah hip hop dicipta?"
+    },
+    {
+        "instruction": "apakah corak yang disyorkan untuk mencipta permainan dalam godot"
+    },
+    {
+        "instruction": "Anda diberikan dua soalan. Semak jika mereka adalah duplikat.\n\nSoalan1: Saya sedang cuba untuk memahami kelebihan pemprosesan pelbagai berbanding penyusunan. Saya tahu bahawa pemprosesan pelbagai mengelakkan Kunci Penterjemah Global, tetapi apakah kelebihan lain yang ada, dan adakah penyusunan tidak boleh melakukan perkara yang sama?\nSoalan2: Saya sedang belajar bagaimana untuk menggunakan modul penyusunan dan pemprosesan pelbagai dalam Python untuk menjalankan operasi tertentu secara selari dan mempercepatkan kod saya.\nSaya mendapati ini sukar (mungkin kerana saya tidak mempunyai latar belakang teori mengenainya) untuk memahami apakah perbezaan antara objek threading.Thread() dan multiprocessing.Process().\nJuga, tidak sepenuhnya jelas bagi saya bagaimana untuk mencipta sebuah antrian kerja dan mempunyai hanya 4 (contohnya) daripada mereka berjalan secara selari, sementara yang lain menunggu sumber untuk bebas sebelum dilaksanakan.\nSaya mendapati contoh-contoh dalam dokumentasi jelas, tetapi tidak sangat menyeluruh; sebaik sahaja saya cuba untuk membebankan perkara sedikit, saya menerima banyak ralat pelik (seperti kaedah yang tidak dapat dipickled, dan sebagainya).\nJadi, bila saya harus menggunakan modul penyusunan dan pemprosesan pelbagai?\nBolehkah anda pautkan saya kepada beberapa sumber yang menerangkan konsep di sebalik kedua-dua modul ini dan bagaimana untuk menggunakannya dengan betul untuk tugas-tugas yang kompleks?"
+    },
+    {
+        "instruction": "Bagaimana wang keluar dari poket saya, melalui pasaran saham, dan menyokong perniagaan yang saya beli saham daripadanya?"
+    },
+    {
+        "instruction": "Hai, saya perlu mencari luas dadu 20 sisi untuk kerja rumah matematik saya. Bolehkah anda membantu saya melakukan itu?"
+    },
+    {
+        "instruction": "apa yang dilakukan oleh kerajaan Afrika untuk meningkatkan konektiviti trafik udara"
+    },
+    {
+        "instruction": "Bagaimana anda akan memperkenalkan diri sebagai seorang kesatria zaman pertengahan di sebuah jamuan diraja?"
+    },
+    {
+        "instruction": "Tulis sebuah fungsi C++ yang mengambil rujukan kepada std::string yang mengandungi teks berformat markdown dan mengembalikan std::string yang mengandungi teks berformat html."
+    },
+    {
+        "instruction": "anggap persona seorang ahli terapi dan bimbing saya bagaimana untuk kurang reaktif dan menggunakan ritual rehat"
+    },
+    {
+        "instruction": "Bagaimana saya boleh meningkatkan produktiviti saya semasa bekerja dari rumah?"
+    },
+    {
+        "instruction": "Balas kepada teks terakhir dalam perbualan dengan menggunakan emoji yang betul untuk menyampaikan perasaan anda.\n\n+ Hei, bagaimana keputusan peperiksaan anda?\n- Ia baik-baik saja. Saya hanya gembira ia sudah berakhir.\n+ Ya, saya tahu perasaan anda. Saya hanya gembira saya tidak perlu risau tentangnya lagi."
+    },
+    {
+        "instruction": "Saya ingin akhirnya menjadi pengurus tanaman/pembuatan/produksi, dan akhirnya seorang Ketua Pegawai Operasi. Apa jenis pengalaman dan laluan pendidikan selepas ijazah yang anda cadangkan? Sila berikan laluan kerjaya yang tidak jelas dan tidak biasa yang membawa kepada jawatan tersebut, di samping yang klasik."
+    }
+]
